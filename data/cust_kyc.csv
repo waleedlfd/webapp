@@ -1,0 +1,1501 @@
+Customer_id,Education Level,City,Age,Marital Status,Business
+1,Intermediate/A-level,Karachi,36,Married,Food manufacturing
+2,Bachelors,Lahore,36,Married,Cotton
+3,Intermediate/A-level,Islamabad,30,Single,Chemicals & Fertilizers
+4,Intermediate/A-level,Multan,45,Single,Vegetable Oil and Ghee Mills
+5,Masters or Higher,Lahore,53,Married,Food manufacturing
+6,Matric/O-level,Islamabad,30,Widowed,Vegetable Oil and Ghee Mills
+7,Intermediate/A-level,Karachi,40,Widowed,Cotton
+8,Matric/O-level,Islamabad,47,Single,Mining & Minerals
+9,Bachelors,Lahore,37,Widowed,Food manufacturing
+10,Matric/O-level,Lahore,38,Single,Vegetable Oil and Ghee Mills
+11,Bachelors,Islamabad,37,Married,Mining & Minerals
+12,Bachelors,Islamabad,47,Widowed,Casting of Iron & Steel
+13,Matric/O-level,Lahore,43,Married,Crude Oil Refining
+14,Bachelors,Karachi,45,Single,Cotton
+15,Masters or Higher,Lahore,36,Widowed,Vegetable Oil and Ghee Mills
+16,Bachelors,Islamabad,45,Married,Mining & Minerals
+17,Bachelors,Lahore,31,Married,Food and Beverages
+18,Intermediate/A-level,Lahore,34,Married,Casting of Iron & Steel
+19,Intermediate/A-level,Lahore,36,Single,Cotton
+20,Bachelors,Islamabad,32,Widowed,Casting of Iron & Steel
+21,Masters or Higher,Islamabad,40,Single,Mining & Minerals
+22,Matric/O-level,Karachi,32,Married,Food manufacturing
+23,Intermediate/A-level,Karachi,38,Single,Vegetable Oil and Ghee Mills
+24,Bachelors,Islamabad,32,Married,Food and Beverages
+25,Intermediate/A-level,Lahore,35,Married,Food and Beverages
+26,Intermediate/A-level,Karachi,41,Widowed,Chemicals & Fertilizers
+27,Masters or Higher,Multan,34,Widowed,Mining & Minerals
+28,Intermediate/A-level,Faisalabad,39,Single,Vegetable Oil and Ghee Mills
+29,Matric/O-level,Lahore,37,Married,Casting of Iron & Steel
+30,Masters or Higher,Karachi,43,Single,Chemicals & Fertilizers
+31,Bachelors,Islamabad,38,Single,Mining & Minerals
+32,Intermediate/A-level,Multan,48,Single,Vegetable Oil and Ghee Mills
+33,Bachelors,Multan,30,Widowed,Food and Beverages
+34,Bachelors,Karachi,40,Widowed,Food manufacturing
+35,Bachelors,Lahore,36,Widowed,Casting of Iron & Steel
+36,Masters or Higher,Lahore,39,Single,Casting of Iron & Steel
+37,Intermediate/A-level,Multan,35,Single,Crude Oil Refining
+38,Bachelors,Lahore,39,Single,Casting of Iron & Steel
+39,Matric/O-level,Multan,41,Widowed,Vegetable Oil and Ghee Mills
+40,Bachelors,Karachi,33,Married,Vegetable Oil and Ghee Mills
+41,Matric/O-level,Lahore,41,Single,Cotton
+42,Matric/O-level,Karachi,38,Married,Vegetable Oil and Ghee Mills
+43,Masters or Higher,Multan,42,Widowed,Food manufacturing
+44,Matric/O-level,Faisalabad,42,Widowed,Vegetable Oil and Ghee Mills
+45,Matric/O-level,Karachi,32,Married,Crude Oil Refining
+46,Masters or Higher,Islamabad,41,Married,Vegetable Oil and Ghee Mills
+47,Intermediate/A-level,Karachi,49,Married,Food manufacturing
+48,Intermediate/A-level,Lahore,38,Married,Food manufacturing
+49,Bachelors,Faisalabad,43,Single,Vegetable Oil and Ghee Mills
+50,Intermediate/A-level,Faisalabad,41,Single,Crude Oil Refining
+51,Bachelors,Lahore,41,Single,Cotton
+52,Intermediate/A-level,Lahore,42,Married,Chemicals & Fertilizers
+53,Masters or Higher,Faisalabad,40,Married,Food manufacturing
+54,Masters or Higher,Lahore,39,Married,Crude Oil Refining
+55,Intermediate/A-level,Lahore,38,Married,Mining & Minerals
+56,Intermediate/A-level,Lahore,40,Widowed,Casting of Iron & Steel
+57,Bachelors,Lahore,27,Married,Cotton
+58,Intermediate/A-level,Islamabad,40,Widowed,Casting of Iron & Steel
+59,Matric/O-level,Karachi,39,Married,Food manufacturing
+60,Masters or Higher,Lahore,47,Widowed,Vegetable Oil and Ghee Mills
+61,Intermediate/A-level,Lahore,30,Widowed,Vegetable Oil and Ghee Mills
+62,Bachelors,Islamabad,41,Married,Mining & Minerals
+63,Matric/O-level,Karachi,34,Single,Crude Oil Refining
+64,Intermediate/A-level,Karachi,40,Married,Cotton
+65,Bachelors,Lahore,37,Widowed,Vegetable Oil and Ghee Mills
+66,Bachelors,Lahore,44,Married,Casting of Iron & Steel
+67,Matric/O-level,Karachi,32,Single,Food manufacturing
+68,Intermediate/A-level,Multan,37,Widowed,Cotton
+69,Masters or Higher,Multan,36,Widowed,Cotton
+70,Bachelors,Lahore,44,Married,Crude Oil Refining
+71,Masters or Higher,Lahore,45,Single,Mining & Minerals
+72,Masters or Higher,Multan,33,Widowed,Casting of Iron & Steel
+73,Intermediate/A-level,Lahore,42,Married,Crude Oil Refining
+74,Masters or Higher,Lahore,31,Widowed,Cotton
+75,Bachelors,Lahore,44,Married,Crude Oil Refining
+76,Intermediate/A-level,Lahore,44,Single,Mining & Minerals
+77,Intermediate/A-level,Karachi,28,Widowed,Crude Oil Refining
+78,Matric/O-level,Islamabad,39,Single,Casting of Iron & Steel
+79,Bachelors,Karachi,41,Single,Crude Oil Refining
+80,Masters or Higher,Karachi,39,Single,Vegetable Oil and Ghee Mills
+81,Bachelors,Lahore,31,Single,Mining & Minerals
+82,Bachelors,Islamabad,46,Single,Casting of Iron & Steel
+83,Masters or Higher,Islamabad,45,Single,Vegetable Oil and Ghee Mills
+84,Masters or Higher,Lahore,53,Single,Mining & Minerals
+85,Intermediate/A-level,Multan,42,Widowed,Cotton
+86,Matric/O-level,Karachi,34,Single,Crude Oil Refining
+87,Bachelors,Faisalabad,26,Single,Crude Oil Refining
+88,Bachelors,Lahore,32,Widowed,Casting of Iron & Steel
+89,Intermediate/A-level,Karachi,43,Widowed,Vegetable Oil and Ghee Mills
+90,Bachelors,Karachi,43,Married,Cotton
+91,Masters or Higher,Islamabad,43,Married,Mining & Minerals
+92,Bachelors,Lahore,40,Widowed,Cotton
+93,Bachelors,Lahore,35,Married,Vegetable Oil and Ghee Mills
+94,Intermediate/A-level,Islamabad,40,Widowed,Vegetable Oil and Ghee Mills
+95,Bachelors,Lahore,37,Single,Mining & Minerals
+96,Masters or Higher,Multan,38,Single,Casting of Iron & Steel
+97,Masters or Higher,Lahore,44,Married,Food and Beverages
+98,Masters or Higher,Karachi,40,Single,Casting of Iron & Steel
+99,Intermediate/A-level,Karachi,45,Married,Casting of Iron & Steel
+100,Bachelors,Islamabad,36,Widowed,Food manufacturing
+101,Bachelors,Faisalabad,43,Widowed,Crude Oil Refining
+102,Intermediate/A-level,Islamabad,42,Single,Vegetable Oil and Ghee Mills
+103,Bachelors,Karachi,38,Single,Chemicals & Fertilizers
+104,Masters or Higher,Lahore,46,Widowed,Casting of Iron & Steel
+105,Bachelors,Karachi,36,Single,Chemicals & Fertilizers
+106,Bachelors,Karachi,46,Married,Crude Oil Refining
+107,Bachelors,Lahore,24,Single,Mining & Minerals
+108,Bachelors,Karachi,34,Widowed,Vegetable Oil and Ghee Mills
+109,Masters or Higher,Islamabad,44,Widowed,Vegetable Oil and Ghee Mills
+110,Masters or Higher,Islamabad,36,Widowed,Food manufacturing
+111,Bachelors,Faisalabad,46,Single,Crude Oil Refining
+112,Masters or Higher,Islamabad,42,Single,Mining & Minerals
+113,Masters or Higher,Lahore,36,Widowed,Cotton
+114,Bachelors,Faisalabad,41,Single,Mining & Minerals
+115,Masters or Higher,Islamabad,34,Married,Food manufacturing
+116,Intermediate/A-level,Karachi,43,Widowed,Casting of Iron & Steel
+117,Bachelors,Karachi,38,Married,Cotton
+118,Bachelors,Karachi,43,Single,Vegetable Oil and Ghee Mills
+119,Masters or Higher,Islamabad,49,Single,Vegetable Oil and Ghee Mills
+120,Bachelors,Multan,48,Widowed,Vegetable Oil and Ghee Mills
+121,Masters or Higher,Faisalabad,38,Single,Chemicals & Fertilizers
+122,Matric/O-level,Karachi,40,Married,Vegetable Oil and Ghee Mills
+123,Bachelors,Faisalabad,31,Married,Cotton
+124,Matric/O-level,Karachi,41,Widowed,Food manufacturing
+125,Bachelors,Karachi,33,Single,Chemicals & Fertilizers
+126,Masters or Higher,Karachi,41,Married,Food manufacturing
+127,Intermediate/A-level,Karachi,32,Widowed,Mining & Minerals
+128,Masters or Higher,Islamabad,40,Widowed,Vegetable Oil and Ghee Mills
+129,Bachelors,Karachi,45,Single,Vegetable Oil and Ghee Mills
+130,Intermediate/A-level,Lahore,48,Married,Casting of Iron & Steel
+131,Bachelors,Karachi,40,Single,Vegetable Oil and Ghee Mills
+132,Masters or Higher,Lahore,38,Married,Vegetable Oil and Ghee Mills
+133,Matric/O-level,Karachi,37,Married,Cotton
+134,Intermediate/A-level,Islamabad,37,Single,Crude Oil Refining
+135,Masters or Higher,Lahore,42,Married,Vegetable Oil and Ghee Mills
+136,Intermediate/A-level,Faisalabad,43,Single,Food manufacturing
+137,Intermediate/A-level,Faisalabad,47,Widowed,Cotton
+138,Intermediate/A-level,Multan,39,Widowed,Cotton
+139,Bachelors,Lahore,31,Single,Vegetable Oil and Ghee Mills
+140,Bachelors,Lahore,48,Widowed,Food and Beverages
+141,Masters or Higher,Karachi,40,Married,Food manufacturing
+142,Intermediate/A-level,Multan,34,Married,Cotton
+143,Intermediate/A-level,Lahore,41,Single,Cotton
+144,Masters or Higher,Karachi,41,Single,Cotton
+145,Bachelors,Islamabad,39,Widowed,Cotton
+146,Intermediate/A-level,Lahore,37,Married,Cotton
+147,Masters or Higher,Multan,40,Single,Vegetable Oil and Ghee Mills
+148,Intermediate/A-level,Lahore,44,Married,Vegetable Oil and Ghee Mills
+149,Bachelors,Karachi,35,Widowed,Casting of Iron & Steel
+150,Intermediate/A-level,Karachi,40,Widowed,Mining & Minerals
+151,Bachelors,Islamabad,42,Widowed,Chemicals & Fertilizers
+152,Intermediate/A-level,Lahore,41,Single,Food manufacturing
+153,Bachelors,Islamabad,42,Widowed,Casting of Iron & Steel
+154,Intermediate/A-level,Islamabad,30,Widowed,Food and Beverages
+155,Bachelors,Karachi,47,Widowed,Casting of Iron & Steel
+156,Bachelors,Karachi,44,Widowed,Mining & Minerals
+157,Intermediate/A-level,Islamabad,36,Widowed,Mining & Minerals
+158,Intermediate/A-level,Faisalabad,46,Single,Cotton
+159,Intermediate/A-level,Lahore,37,Single,Mining & Minerals
+160,Bachelors,Lahore,39,Married,Vegetable Oil and Ghee Mills
+161,Matric/O-level,Karachi,35,Single,Casting of Iron & Steel
+162,Masters or Higher,Karachi,41,Single,Cotton
+163,Intermediate/A-level,Islamabad,32,Single,Chemicals & Fertilizers
+164,Masters or Higher,Lahore,34,Married,Food manufacturing
+165,Matric/O-level,Karachi,37,Married,Food manufacturing
+166,Intermediate/A-level,Lahore,46,Married,Cotton
+167,Bachelors,Karachi,46,Married,Food manufacturing
+168,Intermediate/A-level,Lahore,35,Single,Cotton
+169,Bachelors,Faisalabad,34,Widowed,Cotton
+170,Bachelors,Islamabad,41,Single,Food manufacturing
+171,Masters or Higher,Karachi,44,Single,Food manufacturing
+172,Bachelors,Karachi,51,Single,Vegetable Oil and Ghee Mills
+173,Intermediate/A-level,Islamabad,35,Married,Mining & Minerals
+174,Bachelors,Lahore,44,Single,Food manufacturing
+175,Masters or Higher,Karachi,46,Widowed,Casting of Iron & Steel
+176,Bachelors,Karachi,42,Single,Food manufacturing
+177,Intermediate/A-level,Faisalabad,45,Single,Chemicals & Fertilizers
+178,Bachelors,Karachi,45,Widowed,Crude Oil Refining
+179,Masters or Higher,Lahore,30,Single,Vegetable Oil and Ghee Mills
+180,Bachelors,Karachi,36,Married,Crude Oil Refining
+181,Bachelors,Lahore,42,Married,Crude Oil Refining
+182,Bachelors,Karachi,42,Married,Mining & Minerals
+183,Bachelors,Faisalabad,41,Married,Chemicals & Fertilizers
+184,Bachelors,Karachi,33,Single,Vegetable Oil and Ghee Mills
+185,Intermediate/A-level,Karachi,42,Widowed,Vegetable Oil and Ghee Mills
+186,Masters or Higher,Multan,32,Widowed,Cotton
+187,Intermediate/A-level,Karachi,36,Married,Mining & Minerals
+188,Bachelors,Karachi,43,Single,Food manufacturing
+189,Bachelors,Islamabad,43,Single,Casting of Iron & Steel
+190,Bachelors,Islamabad,46,Single,Cotton
+191,Masters or Higher,Lahore,44,Single,Cotton
+192,Matric/O-level,Karachi,36,Married,Vegetable Oil and Ghee Mills
+193,Intermediate/A-level,Karachi,37,Widowed,Food manufacturing
+194,Masters or Higher,Karachi,40,Single,Food manufacturing
+195,Masters or Higher,Karachi,30,Married,Vegetable Oil and Ghee Mills
+196,Intermediate/A-level,Lahore,40,Single,Casting of Iron & Steel
+197,Intermediate/A-level,Islamabad,41,Married,Food manufacturing
+198,Masters or Higher,Karachi,47,Married,Cotton
+199,Matric/O-level,Lahore,43,Married,Vegetable Oil and Ghee Mills
+200,Intermediate/A-level,Lahore,38,Single,Vegetable Oil and Ghee Mills
+201,Intermediate/A-level,Lahore,43,Single,Vegetable Oil and Ghee Mills
+202,Intermediate/A-level,Multan,43,Single,Vegetable Oil and Ghee Mills
+203,Matric/O-level,Lahore,45,Widowed,Food manufacturing
+204,Masters or Higher,Karachi,41,Widowed,Casting of Iron & Steel
+205,Bachelors,Islamabad,40,Married,Vegetable Oil and Ghee Mills
+206,Intermediate/A-level,Islamabad,42,Single,Food manufacturing
+207,Intermediate/A-level,Lahore,39,Widowed,Food manufacturing
+208,Bachelors,Lahore,42,Widowed,Cotton
+209,Bachelors,Karachi,37,Widowed,Cotton
+210,Intermediate/A-level,Lahore,38,Widowed,Casting of Iron & Steel
+211,Intermediate/A-level,Lahore,37,Married,Crude Oil Refining
+212,Bachelors,Karachi,31,Single,Vegetable Oil and Ghee Mills
+213,Bachelors,Islamabad,42,Married,Food manufacturing
+214,Bachelors,Islamabad,36,Single,Vegetable Oil and Ghee Mills
+215,Matric/O-level,Karachi,34,Widowed,Vegetable Oil and Ghee Mills
+216,Matric/O-level,Islamabad,36,Widowed,Food manufacturing
+217,Intermediate/A-level,Multan,38,Single,Mining & Minerals
+218,Bachelors,Lahore,39,Single,Mining & Minerals
+219,Matric/O-level,Faisalabad,39,Married,Food and Beverages
+220,Bachelors,Lahore,38,Widowed,Cotton
+221,Matric/O-level,Faisalabad,41,Married,Food manufacturing
+222,Masters or Higher,Islamabad,47,Married,Food manufacturing
+223,Bachelors,Lahore,47,Single,Food manufacturing
+224,Masters or Higher,Islamabad,47,Widowed,Chemicals & Fertilizers
+225,Intermediate/A-level,Karachi,43,Widowed,Chemicals & Fertilizers
+226,Bachelors,Islamabad,33,Single,Casting of Iron & Steel
+227,Bachelors,Lahore,39,Single,Food and Beverages
+228,Intermediate/A-level,Karachi,45,Married,Cotton
+229,Masters or Higher,Karachi,30,Widowed,Food manufacturing
+230,Matric/O-level,Karachi,33,Married,Food manufacturing
+231,Intermediate/A-level,Lahore,41,Widowed,Cotton
+232,Intermediate/A-level,Karachi,44,Widowed,Cotton
+233,Masters or Higher,Karachi,32,Single,Casting of Iron & Steel
+234,Matric/O-level,Islamabad,48,Married,Chemicals & Fertilizers
+235,Intermediate/A-level,Multan,35,Widowed,Food manufacturing
+236,Bachelors,Multan,39,Single,Food manufacturing
+237,Matric/O-level,Islamabad,42,Married,Vegetable Oil and Ghee Mills
+238,Matric/O-level,Lahore,49,Married,Cotton
+239,Intermediate/A-level,Karachi,44,Single,Mining & Minerals
+240,Masters or Higher,Karachi,47,Single,Vegetable Oil and Ghee Mills
+241,Bachelors,Lahore,43,Widowed,Cotton
+242,Bachelors,Lahore,36,Married,Vegetable Oil and Ghee Mills
+243,Masters or Higher,Lahore,34,Widowed,Mining & Minerals
+244,Bachelors,Lahore,32,Widowed,Food manufacturing
+245,Bachelors,Islamabad,36,Single,Food manufacturing
+246,Bachelors,Multan,39,Single,Cotton
+247,Bachelors,Lahore,34,Single,Casting of Iron & Steel
+248,Intermediate/A-level,Karachi,40,Married,Casting of Iron & Steel
+249,Masters or Higher,Lahore,38,Single,Vegetable Oil and Ghee Mills
+250,Bachelors,Lahore,45,Widowed,Food manufacturing
+251,Intermediate/A-level,Multan,35,Married,Vegetable Oil and Ghee Mills
+252,Intermediate/A-level,Karachi,44,Single,Cotton
+253,Intermediate/A-level,Multan,43,Married,Chemicals & Fertilizers
+254,Masters or Higher,Faisalabad,40,Married,Cotton
+255,Matric/O-level,Lahore,49,Widowed,Casting of Iron & Steel
+256,Bachelors,Lahore,46,Married,Mining & Minerals
+257,Masters or Higher,Lahore,28,Widowed,Cotton
+258,Masters or Higher,Lahore,30,Widowed,Cotton
+259,Bachelors,Karachi,37,Married,Food manufacturing
+260,Bachelors,Lahore,44,Married,Cotton
+261,Masters or Higher,Islamabad,41,Single,Vegetable Oil and Ghee Mills
+262,Intermediate/A-level,Islamabad,28,Married,Vegetable Oil and Ghee Mills
+263,Masters or Higher,Islamabad,41,Single,Food and Beverages
+264,Bachelors,Lahore,39,Single,Mining & Minerals
+265,Bachelors,Lahore,39,Single,Casting of Iron & Steel
+266,Matric/O-level,Karachi,40,Married,Cotton
+267,Intermediate/A-level,Lahore,38,Widowed,Casting of Iron & Steel
+268,Matric/O-level,Faisalabad,30,Single,Cotton
+269,Matric/O-level,Lahore,47,Widowed,Food and Beverages
+270,Masters or Higher,Islamabad,47,Married,Mining & Minerals
+271,Masters or Higher,Lahore,40,Single,Vegetable Oil and Ghee Mills
+272,Masters or Higher,Multan,35,Widowed,Casting of Iron & Steel
+273,Matric/O-level,Islamabad,44,Married,Mining & Minerals
+274,Matric/O-level,Lahore,45,Single,Cotton
+275,Intermediate/A-level,Lahore,30,Widowed,Casting of Iron & Steel
+276,Bachelors,Islamabad,38,Married,Vegetable Oil and Ghee Mills
+277,Bachelors,Islamabad,36,Married,Cotton
+278,Masters or Higher,Lahore,34,Married,Crude Oil Refining
+279,Bachelors,Lahore,50,Married,Vegetable Oil and Ghee Mills
+280,Masters or Higher,Lahore,37,Widowed,Casting of Iron & Steel
+281,Intermediate/A-level,Karachi,32,Widowed,Mining & Minerals
+282,Intermediate/A-level,Islamabad,41,Widowed,Food manufacturing
+283,Matric/O-level,Multan,39,Married,Food and Beverages
+284,Bachelors,Lahore,40,Single,Food and Beverages
+285,Bachelors,Karachi,46,Single,Chemicals & Fertilizers
+286,Intermediate/A-level,Faisalabad,36,Married,Food and Beverages
+287,Bachelors,Lahore,37,Married,Chemicals & Fertilizers
+288,Masters or Higher,Karachi,35,Married,Food manufacturing
+289,Matric/O-level,Faisalabad,39,Widowed,Vegetable Oil and Ghee Mills
+290,Bachelors,Islamabad,42,Widowed,Casting of Iron & Steel
+291,Intermediate/A-level,Islamabad,34,Married,Food and Beverages
+292,Intermediate/A-level,Islamabad,44,Widowed,Vegetable Oil and Ghee Mills
+293,Bachelors,Multan,38,Married,Food manufacturing
+294,Bachelors,Multan,35,Single,Casting of Iron & Steel
+295,Bachelors,Karachi,31,Single,Chemicals & Fertilizers
+296,Bachelors,Faisalabad,32,Single,Casting of Iron & Steel
+297,Matric/O-level,Karachi,39,Single,Cotton
+298,Bachelors,Multan,43,Single,Vegetable Oil and Ghee Mills
+299,Intermediate/A-level,Islamabad,34,Widowed,Chemicals & Fertilizers
+300,Matric/O-level,Faisalabad,42,Married,Chemicals & Fertilizers
+301,Bachelors,Karachi,37,Single,Crude Oil Refining
+302,Intermediate/A-level,Lahore,45,Widowed,Chemicals & Fertilizers
+303,Intermediate/A-level,Karachi,45,Single,Casting of Iron & Steel
+304,Masters or Higher,Islamabad,40,Single,Food manufacturing
+305,Intermediate/A-level,Faisalabad,30,Married,Mining & Minerals
+306,Intermediate/A-level,Islamabad,31,Single,Crude Oil Refining
+307,Intermediate/A-level,Islamabad,42,Single,Food manufacturing
+308,Intermediate/A-level,Islamabad,36,Widowed,Casting of Iron & Steel
+309,Intermediate/A-level,Karachi,25,Single,Chemicals & Fertilizers
+310,Intermediate/A-level,Multan,42,Married,Food and Beverages
+311,Bachelors,Lahore,43,Widowed,Vegetable Oil and Ghee Mills
+312,Intermediate/A-level,Islamabad,26,Married,Cotton
+313,Bachelors,Faisalabad,39,Married,Chemicals & Fertilizers
+314,Masters or Higher,Lahore,41,Single,Vegetable Oil and Ghee Mills
+315,Masters or Higher,Islamabad,49,Single,Chemicals & Fertilizers
+316,Bachelors,Karachi,41,Married,Food and Beverages
+317,Masters or Higher,Lahore,42,Widowed,Cotton
+318,Bachelors,Karachi,35,Widowed,Food and Beverages
+319,Bachelors,Multan,39,Married,Mining & Minerals
+320,Bachelors,Lahore,37,Single,Cotton
+321,Bachelors,Karachi,44,Single,Food manufacturing
+322,Intermediate/A-level,Islamabad,43,Widowed,Food manufacturing
+323,Intermediate/A-level,Lahore,39,Married,Vegetable Oil and Ghee Mills
+324,Bachelors,Lahore,39,Married,Vegetable Oil and Ghee Mills
+325,Matric/O-level,Islamabad,38,Married,Vegetable Oil and Ghee Mills
+326,Intermediate/A-level,Karachi,29,Married,Vegetable Oil and Ghee Mills
+327,Bachelors,Multan,40,Single,Food manufacturing
+328,Intermediate/A-level,Faisalabad,35,Widowed,Crude Oil Refining
+329,Bachelors,Karachi,36,Widowed,Mining & Minerals
+330,Masters or Higher,Islamabad,36,Single,Vegetable Oil and Ghee Mills
+331,Matric/O-level,Lahore,42,Single,Vegetable Oil and Ghee Mills
+332,Intermediate/A-level,Karachi,38,Single,Chemicals & Fertilizers
+333,Bachelors,Karachi,34,Married,Cotton
+334,Bachelors,Lahore,38,Single,Vegetable Oil and Ghee Mills
+335,Matric/O-level,Lahore,44,Widowed,Cotton
+336,Masters or Higher,Faisalabad,51,Single,Casting of Iron & Steel
+337,Bachelors,Faisalabad,42,Single,Vegetable Oil and Ghee Mills
+338,Masters or Higher,Islamabad,27,Widowed,Casting of Iron & Steel
+339,Intermediate/A-level,Karachi,48,Single,Casting of Iron & Steel
+340,Intermediate/A-level,Karachi,39,Widowed,Food manufacturing
+341,Masters or Higher,Karachi,30,Single,Crude Oil Refining
+342,Bachelors,Faisalabad,46,Single,Cotton
+343,Matric/O-level,Karachi,33,Married,Cotton
+344,Intermediate/A-level,Islamabad,37,Widowed,Cotton
+345,Masters or Higher,Islamabad,42,Single,Food and Beverages
+346,Bachelors,Islamabad,32,Married,Cotton
+347,Bachelors,Karachi,42,Widowed,Casting of Iron & Steel
+348,Masters or Higher,Islamabad,44,Married,Cotton
+349,Matric/O-level,Multan,42,Married,Food manufacturing
+350,Bachelors,Karachi,32,Widowed,Casting of Iron & Steel
+351,Masters or Higher,Lahore,44,Single,Cotton
+352,Intermediate/A-level,Islamabad,35,Widowed,Mining & Minerals
+353,Bachelors,Lahore,46,Married,Casting of Iron & Steel
+354,Bachelors,Islamabad,39,Single,Cotton
+355,Masters or Higher,Lahore,36,Single,Cotton
+356,Bachelors,Karachi,41,Married,Cotton
+357,Bachelors,Karachi,39,Widowed,Vegetable Oil and Ghee Mills
+358,Intermediate/A-level,Karachi,43,Married,Food and Beverages
+359,Intermediate/A-level,Lahore,41,Single,Food and Beverages
+360,Bachelors,Karachi,41,Married,Cotton
+361,Bachelors,Karachi,47,Married,Casting of Iron & Steel
+362,Masters or Higher,Islamabad,40,Single,Cotton
+363,Bachelors,Karachi,34,Single,Cotton
+364,Masters or Higher,Islamabad,37,Married,Food manufacturing
+365,Intermediate/A-level,Lahore,40,Married,Cotton
+366,Masters or Higher,Karachi,35,Married,Vegetable Oil and Ghee Mills
+367,Bachelors,Faisalabad,38,Single,Food manufacturing
+368,Bachelors,Karachi,42,Single,Crude Oil Refining
+369,Intermediate/A-level,Islamabad,36,Widowed,Cotton
+370,Bachelors,Islamabad,44,Widowed,Food manufacturing
+371,Bachelors,Lahore,33,Widowed,Cotton
+372,Masters or Higher,Multan,47,Married,Food manufacturing
+373,Masters or Higher,Multan,40,Widowed,Vegetable Oil and Ghee Mills
+374,Intermediate/A-level,Karachi,32,Married,Vegetable Oil and Ghee Mills
+375,Intermediate/A-level,Faisalabad,33,Widowed,Vegetable Oil and Ghee Mills
+376,Intermediate/A-level,Lahore,30,Single,Vegetable Oil and Ghee Mills
+377,Intermediate/A-level,Karachi,36,Married,Vegetable Oil and Ghee Mills
+378,Intermediate/A-level,Islamabad,38,Married,Food manufacturing
+379,Bachelors,Islamabad,36,Widowed,Crude Oil Refining
+380,Intermediate/A-level,Multan,35,Single,Cotton
+381,Intermediate/A-level,Islamabad,36,Married,Vegetable Oil and Ghee Mills
+382,Intermediate/A-level,Multan,42,Single,Casting of Iron & Steel
+383,Bachelors,Islamabad,36,Single,Food manufacturing
+384,Bachelors,Karachi,40,Widowed,Cotton
+385,Matric/O-level,Islamabad,43,Widowed,Vegetable Oil and Ghee Mills
+386,Bachelors,Islamabad,37,Married,Vegetable Oil and Ghee Mills
+387,Bachelors,Karachi,41,Married,Cotton
+388,Bachelors,Karachi,35,Single,Vegetable Oil and Ghee Mills
+389,Bachelors,Lahore,41,Widowed,Cotton
+390,Matric/O-level,Islamabad,43,Married,Food and Beverages
+391,Bachelors,Islamabad,42,Widowed,Chemicals & Fertilizers
+392,Bachelors,Karachi,41,Single,Crude Oil Refining
+393,Matric/O-level,Islamabad,40,Married,Crude Oil Refining
+394,Masters or Higher,Karachi,47,Widowed,Food manufacturing
+395,Bachelors,Multan,37,Single,Vegetable Oil and Ghee Mills
+396,Bachelors,Lahore,43,Married,Cotton
+397,Intermediate/A-level,Lahore,42,Widowed,Chemicals & Fertilizers
+398,Intermediate/A-level,Karachi,45,Single,Vegetable Oil and Ghee Mills
+399,Bachelors,Karachi,40,Widowed,Food and Beverages
+400,Masters or Higher,Islamabad,39,Single,Food and Beverages
+401,Bachelors,Islamabad,36,Widowed,Vegetable Oil and Ghee Mills
+402,Bachelors,Karachi,40,Widowed,Crude Oil Refining
+403,Masters or Higher,Karachi,34,Single,Crude Oil Refining
+404,Masters or Higher,Islamabad,33,Single,Vegetable Oil and Ghee Mills
+405,Masters or Higher,Karachi,42,Widowed,Food manufacturing
+406,Intermediate/A-level,Lahore,37,Married,Chemicals & Fertilizers
+407,Matric/O-level,Islamabad,29,Widowed,Vegetable Oil and Ghee Mills
+408,Bachelors,Multan,39,Single,Cotton
+409,Bachelors,Karachi,36,Widowed,Vegetable Oil and Ghee Mills
+410,Bachelors,Lahore,41,Married,Cotton
+411,Bachelors,Lahore,31,Widowed,Mining & Minerals
+412,Bachelors,Islamabad,37,Married,Vegetable Oil and Ghee Mills
+413,Masters or Higher,Multan,45,Single,Casting of Iron & Steel
+414,Masters or Higher,Lahore,42,Widowed,Cotton
+415,Bachelors,Multan,32,Single,Vegetable Oil and Ghee Mills
+416,Intermediate/A-level,Karachi,49,Single,Casting of Iron & Steel
+417,Masters or Higher,Islamabad,36,Married,Vegetable Oil and Ghee Mills
+418,Bachelors,Multan,37,Married,Food manufacturing
+419,Intermediate/A-level,Karachi,46,Single,Food manufacturing
+420,Bachelors,Karachi,36,Married,Vegetable Oil and Ghee Mills
+421,Intermediate/A-level,Islamabad,40,Married,Mining & Minerals
+422,Intermediate/A-level,Lahore,39,Married,Vegetable Oil and Ghee Mills
+423,Intermediate/A-level,Karachi,50,Single,Casting of Iron & Steel
+424,Bachelors,Lahore,35,Married,Food manufacturing
+425,Bachelors,Lahore,35,Widowed,Crude Oil Refining
+426,Matric/O-level,Karachi,41,Married,Vegetable Oil and Ghee Mills
+427,Bachelors,Multan,40,Married,Food manufacturing
+428,Bachelors,Karachi,36,Married,Chemicals & Fertilizers
+429,Bachelors,Lahore,33,Widowed,Casting of Iron & Steel
+430,Bachelors,Islamabad,37,Widowed,Casting of Iron & Steel
+431,Intermediate/A-level,Faisalabad,36,Widowed,Food manufacturing
+432,Masters or Higher,Lahore,45,Widowed,Crude Oil Refining
+433,Intermediate/A-level,Karachi,28,Widowed,Crude Oil Refining
+434,Bachelors,Faisalabad,33,Married,Chemicals & Fertilizers
+435,Masters or Higher,Lahore,44,Single,Food manufacturing
+436,Bachelors,Multan,40,Widowed,Casting of Iron & Steel
+437,Intermediate/A-level,Faisalabad,40,Widowed,Vegetable Oil and Ghee Mills
+438,Matric/O-level,Multan,45,Married,Chemicals & Fertilizers
+439,Bachelors,Lahore,38,Married,Cotton
+440,Masters or Higher,Faisalabad,35,Single,Chemicals & Fertilizers
+441,Masters or Higher,Karachi,39,Single,Cotton
+442,Bachelors,Lahore,44,Widowed,Cotton
+443,Intermediate/A-level,Islamabad,41,Single,Casting of Iron & Steel
+444,Intermediate/A-level,Multan,38,Married,Food and Beverages
+445,Intermediate/A-level,Karachi,35,Widowed,Casting of Iron & Steel
+446,Bachelors,Islamabad,39,Single,Vegetable Oil and Ghee Mills
+447,Matric/O-level,Faisalabad,32,Single,Casting of Iron & Steel
+448,Bachelors,Karachi,40,Married,Vegetable Oil and Ghee Mills
+449,Bachelors,Karachi,35,Single,Casting of Iron & Steel
+450,Bachelors,Karachi,44,Single,Chemicals & Fertilizers
+451,Bachelors,Lahore,41,Single,Cotton
+452,Intermediate/A-level,Faisalabad,47,Single,Cotton
+453,Masters or Higher,Karachi,45,Single,Vegetable Oil and Ghee Mills
+454,Bachelors,Karachi,36,Single,Chemicals & Fertilizers
+455,Bachelors,Islamabad,45,Widowed,Mining & Minerals
+456,Masters or Higher,Lahore,40,Widowed,Vegetable Oil and Ghee Mills
+457,Bachelors,Karachi,42,Widowed,Cotton
+458,Bachelors,Multan,48,Widowed,Vegetable Oil and Ghee Mills
+459,Masters or Higher,Lahore,35,Married,Vegetable Oil and Ghee Mills
+460,Masters or Higher,Islamabad,40,Widowed,Cotton
+461,Masters or Higher,Karachi,34,Single,Crude Oil Refining
+462,Masters or Higher,Islamabad,39,Widowed,Casting of Iron & Steel
+463,Masters or Higher,Islamabad,44,Widowed,Crude Oil Refining
+464,Bachelors,Karachi,38,Married,Vegetable Oil and Ghee Mills
+465,Bachelors,Islamabad,36,Married,Food and Beverages
+466,Bachelors,Karachi,38,Married,Mining & Minerals
+467,Bachelors,Lahore,45,Married,Cotton
+468,Intermediate/A-level,Lahore,35,Widowed,Cotton
+469,Bachelors,Faisalabad,39,Widowed,Food manufacturing
+470,Bachelors,Lahore,43,Widowed,Mining & Minerals
+471,Masters or Higher,Multan,41,Single,Casting of Iron & Steel
+472,Intermediate/A-level,Islamabad,39,Widowed,Food manufacturing
+473,Intermediate/A-level,Multan,47,Married,Crude Oil Refining
+474,Matric/O-level,Islamabad,36,Single,Cotton
+475,Bachelors,Faisalabad,36,Single,Cotton
+476,Masters or Higher,Karachi,30,Single,Food manufacturing
+477,Masters or Higher,Lahore,40,Single,Chemicals & Fertilizers
+478,Matric/O-level,Islamabad,44,Widowed,Food manufacturing
+479,Bachelors,Karachi,42,Widowed,Vegetable Oil and Ghee Mills
+480,Intermediate/A-level,Karachi,39,Widowed,Vegetable Oil and Ghee Mills
+481,Bachelors,Lahore,43,Married,Chemicals & Fertilizers
+482,Intermediate/A-level,Lahore,37,Widowed,Crude Oil Refining
+483,Bachelors,Karachi,36,Single,Vegetable Oil and Ghee Mills
+484,Bachelors,Lahore,38,Widowed,Mining & Minerals
+485,Bachelors,Lahore,30,Single,Casting of Iron & Steel
+486,Intermediate/A-level,Multan,41,Single,Food manufacturing
+487,Bachelors,Lahore,35,Widowed,Vegetable Oil and Ghee Mills
+488,Intermediate/A-level,Lahore,45,Single,Vegetable Oil and Ghee Mills
+489,Masters or Higher,Lahore,35,Single,Casting of Iron & Steel
+490,Masters or Higher,Karachi,49,Married,Food manufacturing
+491,Bachelors,Multan,41,Single,Crude Oil Refining
+492,Intermediate/A-level,Islamabad,50,Single,Food and Beverages
+493,Bachelors,Lahore,41,Widowed,Food and Beverages
+494,Bachelors,Karachi,36,Widowed,Food and Beverages
+495,Bachelors,Islamabad,34,Widowed,Food and Beverages
+496,Intermediate/A-level,Multan,34,Single,Chemicals & Fertilizers
+497,Masters or Higher,Multan,38,Widowed,Food manufacturing
+498,Matric/O-level,Karachi,39,Married,Cotton
+499,Bachelors,Multan,33,Single,Crude Oil Refining
+500,Intermediate/A-level,Karachi,39,Widowed,Food manufacturing
+501,Matric/O-level,Islamabad,32,Single,Casting of Iron & Steel
+502,Intermediate/A-level,Islamabad,41,Single,Food and Beverages
+503,Intermediate/A-level,Islamabad,32,Single,Vegetable Oil and Ghee Mills
+504,Bachelors,Lahore,37,Widowed,Chemicals & Fertilizers
+505,Intermediate/A-level,Karachi,41,Single,Casting of Iron & Steel
+506,Bachelors,Lahore,40,Single,Vegetable Oil and Ghee Mills
+507,Intermediate/A-level,Multan,41,Single,Cotton
+508,Bachelors,Lahore,38,Single,Cotton
+509,Masters or Higher,Multan,34,Widowed,Food manufacturing
+510,Bachelors,Lahore,38,Widowed,Cotton
+511,Bachelors,Multan,34,Married,Mining & Minerals
+512,Intermediate/A-level,Islamabad,39,Single,Casting of Iron & Steel
+513,Masters or Higher,Karachi,48,Widowed,Crude Oil Refining
+514,Masters or Higher,Multan,37,Single,Cotton
+515,Masters or Higher,Karachi,36,Widowed,Chemicals & Fertilizers
+516,Masters or Higher,Multan,35,Single,Vegetable Oil and Ghee Mills
+517,Intermediate/A-level,Multan,44,Widowed,Vegetable Oil and Ghee Mills
+518,Matric/O-level,Karachi,40,Married,Cotton
+519,Intermediate/A-level,Multan,38,Widowed,Casting of Iron & Steel
+520,Bachelors,Lahore,40,Widowed,Cotton
+521,Bachelors,Faisalabad,44,Married,Crude Oil Refining
+522,Intermediate/A-level,Karachi,32,Married,Cotton
+523,Masters or Higher,Lahore,47,Single,Cotton
+524,Intermediate/A-level,Lahore,35,Single,Vegetable Oil and Ghee Mills
+525,Bachelors,Lahore,36,Widowed,Vegetable Oil and Ghee Mills
+526,Intermediate/A-level,Islamabad,34,Single,Vegetable Oil and Ghee Mills
+527,Masters or Higher,Islamabad,37,Widowed,Vegetable Oil and Ghee Mills
+528,Bachelors,Islamabad,47,Married,Cotton
+529,Bachelors,Multan,40,Single,Vegetable Oil and Ghee Mills
+530,Matric/O-level,Lahore,44,Married,Cotton
+531,Intermediate/A-level,Karachi,24,Married,Cotton
+532,Bachelors,Islamabad,41,Single,Food manufacturing
+533,Bachelors,Karachi,43,Single,Mining & Minerals
+534,Bachelors,Lahore,34,Single,Vegetable Oil and Ghee Mills
+535,Bachelors,Karachi,39,Single,Vegetable Oil and Ghee Mills
+536,Bachelors,Multan,39,Married,Food manufacturing
+537,Masters or Higher,Karachi,35,Married,Casting of Iron & Steel
+538,Bachelors,Islamabad,41,Married,Chemicals & Fertilizers
+539,Masters or Higher,Karachi,31,Widowed,Vegetable Oil and Ghee Mills
+540,Masters or Higher,Multan,44,Single,Cotton
+541,Bachelors,Lahore,32,Widowed,Food manufacturing
+542,Bachelors,Faisalabad,39,Married,Mining & Minerals
+543,Masters or Higher,Lahore,39,Widowed,Vegetable Oil and Ghee Mills
+544,Bachelors,Islamabad,33,Married,Cotton
+545,Masters or Higher,Faisalabad,36,Married,Cotton
+546,Matric/O-level,Karachi,34,Widowed,Chemicals & Fertilizers
+547,Intermediate/A-level,Multan,31,Widowed,Cotton
+548,Bachelors,Lahore,45,Widowed,Crude Oil Refining
+549,Masters or Higher,Faisalabad,42,Single,Cotton
+550,Bachelors,Multan,36,Married,Vegetable Oil and Ghee Mills
+551,Bachelors,Lahore,34,Single,Crude Oil Refining
+552,Bachelors,Karachi,43,Single,Casting of Iron & Steel
+553,Intermediate/A-level,Multan,44,Single,Food manufacturing
+554,Intermediate/A-level,Karachi,35,Widowed,Food manufacturing
+555,Masters or Higher,Lahore,39,Single,Casting of Iron & Steel
+556,Bachelors,Islamabad,48,Widowed,Food manufacturing
+557,Bachelors,Faisalabad,34,Widowed,Food manufacturing
+558,Matric/O-level,Lahore,41,Widowed,Vegetable Oil and Ghee Mills
+559,Intermediate/A-level,Multan,45,Married,Vegetable Oil and Ghee Mills
+560,Intermediate/A-level,Lahore,42,Single,Casting of Iron & Steel
+561,Bachelors,Karachi,35,Married,Mining & Minerals
+562,Bachelors,Karachi,44,Married,Crude Oil Refining
+563,Intermediate/A-level,Lahore,36,Widowed,Mining & Minerals
+564,Masters or Higher,Islamabad,35,Married,Food manufacturing
+565,Masters or Higher,Multan,34,Married,Food and Beverages
+566,Masters or Higher,Multan,31,Single,Cotton
+567,Matric/O-level,Karachi,42,Single,Vegetable Oil and Ghee Mills
+568,Masters or Higher,Lahore,41,Single,Vegetable Oil and Ghee Mills
+569,Bachelors,Islamabad,38,Married,Vegetable Oil and Ghee Mills
+570,Intermediate/A-level,Karachi,31,Single,Food manufacturing
+571,Intermediate/A-level,Faisalabad,35,Widowed,Food manufacturing
+572,Intermediate/A-level,Lahore,31,Married,Casting of Iron & Steel
+573,Intermediate/A-level,Multan,43,Widowed,Cotton
+574,Bachelors,Multan,37,Married,Food manufacturing
+575,Intermediate/A-level,Lahore,38,Single,Mining & Minerals
+576,Bachelors,Lahore,33,Married,Cotton
+577,Masters or Higher,Karachi,42,Married,Food manufacturing
+578,Intermediate/A-level,Karachi,37,Married,Mining & Minerals
+579,Masters or Higher,Karachi,36,Married,Crude Oil Refining
+580,Bachelors,Karachi,39,Widowed,Cotton
+581,Bachelors,Lahore,40,Married,Casting of Iron & Steel
+582,Bachelors,Lahore,37,Widowed,Casting of Iron & Steel
+583,Bachelors,Karachi,43,Single,Food manufacturing
+584,Bachelors,Karachi,41,Married,Crude Oil Refining
+585,Bachelors,Lahore,40,Married,Food manufacturing
+586,Bachelors,Lahore,30,Single,Casting of Iron & Steel
+587,Intermediate/A-level,Lahore,45,Single,Casting of Iron & Steel
+588,Bachelors,Islamabad,38,Widowed,Casting of Iron & Steel
+589,Intermediate/A-level,Lahore,40,Single,Crude Oil Refining
+590,Bachelors,Karachi,46,Widowed,Chemicals & Fertilizers
+591,Intermediate/A-level,Islamabad,33,Widowed,Cotton
+592,Intermediate/A-level,Lahore,34,Widowed,Vegetable Oil and Ghee Mills
+593,Intermediate/A-level,Karachi,36,Married,Chemicals & Fertilizers
+594,Intermediate/A-level,Lahore,40,Single,Cotton
+595,Masters or Higher,Karachi,38,Married,Crude Oil Refining
+596,Masters or Higher,Islamabad,38,Widowed,Vegetable Oil and Ghee Mills
+597,Bachelors,Lahore,40,Widowed,Casting of Iron & Steel
+598,Intermediate/A-level,Islamabad,34,Widowed,Food manufacturing
+599,Intermediate/A-level,Lahore,33,Widowed,Food manufacturing
+600,Masters or Higher,Lahore,32,Widowed,Vegetable Oil and Ghee Mills
+601,Intermediate/A-level,Lahore,39,Widowed,Food manufacturing
+602,Bachelors,Lahore,36,Widowed,Mining & Minerals
+603,Bachelors,Karachi,33,Widowed,Cotton
+604,Intermediate/A-level,Karachi,39,Married,Vegetable Oil and Ghee Mills
+605,Matric/O-level,Karachi,33,Married,Mining & Minerals
+606,Bachelors,Karachi,39,Single,Mining & Minerals
+607,Masters or Higher,Lahore,41,Single,Food manufacturing
+608,Matric/O-level,Islamabad,42,Married,Vegetable Oil and Ghee Mills
+609,Bachelors,Karachi,36,Single,Vegetable Oil and Ghee Mills
+610,Bachelors,Karachi,35,Married,Cotton
+611,Intermediate/A-level,Lahore,50,Single,Vegetable Oil and Ghee Mills
+612,Intermediate/A-level,Islamabad,45,Married,Food manufacturing
+613,Intermediate/A-level,Karachi,44,Widowed,Casting of Iron & Steel
+614,Masters or Higher,Islamabad,30,Single,Cotton
+615,Intermediate/A-level,Lahore,36,Widowed,Vegetable Oil and Ghee Mills
+616,Intermediate/A-level,Islamabad,37,Single,Casting of Iron & Steel
+617,Matric/O-level,Karachi,40,Single,Food manufacturing
+618,Intermediate/A-level,Lahore,42,Widowed,Cotton
+619,Bachelors,Karachi,36,Married,Food manufacturing
+620,Bachelors,Karachi,37,Married,Chemicals & Fertilizers
+621,Intermediate/A-level,Islamabad,35,Married,Casting of Iron & Steel
+622,Bachelors,Karachi,40,Single,Mining & Minerals
+623,Bachelors,Faisalabad,45,Married,Mining & Minerals
+624,Masters or Higher,Multan,36,Widowed,Mining & Minerals
+625,Intermediate/A-level,Faisalabad,33,Single,Cotton
+626,Bachelors,Lahore,37,Widowed,Food and Beverages
+627,Matric/O-level,Karachi,42,Widowed,Casting of Iron & Steel
+628,Intermediate/A-level,Karachi,35,Widowed,Mining & Minerals
+629,Bachelors,Lahore,47,Widowed,Mining & Minerals
+630,Bachelors,Karachi,33,Single,Mining & Minerals
+631,Intermediate/A-level,Islamabad,44,Married,Mining & Minerals
+632,Intermediate/A-level,Faisalabad,36,Widowed,Mining & Minerals
+633,Bachelors,Lahore,35,Single,Casting of Iron & Steel
+634,Intermediate/A-level,Islamabad,35,Single,Food and Beverages
+635,Masters or Higher,Lahore,36,Married,Food manufacturing
+636,Bachelors,Islamabad,39,Single,Cotton
+637,Matric/O-level,Lahore,42,Widowed,Food manufacturing
+638,Bachelors,Lahore,45,Married,Casting of Iron & Steel
+639,Bachelors,Karachi,48,Widowed,Cotton
+640,Bachelors,Karachi,43,Single,Cotton
+641,Intermediate/A-level,Faisalabad,40,Married,Vegetable Oil and Ghee Mills
+642,Bachelors,Multan,39,Single,Vegetable Oil and Ghee Mills
+643,Matric/O-level,Karachi,41,Single,Cotton
+644,Bachelors,Islamabad,47,Married,Mining & Minerals
+645,Masters or Higher,Lahore,33,Married,Vegetable Oil and Ghee Mills
+646,Intermediate/A-level,Lahore,28,Single,Cotton
+647,Intermediate/A-level,Islamabad,45,Married,Food manufacturing
+648,Masters or Higher,Islamabad,39,Widowed,Cotton
+649,Intermediate/A-level,Karachi,35,Widowed,Mining & Minerals
+650,Intermediate/A-level,Multan,41,Married,Cotton
+651,Masters or Higher,Karachi,41,Widowed,Food manufacturing
+652,Intermediate/A-level,Lahore,39,Married,Cotton
+653,Bachelors,Lahore,39,Widowed,Crude Oil Refining
+654,Intermediate/A-level,Multan,38,Widowed,Cotton
+655,Intermediate/A-level,Karachi,38,Widowed,Chemicals & Fertilizers
+656,Matric/O-level,Karachi,50,Married,Food manufacturing
+657,Intermediate/A-level,Multan,37,Married,Cotton
+658,Intermediate/A-level,Lahore,41,Widowed,Cotton
+659,Intermediate/A-level,Lahore,37,Widowed,Food manufacturing
+660,Bachelors,Islamabad,44,Married,Vegetable Oil and Ghee Mills
+661,Matric/O-level,Lahore,45,Married,Vegetable Oil and Ghee Mills
+662,Intermediate/A-level,Faisalabad,42,Married,Vegetable Oil and Ghee Mills
+663,Bachelors,Lahore,42,Single,Chemicals & Fertilizers
+664,Masters or Higher,Lahore,30,Married,Crude Oil Refining
+665,Bachelors,Lahore,39,Single,Cotton
+666,Matric/O-level,Multan,48,Single,Cotton
+667,Intermediate/A-level,Islamabad,49,Single,Food manufacturing
+668,Intermediate/A-level,Islamabad,36,Widowed,Vegetable Oil and Ghee Mills
+669,Intermediate/A-level,Islamabad,43,Widowed,Vegetable Oil and Ghee Mills
+670,Bachelors,Karachi,27,Married,Vegetable Oil and Ghee Mills
+671,Intermediate/A-level,Karachi,47,Widowed,Chemicals & Fertilizers
+672,Bachelors,Faisalabad,51,Widowed,Casting of Iron & Steel
+673,Intermediate/A-level,Karachi,39,Widowed,Casting of Iron & Steel
+674,Bachelors,Islamabad,46,Single,Vegetable Oil and Ghee Mills
+675,Intermediate/A-level,Faisalabad,41,Married,Crude Oil Refining
+676,Intermediate/A-level,Islamabad,42,Widowed,Food manufacturing
+677,Masters or Higher,Islamabad,43,Single,Cotton
+678,Bachelors,Karachi,39,Widowed,Vegetable Oil and Ghee Mills
+679,Bachelors,Karachi,43,Married,Casting of Iron & Steel
+680,Bachelors,Islamabad,38,Married,Casting of Iron & Steel
+681,Matric/O-level,Karachi,38,Widowed,Mining & Minerals
+682,Bachelors,Lahore,36,Widowed,Vegetable Oil and Ghee Mills
+683,Intermediate/A-level,Faisalabad,41,Single,Food manufacturing
+684,Bachelors,Lahore,25,Married,Casting of Iron & Steel
+685,Intermediate/A-level,Karachi,44,Single,Cotton
+686,Intermediate/A-level,Faisalabad,37,Single,Food manufacturing
+687,Matric/O-level,Islamabad,31,Single,Mining & Minerals
+688,Intermediate/A-level,Islamabad,37,Married,Food manufacturing
+689,Intermediate/A-level,Karachi,39,Widowed,Vegetable Oil and Ghee Mills
+690,Bachelors,Multan,32,Widowed,Cotton
+691,Bachelors,Karachi,39,Married,Vegetable Oil and Ghee Mills
+692,Bachelors,Lahore,31,Married,Cotton
+693,Masters or Higher,Faisalabad,37,Widowed,Casting of Iron & Steel
+694,Masters or Higher,Lahore,40,Single,Food manufacturing
+695,Masters or Higher,Lahore,38,Single,Food manufacturing
+696,Masters or Higher,Lahore,43,Widowed,Food manufacturing
+697,Masters or Higher,Lahore,35,Married,Cotton
+698,Bachelors,Karachi,40,Widowed,Casting of Iron & Steel
+699,Masters or Higher,Lahore,49,Single,Vegetable Oil and Ghee Mills
+700,Bachelors,Lahore,41,Married,Cotton
+701,Matric/O-level,Karachi,40,Married,Casting of Iron & Steel
+702,Bachelors,Islamabad,47,Married,Cotton
+703,Bachelors,Lahore,42,Married,Chemicals & Fertilizers
+704,Bachelors,Lahore,43,Widowed,Cotton
+705,Masters or Higher,Islamabad,40,Widowed,Vegetable Oil and Ghee Mills
+706,Masters or Higher,Lahore,36,Single,Casting of Iron & Steel
+707,Matric/O-level,Faisalabad,42,Widowed,Chemicals & Fertilizers
+708,Bachelors,Karachi,37,Married,Crude Oil Refining
+709,Bachelors,Karachi,43,Married,Vegetable Oil and Ghee Mills
+710,Intermediate/A-level,Faisalabad,44,Widowed,Food manufacturing
+711,Masters or Higher,Islamabad,35,Single,Cotton
+712,Intermediate/A-level,Faisalabad,45,Married,Food manufacturing
+713,Matric/O-level,Multan,30,Married,Casting of Iron & Steel
+714,Bachelors,Lahore,43,Single,Vegetable Oil and Ghee Mills
+715,Bachelors,Multan,44,Single,Casting of Iron & Steel
+716,Bachelors,Karachi,42,Single,Mining & Minerals
+717,Bachelors,Karachi,42,Single,Food and Beverages
+718,Masters or Higher,Faisalabad,45,Married,Vegetable Oil and Ghee Mills
+719,Intermediate/A-level,Lahore,41,Widowed,Vegetable Oil and Ghee Mills
+720,Bachelors,Karachi,43,Single,Vegetable Oil and Ghee Mills
+721,Intermediate/A-level,Multan,38,Married,Casting of Iron & Steel
+722,Intermediate/A-level,Islamabad,34,Single,Crude Oil Refining
+723,Masters or Higher,Multan,40,Widowed,Vegetable Oil and Ghee Mills
+724,Bachelors,Lahore,38,Single,Vegetable Oil and Ghee Mills
+725,Intermediate/A-level,Faisalabad,37,Single,Vegetable Oil and Ghee Mills
+726,Bachelors,Karachi,42,Widowed,Crude Oil Refining
+727,Intermediate/A-level,Karachi,43,Single,Food manufacturing
+728,Bachelors,Lahore,40,Single,Food manufacturing
+729,Bachelors,Faisalabad,36,Married,Food manufacturing
+730,Intermediate/A-level,Lahore,35,Married,Vegetable Oil and Ghee Mills
+731,Bachelors,Islamabad,42,Single,Cotton
+732,Intermediate/A-level,Multan,41,Married,Cotton
+733,Intermediate/A-level,Lahore,40,Single,Casting of Iron & Steel
+734,Bachelors,Islamabad,45,Married,Food and Beverages
+735,Matric/O-level,Lahore,37,Widowed,Cotton
+736,Matric/O-level,Islamabad,48,Single,Casting of Iron & Steel
+737,Bachelors,Islamabad,29,Single,Mining & Minerals
+738,Bachelors,Lahore,42,Single,Food manufacturing
+739,Intermediate/A-level,Karachi,41,Widowed,Vegetable Oil and Ghee Mills
+740,Bachelors,Lahore,39,Widowed,Vegetable Oil and Ghee Mills
+741,Matric/O-level,Islamabad,48,Single,Food manufacturing
+742,Masters or Higher,Islamabad,39,Single,Vegetable Oil and Ghee Mills
+743,Intermediate/A-level,Karachi,36,Widowed,Cotton
+744,Masters or Higher,Karachi,40,Single,Mining & Minerals
+745,Masters or Higher,Multan,38,Widowed,Casting of Iron & Steel
+746,Matric/O-level,Lahore,36,Single,Cotton
+747,Intermediate/A-level,Lahore,42,Single,Casting of Iron & Steel
+748,Masters or Higher,Islamabad,42,Widowed,Food manufacturing
+749,Masters or Higher,Multan,34,Married,Food and Beverages
+750,Intermediate/A-level,Faisalabad,40,Single,Vegetable Oil and Ghee Mills
+751,Masters or Higher,Lahore,44,Married,Food manufacturing
+752,Intermediate/A-level,Karachi,51,Single,Vegetable Oil and Ghee Mills
+753,Matric/O-level,Lahore,35,Single,Vegetable Oil and Ghee Mills
+754,Bachelors,Faisalabad,51,Widowed,Cotton
+755,Intermediate/A-level,Faisalabad,28,Widowed,Cotton
+756,Intermediate/A-level,Lahore,38,Widowed,Cotton
+757,Bachelors,Lahore,38,Single,Food manufacturing
+758,Matric/O-level,Islamabad,44,Married,Vegetable Oil and Ghee Mills
+759,Matric/O-level,Islamabad,38,Married,Food manufacturing
+760,Bachelors,Karachi,39,Single,Cotton
+761,Bachelors,Lahore,39,Single,Casting of Iron & Steel
+762,Matric/O-level,Lahore,48,Widowed,Food manufacturing
+763,Masters or Higher,Faisalabad,38,Single,Crude Oil Refining
+764,Bachelors,Faisalabad,37,Single,Food manufacturing
+765,Bachelors,Islamabad,26,Widowed,Mining & Minerals
+766,Intermediate/A-level,Faisalabad,36,Single,Casting of Iron & Steel
+767,Bachelors,Lahore,34,Single,Food manufacturing
+768,Bachelors,Lahore,26,Single,Vegetable Oil and Ghee Mills
+769,Masters or Higher,Islamabad,40,Widowed,Vegetable Oil and Ghee Mills
+770,Bachelors,Lahore,42,Married,Food manufacturing
+771,Intermediate/A-level,Lahore,45,Married,Cotton
+772,Matric/O-level,Karachi,40,Single,Vegetable Oil and Ghee Mills
+773,Masters or Higher,Lahore,44,Widowed,Cotton
+774,Bachelors,Karachi,45,Widowed,Crude Oil Refining
+775,Masters or Higher,Lahore,43,Single,Mining & Minerals
+776,Masters or Higher,Karachi,32,Widowed,Crude Oil Refining
+777,Intermediate/A-level,Lahore,38,Widowed,Food manufacturing
+778,Masters or Higher,Karachi,40,Married,Food manufacturing
+779,Intermediate/A-level,Islamabad,35,Married,Vegetable Oil and Ghee Mills
+780,Bachelors,Karachi,41,Widowed,Vegetable Oil and Ghee Mills
+781,Intermediate/A-level,Lahore,34,Single,Food manufacturing
+782,Bachelors,Lahore,47,Widowed,Vegetable Oil and Ghee Mills
+783,Bachelors,Lahore,30,Widowed,Chemicals & Fertilizers
+784,Bachelors,Karachi,42,Married,Mining & Minerals
+785,Bachelors,Multan,33,Married,Mining & Minerals
+786,Matric/O-level,Multan,41,Single,Cotton
+787,Intermediate/A-level,Faisalabad,38,Single,Mining & Minerals
+788,Intermediate/A-level,Karachi,32,Widowed,Food manufacturing
+789,Matric/O-level,Islamabad,46,Widowed,Vegetable Oil and Ghee Mills
+790,Intermediate/A-level,Faisalabad,47,Married,Vegetable Oil and Ghee Mills
+791,Bachelors,Karachi,37,Single,Vegetable Oil and Ghee Mills
+792,Masters or Higher,Lahore,44,Married,Vegetable Oil and Ghee Mills
+793,Masters or Higher,Karachi,46,Single,Cotton
+794,Bachelors,Multan,38,Widowed,Vegetable Oil and Ghee Mills
+795,Masters or Higher,Lahore,39,Widowed,Crude Oil Refining
+796,Masters or Higher,Faisalabad,34,Married,Vegetable Oil and Ghee Mills
+797,Bachelors,Karachi,42,Single,Food manufacturing
+798,Bachelors,Karachi,35,Single,Chemicals & Fertilizers
+799,Intermediate/A-level,Lahore,41,Widowed,Crude Oil Refining
+800,Bachelors,Islamabad,37,Widowed,Cotton
+801,Bachelors,Lahore,45,Married,Cotton
+802,Bachelors,Karachi,36,Widowed,Food manufacturing
+803,Bachelors,Lahore,42,Single,Vegetable Oil and Ghee Mills
+804,Intermediate/A-level,Islamabad,43,Married,Casting of Iron & Steel
+805,Intermediate/A-level,Lahore,48,Married,Food manufacturing
+806,Intermediate/A-level,Karachi,49,Single,Food manufacturing
+807,Masters or Higher,Faisalabad,43,Single,Cotton
+808,Intermediate/A-level,Lahore,32,Single,Chemicals & Fertilizers
+809,Intermediate/A-level,Karachi,37,Widowed,Cotton
+810,Bachelors,Islamabad,40,Married,Crude Oil Refining
+811,Intermediate/A-level,Lahore,36,Widowed,Vegetable Oil and Ghee Mills
+812,Intermediate/A-level,Karachi,43,Single,Crude Oil Refining
+813,Bachelors,Islamabad,41,Married,Food manufacturing
+814,Intermediate/A-level,Faisalabad,40,Single,Chemicals & Fertilizers
+815,Masters or Higher,Multan,39,Single,Vegetable Oil and Ghee Mills
+816,Masters or Higher,Lahore,43,Single,Cotton
+817,Bachelors,Lahore,30,Widowed,Mining & Minerals
+818,Bachelors,Islamabad,37,Single,Crude Oil Refining
+819,Bachelors,Islamabad,34,Married,Mining & Minerals
+820,Intermediate/A-level,Karachi,40,Widowed,Crude Oil Refining
+821,Bachelors,Karachi,45,Widowed,Casting of Iron & Steel
+822,Bachelors,Karachi,43,Married,Casting of Iron & Steel
+823,Bachelors,Karachi,40,Married,Cotton
+824,Intermediate/A-level,Multan,37,Single,Casting of Iron & Steel
+825,Bachelors,Lahore,39,Single,Crude Oil Refining
+826,Masters or Higher,Lahore,37,Widowed,Food and Beverages
+827,Matric/O-level,Islamabad,41,Widowed,Mining & Minerals
+828,Intermediate/A-level,Karachi,37,Single,Crude Oil Refining
+829,Masters or Higher,Karachi,44,Widowed,Mining & Minerals
+830,Intermediate/A-level,Lahore,41,Widowed,Casting of Iron & Steel
+831,Bachelors,Karachi,43,Widowed,Cotton
+832,Intermediate/A-level,Lahore,35,Widowed,Food manufacturing
+833,Bachelors,Lahore,41,Single,Cotton
+834,Masters or Higher,Faisalabad,41,Single,Crude Oil Refining
+835,Masters or Higher,Karachi,43,Single,Cotton
+836,Intermediate/A-level,Islamabad,31,Single,Vegetable Oil and Ghee Mills
+837,Intermediate/A-level,Karachi,36,Widowed,Cotton
+838,Intermediate/A-level,Islamabad,35,Single,Crude Oil Refining
+839,Matric/O-level,Islamabad,41,Widowed,Cotton
+840,Bachelors,Lahore,36,Single,Food manufacturing
+841,Bachelors,Multan,38,Single,Food manufacturing
+842,Intermediate/A-level,Karachi,44,Married,Vegetable Oil and Ghee Mills
+843,Matric/O-level,Lahore,45,Married,Chemicals & Fertilizers
+844,Intermediate/A-level,Islamabad,40,Widowed,Chemicals & Fertilizers
+845,Bachelors,Multan,39,Widowed,Food manufacturing
+846,Masters or Higher,Lahore,45,Single,Mining & Minerals
+847,Intermediate/A-level,Islamabad,38,Single,Food and Beverages
+848,Masters or Higher,Faisalabad,39,Single,Vegetable Oil and Ghee Mills
+849,Masters or Higher,Islamabad,37,Single,Chemicals & Fertilizers
+850,Bachelors,Lahore,40,Married,Cotton
+851,Matric/O-level,Lahore,39,Widowed,Crude Oil Refining
+852,Bachelors,Faisalabad,37,Widowed,Crude Oil Refining
+853,Masters or Higher,Multan,45,Married,Mining & Minerals
+854,Bachelors,Karachi,45,Single,Cotton
+855,Matric/O-level,Lahore,45,Married,Food manufacturing
+856,Bachelors,Karachi,45,Widowed,Food manufacturing
+857,Intermediate/A-level,Lahore,42,Widowed,Food and Beverages
+858,Bachelors,Islamabad,42,Single,Cotton
+859,Masters or Higher,Karachi,40,Widowed,Vegetable Oil and Ghee Mills
+860,Bachelors,Islamabad,33,Married,Crude Oil Refining
+861,Intermediate/A-level,Karachi,41,Widowed,Cotton
+862,Masters or Higher,Faisalabad,39,Widowed,Food manufacturing
+863,Matric/O-level,Lahore,33,Widowed,Cotton
+864,Bachelors,Karachi,37,Widowed,Chemicals & Fertilizers
+865,Bachelors,Karachi,31,Married,Food manufacturing
+866,Masters or Higher,Karachi,44,Widowed,Mining & Minerals
+867,Masters or Higher,Lahore,42,Single,Casting of Iron & Steel
+868,Intermediate/A-level,Karachi,42,Widowed,Food manufacturing
+869,Bachelors,Islamabad,41,Widowed,Vegetable Oil and Ghee Mills
+870,Bachelors,Karachi,37,Widowed,Mining & Minerals
+871,Matric/O-level,Lahore,42,Married,Cotton
+872,Bachelors,Karachi,39,Married,Chemicals & Fertilizers
+873,Masters or Higher,Lahore,42,Widowed,Casting of Iron & Steel
+874,Intermediate/A-level,Karachi,37,Married,Vegetable Oil and Ghee Mills
+875,Masters or Higher,Lahore,38,Widowed,Food manufacturing
+876,Intermediate/A-level,Faisalabad,40,Widowed,Vegetable Oil and Ghee Mills
+877,Bachelors,Karachi,35,Married,Crude Oil Refining
+878,Intermediate/A-level,Islamabad,39,Married,Crude Oil Refining
+879,Masters or Higher,Karachi,43,Single,Casting of Iron & Steel
+880,Masters or Higher,Multan,41,Single,Food and Beverages
+881,Bachelors,Karachi,48,Single,Food manufacturing
+882,Intermediate/A-level,Karachi,37,Married,Vegetable Oil and Ghee Mills
+883,Masters or Higher,Islamabad,48,Single,Food manufacturing
+884,Matric/O-level,Karachi,39,Single,Food manufacturing
+885,Matric/O-level,Karachi,37,Married,Food manufacturing
+886,Intermediate/A-level,Lahore,37,Married,Food manufacturing
+887,Bachelors,Multan,44,Married,Mining & Minerals
+888,Matric/O-level,Karachi,45,Single,Cotton
+889,Bachelors,Lahore,41,Widowed,Food manufacturing
+890,Bachelors,Faisalabad,42,Widowed,Vegetable Oil and Ghee Mills
+891,Matric/O-level,Islamabad,44,Married,Cotton
+892,Masters or Higher,Islamabad,46,Married,Food manufacturing
+893,Bachelors,Multan,35,Married,Cotton
+894,Bachelors,Karachi,40,Widowed,Food manufacturing
+895,Bachelors,Islamabad,41,Married,Crude Oil Refining
+896,Masters or Higher,Lahore,33,Single,Cotton
+897,Bachelors,Islamabad,42,Married,Food manufacturing
+898,Intermediate/A-level,Karachi,34,Single,Casting of Iron & Steel
+899,Matric/O-level,Islamabad,40,Single,Casting of Iron & Steel
+900,Masters or Higher,Lahore,37,Single,Crude Oil Refining
+901,Intermediate/A-level,Karachi,37,Married,Food manufacturing
+902,Intermediate/A-level,Faisalabad,35,Single,Mining & Minerals
+903,Bachelors,Karachi,42,Married,Cotton
+904,Bachelors,Lahore,41,Single,Crude Oil Refining
+905,Bachelors,Islamabad,34,Married,Food manufacturing
+906,Intermediate/A-level,Karachi,39,Widowed,Food manufacturing
+907,Intermediate/A-level,Karachi,31,Single,Food manufacturing
+908,Intermediate/A-level,Lahore,39,Married,Crude Oil Refining
+909,Intermediate/A-level,Karachi,47,Single,Crude Oil Refining
+910,Intermediate/A-level,Lahore,40,Married,Crude Oil Refining
+911,Bachelors,Karachi,42,Married,Food and Beverages
+912,Bachelors,Karachi,32,Single,Food manufacturing
+913,Matric/O-level,Lahore,48,Widowed,Casting of Iron & Steel
+914,Bachelors,Islamabad,42,Single,Chemicals & Fertilizers
+915,Masters or Higher,Lahore,40,Married,Cotton
+916,Bachelors,Karachi,42,Widowed,Cotton
+917,Matric/O-level,Lahore,33,Married,Cotton
+918,Bachelors,Islamabad,37,Single,Vegetable Oil and Ghee Mills
+919,Bachelors,Lahore,44,Single,Food manufacturing
+920,Masters or Higher,Multan,41,Married,Cotton
+921,Intermediate/A-level,Faisalabad,46,Widowed,Cotton
+922,Intermediate/A-level,Islamabad,50,Married,Cotton
+923,Intermediate/A-level,Karachi,45,Widowed,Mining & Minerals
+924,Bachelors,Faisalabad,40,Single,Chemicals & Fertilizers
+925,Intermediate/A-level,Multan,42,Married,Cotton
+926,Bachelors,Karachi,31,Widowed,Casting of Iron & Steel
+927,Matric/O-level,Islamabad,48,Married,Vegetable Oil and Ghee Mills
+928,Bachelors,Karachi,32,Widowed,Vegetable Oil and Ghee Mills
+929,Matric/O-level,Lahore,42,Married,Food and Beverages
+930,Bachelors,Karachi,49,Widowed,Vegetable Oil and Ghee Mills
+931,Intermediate/A-level,Faisalabad,41,Widowed,Cotton
+932,Masters or Higher,Karachi,44,Single,Chemicals & Fertilizers
+933,Intermediate/A-level,Faisalabad,37,Married,Food manufacturing
+934,Bachelors,Lahore,39,Married,Chemicals & Fertilizers
+935,Matric/O-level,Islamabad,43,Widowed,Vegetable Oil and Ghee Mills
+936,Bachelors,Lahore,43,Single,Vegetable Oil and Ghee Mills
+937,Bachelors,Islamabad,42,Widowed,Cotton
+938,Intermediate/A-level,Islamabad,42,Widowed,Vegetable Oil and Ghee Mills
+939,Intermediate/A-level,Islamabad,31,Widowed,Mining & Minerals
+940,Intermediate/A-level,Lahore,41,Single,Mining & Minerals
+941,Matric/O-level,Islamabad,34,Married,Casting of Iron & Steel
+942,Bachelors,Karachi,42,Widowed,Chemicals & Fertilizers
+943,Bachelors,Karachi,31,Single,Mining & Minerals
+944,Intermediate/A-level,Lahore,32,Married,Vegetable Oil and Ghee Mills
+945,Intermediate/A-level,Karachi,28,Single,Crude Oil Refining
+946,Bachelors,Karachi,39,Widowed,Cotton
+947,Intermediate/A-level,Karachi,37,Widowed,Vegetable Oil and Ghee Mills
+948,Bachelors,Islamabad,38,Married,Casting of Iron & Steel
+949,Bachelors,Karachi,37,Widowed,Crude Oil Refining
+950,Intermediate/A-level,Islamabad,41,Single,Mining & Minerals
+951,Intermediate/A-level,Karachi,33,Married,Vegetable Oil and Ghee Mills
+952,Intermediate/A-level,Multan,46,Single,Vegetable Oil and Ghee Mills
+953,Matric/O-level,Multan,38,Married,Casting of Iron & Steel
+954,Bachelors,Faisalabad,41,Married,Crude Oil Refining
+955,Intermediate/A-level,Lahore,37,Single,Mining & Minerals
+956,Intermediate/A-level,Karachi,35,Married,Food manufacturing
+957,Bachelors,Karachi,41,Married,Crude Oil Refining
+958,Masters or Higher,Karachi,36,Single,Casting of Iron & Steel
+959,Intermediate/A-level,Multan,36,Widowed,Vegetable Oil and Ghee Mills
+960,Bachelors,Multan,37,Widowed,Cotton
+961,Intermediate/A-level,Faisalabad,34,Widowed,Vegetable Oil and Ghee Mills
+962,Masters or Higher,Multan,41,Married,Food manufacturing
+963,Masters or Higher,Karachi,37,Married,Casting of Iron & Steel
+964,Intermediate/A-level,Islamabad,36,Married,Crude Oil Refining
+965,Bachelors,Karachi,44,Single,Food manufacturing
+966,Bachelors,Lahore,43,Single,Vegetable Oil and Ghee Mills
+967,Bachelors,Lahore,36,Married,Vegetable Oil and Ghee Mills
+968,Bachelors,Lahore,39,Widowed,Cotton
+969,Masters or Higher,Lahore,42,Widowed,Vegetable Oil and Ghee Mills
+970,Masters or Higher,Lahore,35,Married,Mining & Minerals
+971,Matric/O-level,Lahore,37,Single,Cotton
+972,Intermediate/A-level,Lahore,35,Widowed,Vegetable Oil and Ghee Mills
+973,Bachelors,Karachi,42,Married,Food manufacturing
+974,Intermediate/A-level,Islamabad,39,Widowed,Cotton
+975,Bachelors,Karachi,42,Widowed,Food manufacturing
+976,Masters or Higher,Karachi,33,Widowed,Food manufacturing
+977,Bachelors,Karachi,37,Married,Vegetable Oil and Ghee Mills
+978,Intermediate/A-level,Lahore,43,Single,Food manufacturing
+979,Masters or Higher,Lahore,43,Married,Cotton
+980,Intermediate/A-level,Islamabad,39,Single,Food manufacturing
+981,Bachelors,Islamabad,38,Widowed,Vegetable Oil and Ghee Mills
+982,Intermediate/A-level,Lahore,38,Single,Mining & Minerals
+983,Bachelors,Islamabad,40,Married,Food manufacturing
+984,Bachelors,Karachi,32,Widowed,Cotton
+985,Masters or Higher,Islamabad,42,Widowed,Chemicals & Fertilizers
+986,Intermediate/A-level,Lahore,42,Single,Food manufacturing
+987,Masters or Higher,Lahore,37,Widowed,Crude Oil Refining
+988,Matric/O-level,Multan,35,Married,Food manufacturing
+989,Bachelors,Lahore,44,Widowed,Vegetable Oil and Ghee Mills
+990,Matric/O-level,Karachi,53,Single,Cotton
+991,Intermediate/A-level,Faisalabad,49,Widowed,Vegetable Oil and Ghee Mills
+992,Bachelors,Karachi,44,Married,Cotton
+993,Intermediate/A-level,Islamabad,44,Single,Food manufacturing
+994,Bachelors,Faisalabad,39,Married,Food and Beverages
+995,Intermediate/A-level,Lahore,42,Married,Food manufacturing
+996,Masters or Higher,Lahore,40,Married,Food and Beverages
+997,Intermediate/A-level,Karachi,49,Widowed,Casting of Iron & Steel
+998,Matric/O-level,Multan,35,Single,Food and Beverages
+999,Bachelors,Faisalabad,44,Single,Cotton
+1000,Intermediate/A-level,Lahore,33,Single,Food manufacturing
+1001,Bachelors,Karachi,35,Married,Cotton
+1002,Intermediate/A-level,Karachi,40,Married,Vegetable Oil and Ghee Mills
+1003,Masters or Higher,Lahore,45,Single,Food manufacturing
+1004,Intermediate/A-level,Lahore,33,Widowed,Mining & Minerals
+1005,Bachelors,Karachi,37,Single,Cotton
+1006,Bachelors,Lahore,41,Married,Crude Oil Refining
+1007,Intermediate/A-level,Faisalabad,44,Widowed,Chemicals & Fertilizers
+1008,Masters or Higher,Islamabad,41,Married,Cotton
+1009,Bachelors,Lahore,38,Married,Food manufacturing
+1010,Bachelors,Islamabad,39,Widowed,Food manufacturing
+1011,Masters or Higher,Faisalabad,38,Single,Vegetable Oil and Ghee Mills
+1012,Matric/O-level,Multan,48,Married,Vegetable Oil and Ghee Mills
+1013,Intermediate/A-level,Karachi,43,Widowed,Crude Oil Refining
+1014,Matric/O-level,Karachi,40,Single,Casting of Iron & Steel
+1015,Intermediate/A-level,Lahore,37,Married,Cotton
+1016,Bachelors,Karachi,34,Married,Food manufacturing
+1017,Intermediate/A-level,Lahore,38,Single,Crude Oil Refining
+1018,Intermediate/A-level,Karachi,42,Single,Food manufacturing
+1019,Bachelors,Karachi,44,Widowed,Chemicals & Fertilizers
+1020,Bachelors,Karachi,35,Widowed,Vegetable Oil and Ghee Mills
+1021,Intermediate/A-level,Lahore,49,Single,Casting of Iron & Steel
+1022,Matric/O-level,Karachi,39,Married,Vegetable Oil and Ghee Mills
+1023,Bachelors,Lahore,35,Widowed,Vegetable Oil and Ghee Mills
+1024,Intermediate/A-level,Faisalabad,36,Married,Vegetable Oil and Ghee Mills
+1025,Intermediate/A-level,Lahore,29,Widowed,Crude Oil Refining
+1026,Bachelors,Lahore,45,Widowed,Food manufacturing
+1027,Masters or Higher,Karachi,40,Single,Cotton
+1028,Bachelors,Karachi,51,Single,Casting of Iron & Steel
+1029,Bachelors,Lahore,30,Widowed,Vegetable Oil and Ghee Mills
+1030,Masters or Higher,Lahore,46,Widowed,Food manufacturing
+1031,Bachelors,Lahore,39,Married,Casting of Iron & Steel
+1032,Bachelors,Multan,47,Single,Vegetable Oil and Ghee Mills
+1033,Matric/O-level,Karachi,44,Single,Mining & Minerals
+1034,Bachelors,Islamabad,41,Married,Vegetable Oil and Ghee Mills
+1035,Bachelors,Karachi,40,Married,Mining & Minerals
+1036,Bachelors,Karachi,37,Single,Mining & Minerals
+1037,Bachelors,Faisalabad,41,Married,Food manufacturing
+1038,Intermediate/A-level,Islamabad,39,Married,Crude Oil Refining
+1039,Bachelors,Faisalabad,40,Married,Crude Oil Refining
+1040,Matric/O-level,Islamabad,45,Single,Food manufacturing
+1041,Intermediate/A-level,Faisalabad,32,Married,Cotton
+1042,Bachelors,Karachi,35,Married,Casting of Iron & Steel
+1043,Bachelors,Karachi,34,Single,Vegetable Oil and Ghee Mills
+1044,Intermediate/A-level,Lahore,37,Single,Vegetable Oil and Ghee Mills
+1045,Intermediate/A-level,Karachi,34,Widowed,Crude Oil Refining
+1046,Masters or Higher,Faisalabad,48,Widowed,Vegetable Oil and Ghee Mills
+1047,Matric/O-level,Lahore,39,Single,Vegetable Oil and Ghee Mills
+1048,Masters or Higher,Karachi,45,Widowed,Food manufacturing
+1049,Bachelors,Multan,35,Widowed,Cotton
+1050,Matric/O-level,Islamabad,32,Widowed,Chemicals & Fertilizers
+1051,Intermediate/A-level,Lahore,42,Married,Food manufacturing
+1052,Bachelors,Multan,33,Single,Vegetable Oil and Ghee Mills
+1053,Bachelors,Karachi,37,Married,Casting of Iron & Steel
+1054,Intermediate/A-level,Islamabad,43,Widowed,Mining & Minerals
+1055,Masters or Higher,Faisalabad,38,Widowed,Food and Beverages
+1056,Bachelors,Lahore,34,Married,Vegetable Oil and Ghee Mills
+1057,Bachelors,Karachi,44,Married,Vegetable Oil and Ghee Mills
+1058,Bachelors,Karachi,39,Single,Chemicals & Fertilizers
+1059,Matric/O-level,Karachi,44,Single,Casting of Iron & Steel
+1060,Intermediate/A-level,Faisalabad,36,Married,Cotton
+1061,Bachelors,Lahore,36,Married,Food and Beverages
+1062,Masters or Higher,Karachi,30,Single,Food manufacturing
+1063,Intermediate/A-level,Karachi,44,Married,Mining & Minerals
+1064,Bachelors,Karachi,42,Single,Casting of Iron & Steel
+1065,Bachelors,Lahore,39,Widowed,Mining & Minerals
+1066,Masters or Higher,Islamabad,36,Single,Casting of Iron & Steel
+1067,Masters or Higher,Karachi,40,Single,Mining & Minerals
+1068,Intermediate/A-level,Karachi,45,Married,Food manufacturing
+1069,Matric/O-level,Multan,42,Married,Chemicals & Fertilizers
+1070,Bachelors,Karachi,36,Single,Food manufacturing
+1071,Intermediate/A-level,Karachi,34,Married,Food manufacturing
+1072,Masters or Higher,Islamabad,33,Single,Food and Beverages
+1073,Bachelors,Faisalabad,48,Widowed,Food manufacturing
+1074,Masters or Higher,Lahore,38,Single,Food manufacturing
+1075,Intermediate/A-level,Faisalabad,30,Widowed,Vegetable Oil and Ghee Mills
+1076,Bachelors,Multan,38,Widowed,Crude Oil Refining
+1077,Intermediate/A-level,Lahore,39,Married,Cotton
+1078,Intermediate/A-level,Lahore,28,Single,Food manufacturing
+1079,Intermediate/A-level,Islamabad,41,Widowed,Cotton
+1080,Masters or Higher,Faisalabad,42,Widowed,Food manufacturing
+1081,Intermediate/A-level,Karachi,40,Widowed,Vegetable Oil and Ghee Mills
+1082,Bachelors,Lahore,42,Single,Food manufacturing
+1083,Bachelors,Karachi,38,Widowed,Food manufacturing
+1084,Intermediate/A-level,Karachi,39,Single,Cotton
+1085,Intermediate/A-level,Lahore,37,Married,Cotton
+1086,Bachelors,Lahore,44,Widowed,Cotton
+1087,Matric/O-level,Islamabad,45,Widowed,Vegetable Oil and Ghee Mills
+1088,Intermediate/A-level,Lahore,38,Married,Food manufacturing
+1089,Bachelors,Multan,47,Widowed,Vegetable Oil and Ghee Mills
+1090,Matric/O-level,Lahore,39,Single,Food and Beverages
+1091,Intermediate/A-level,Lahore,33,Single,Food and Beverages
+1092,Bachelors,Karachi,45,Married,Mining & Minerals
+1093,Matric/O-level,Karachi,37,Married,Mining & Minerals
+1094,Intermediate/A-level,Lahore,41,Married,Cotton
+1095,Intermediate/A-level,Lahore,40,Widowed,Cotton
+1096,Intermediate/A-level,Lahore,40,Widowed,Vegetable Oil and Ghee Mills
+1097,Intermediate/A-level,Islamabad,35,Married,Food and Beverages
+1098,Bachelors,Lahore,31,Widowed,Vegetable Oil and Ghee Mills
+1099,Bachelors,Karachi,37,Married,Food manufacturing
+1100,Bachelors,Lahore,44,Single,Mining & Minerals
+1101,Bachelors,Lahore,40,Widowed,Vegetable Oil and Ghee Mills
+1102,Bachelors,Karachi,37,Single,Casting of Iron & Steel
+1103,Bachelors,Karachi,40,Single,Cotton
+1104,Bachelors,Lahore,30,Single,Cotton
+1105,Masters or Higher,Lahore,35,Married,Cotton
+1106,Bachelors,Multan,45,Widowed,Casting of Iron & Steel
+1107,Masters or Higher,Multan,40,Widowed,Food manufacturing
+1108,Intermediate/A-level,Karachi,50,Married,Vegetable Oil and Ghee Mills
+1109,Masters or Higher,Karachi,37,Single,Vegetable Oil and Ghee Mills
+1110,Bachelors,Lahore,42,Single,Vegetable Oil and Ghee Mills
+1111,Intermediate/A-level,Islamabad,44,Single,Crude Oil Refining
+1112,Bachelors,Multan,36,Married,Food manufacturing
+1113,Intermediate/A-level,Karachi,40,Widowed,Chemicals & Fertilizers
+1114,Matric/O-level,Lahore,41,Married,Casting of Iron & Steel
+1115,Intermediate/A-level,Karachi,30,Married,Food and Beverages
+1116,Bachelors,Faisalabad,31,Married,Cotton
+1117,Intermediate/A-level,Faisalabad,36,Married,Mining & Minerals
+1118,Intermediate/A-level,Lahore,34,Married,Food manufacturing
+1119,Intermediate/A-level,Karachi,40,Married,Chemicals & Fertilizers
+1120,Intermediate/A-level,Karachi,40,Single,Cotton
+1121,Bachelors,Multan,46,Married,Vegetable Oil and Ghee Mills
+1122,Bachelors,Lahore,39,Married,Crude Oil Refining
+1123,Masters or Higher,Karachi,44,Single,Vegetable Oil and Ghee Mills
+1124,Intermediate/A-level,Islamabad,44,Widowed,Food manufacturing
+1125,Bachelors,Lahore,38,Widowed,Crude Oil Refining
+1126,Bachelors,Lahore,42,Single,Crude Oil Refining
+1127,Masters or Higher,Lahore,37,Widowed,Food and Beverages
+1128,Bachelors,Lahore,38,Married,Food manufacturing
+1129,Masters or Higher,Islamabad,35,Married,Cotton
+1130,Bachelors,Faisalabad,32,Married,Chemicals & Fertilizers
+1131,Intermediate/A-level,Islamabad,42,Married,Chemicals & Fertilizers
+1132,Masters or Higher,Karachi,34,Widowed,Chemicals & Fertilizers
+1133,Intermediate/A-level,Karachi,38,Single,Crude Oil Refining
+1134,Intermediate/A-level,Islamabad,41,Widowed,Casting of Iron & Steel
+1135,Bachelors,Lahore,39,Married,Vegetable Oil and Ghee Mills
+1136,Bachelors,Karachi,53,Widowed,Crude Oil Refining
+1137,Intermediate/A-level,Lahore,35,Widowed,Vegetable Oil and Ghee Mills
+1138,Bachelors,Islamabad,42,Widowed,Vegetable Oil and Ghee Mills
+1139,Intermediate/A-level,Multan,35,Married,Vegetable Oil and Ghee Mills
+1140,Bachelors,Islamabad,50,Single,Casting of Iron & Steel
+1141,Bachelors,Multan,47,Married,Cotton
+1142,Intermediate/A-level,Lahore,41,Married,Cotton
+1143,Intermediate/A-level,Karachi,49,Married,Chemicals & Fertilizers
+1144,Masters or Higher,Islamabad,40,Married,Mining & Minerals
+1145,Bachelors,Lahore,36,Single,Mining & Minerals
+1146,Bachelors,Faisalabad,42,Widowed,Mining & Minerals
+1147,Bachelors,Karachi,38,Single,Cotton
+1148,Intermediate/A-level,Islamabad,39,Single,Cotton
+1149,Masters or Higher,Lahore,40,Widowed,Food and Beverages
+1150,Bachelors,Faisalabad,33,Married,Food and Beverages
+1151,Intermediate/A-level,Lahore,37,Widowed,Vegetable Oil and Ghee Mills
+1152,Masters or Higher,Lahore,35,Single,Vegetable Oil and Ghee Mills
+1153,Masters or Higher,Karachi,37,Married,Food manufacturing
+1154,Intermediate/A-level,Faisalabad,36,Widowed,Food manufacturing
+1155,Bachelors,Lahore,31,Married,Food manufacturing
+1156,Intermediate/A-level,Lahore,43,Single,Mining & Minerals
+1157,Intermediate/A-level,Faisalabad,45,Single,Cotton
+1158,Masters or Higher,Lahore,39,Widowed,Food manufacturing
+1159,Intermediate/A-level,Faisalabad,44,Single,Vegetable Oil and Ghee Mills
+1160,Masters or Higher,Karachi,42,Widowed,Vegetable Oil and Ghee Mills
+1161,Matric/O-level,Faisalabad,44,Married,Crude Oil Refining
+1162,Bachelors,Karachi,42,Married,Mining & Minerals
+1163,Bachelors,Karachi,40,Single,Vegetable Oil and Ghee Mills
+1164,Intermediate/A-level,Multan,39,Single,Food manufacturing
+1165,Intermediate/A-level,Islamabad,35,Married,Cotton
+1166,Bachelors,Karachi,38,Married,Mining & Minerals
+1167,Intermediate/A-level,Lahore,35,Single,Casting of Iron & Steel
+1168,Masters or Higher,Karachi,35,Married,Vegetable Oil and Ghee Mills
+1169,Matric/O-level,Lahore,45,Married,Food manufacturing
+1170,Bachelors,Faisalabad,36,Married,Mining & Minerals
+1171,Masters or Higher,Karachi,47,Widowed,Vegetable Oil and Ghee Mills
+1172,Matric/O-level,Lahore,45,Married,Vegetable Oil and Ghee Mills
+1173,Masters or Higher,Islamabad,47,Widowed,Cotton
+1174,Bachelors,Multan,44,Married,Crude Oil Refining
+1175,Bachelors,Karachi,42,Married,Food and Beverages
+1176,Bachelors,Islamabad,37,Married,Mining & Minerals
+1177,Bachelors,Multan,41,Single,Food manufacturing
+1178,Matric/O-level,Karachi,46,Married,Vegetable Oil and Ghee Mills
+1179,Bachelors,Karachi,41,Single,Casting of Iron & Steel
+1180,Bachelors,Karachi,41,Single,Cotton
+1181,Intermediate/A-level,Islamabad,45,Widowed,Casting of Iron & Steel
+1182,Intermediate/A-level,Islamabad,45,Single,Cotton
+1183,Masters or Higher,Islamabad,32,Single,Cotton
+1184,Bachelors,Karachi,35,Widowed,Cotton
+1185,Masters or Higher,Islamabad,37,Single,Mining & Minerals
+1186,Intermediate/A-level,Karachi,37,Married,Food manufacturing
+1187,Masters or Higher,Karachi,35,Single,Vegetable Oil and Ghee Mills
+1188,Bachelors,Lahore,43,Single,Casting of Iron & Steel
+1189,Bachelors,Lahore,43,Married,Casting of Iron & Steel
+1190,Masters or Higher,Faisalabad,36,Single,Cotton
+1191,Bachelors,Karachi,40,Married,Vegetable Oil and Ghee Mills
+1192,Bachelors,Multan,45,Single,Food manufacturing
+1193,Bachelors,Lahore,34,Single,Food manufacturing
+1194,Bachelors,Multan,42,Married,Food and Beverages
+1195,Intermediate/A-level,Lahore,33,Widowed,Cotton
+1196,Bachelors,Islamabad,39,Married,Mining & Minerals
+1197,Bachelors,Lahore,28,Married,Casting of Iron & Steel
+1198,Bachelors,Lahore,40,Widowed,Food manufacturing
+1199,Bachelors,Multan,39,Single,Vegetable Oil and Ghee Mills
+1200,Intermediate/A-level,Lahore,40,Widowed,Food manufacturing
+1201,Bachelors,Faisalabad,43,Widowed,Vegetable Oil and Ghee Mills
+1202,Masters or Higher,Lahore,38,Single,Mining & Minerals
+1203,Masters or Higher,Islamabad,45,Married,Cotton
+1204,Intermediate/A-level,Karachi,42,Single,Chemicals & Fertilizers
+1205,Masters or Higher,Lahore,47,Single,Vegetable Oil and Ghee Mills
+1206,Bachelors,Karachi,36,Married,Cotton
+1207,Masters or Higher,Karachi,36,Married,Mining & Minerals
+1208,Masters or Higher,Lahore,39,Widowed,Food manufacturing
+1209,Intermediate/A-level,Karachi,47,Married,Mining & Minerals
+1210,Bachelors,Karachi,38,Single,Mining & Minerals
+1211,Intermediate/A-level,Lahore,45,Married,Crude Oil Refining
+1212,Intermediate/A-level,Karachi,42,Widowed,Cotton
+1213,Matric/O-level,Multan,34,Married,Casting of Iron & Steel
+1214,Intermediate/A-level,Faisalabad,36,Single,Mining & Minerals
+1215,Bachelors,Karachi,40,Single,Food manufacturing
+1216,Bachelors,Faisalabad,33,Widowed,Casting of Iron & Steel
+1217,Intermediate/A-level,Karachi,32,Single,Cotton
+1218,Intermediate/A-level,Islamabad,33,Widowed,Cotton
+1219,Matric/O-level,Karachi,33,Married,Food manufacturing
+1220,Matric/O-level,Karachi,39,Single,Chemicals & Fertilizers
+1221,Intermediate/A-level,Karachi,47,Widowed,Mining & Minerals
+1222,Bachelors,Lahore,36,Single,Vegetable Oil and Ghee Mills
+1223,Bachelors,Islamabad,40,Widowed,Food and Beverages
+1224,Masters or Higher,Faisalabad,32,Single,Food manufacturing
+1225,Bachelors,Karachi,35,Widowed,Mining & Minerals
+1226,Bachelors,Lahore,39,Single,Cotton
+1227,Masters or Higher,Lahore,37,Single,Food manufacturing
+1228,Masters or Higher,Lahore,32,Single,Mining & Minerals
+1229,Masters or Higher,Karachi,39,Widowed,Cotton
+1230,Bachelors,Karachi,40,Married,Casting of Iron & Steel
+1231,Bachelors,Faisalabad,39,Single,Vegetable Oil and Ghee Mills
+1232,Intermediate/A-level,Multan,41,Widowed,Vegetable Oil and Ghee Mills
+1233,Bachelors,Lahore,34,Single,Casting of Iron & Steel
+1234,Matric/O-level,Multan,33,Married,Cotton
+1235,Bachelors,Lahore,43,Single,Food manufacturing
+1236,Bachelors,Lahore,39,Single,Mining & Minerals
+1237,Masters or Higher,Lahore,43,Married,Cotton
+1238,Bachelors,Lahore,39,Married,Food manufacturing
+1239,Bachelors,Karachi,33,Single,Vegetable Oil and Ghee Mills
+1240,Masters or Higher,Karachi,37,Married,Food manufacturing
+1241,Intermediate/A-level,Lahore,41,Widowed,Vegetable Oil and Ghee Mills
+1242,Matric/O-level,Faisalabad,46,Single,Mining & Minerals
+1243,Masters or Higher,Karachi,47,Married,Casting of Iron & Steel
+1244,Bachelors,Multan,45,Single,Chemicals & Fertilizers
+1245,Bachelors,Islamabad,38,Single,Vegetable Oil and Ghee Mills
+1246,Intermediate/A-level,Lahore,40,Married,Vegetable Oil and Ghee Mills
+1247,Bachelors,Lahore,49,Widowed,Food manufacturing
+1248,Matric/O-level,Lahore,41,Widowed,Food manufacturing
+1249,Bachelors,Faisalabad,37,Widowed,Cotton
+1250,Intermediate/A-level,Faisalabad,38,Single,Vegetable Oil and Ghee Mills
+1251,Intermediate/A-level,Islamabad,38,Married,Vegetable Oil and Ghee Mills
+1252,Bachelors,Multan,35,Widowed,Vegetable Oil and Ghee Mills
+1253,Masters or Higher,Karachi,38,Married,Food manufacturing
+1254,Matric/O-level,Faisalabad,41,Married,Chemicals & Fertilizers
+1255,Intermediate/A-level,Multan,36,Married,Crude Oil Refining
+1256,Bachelors,Islamabad,37,Widowed,Casting of Iron & Steel
+1257,Intermediate/A-level,Karachi,46,Widowed,Food manufacturing
+1258,Bachelors,Islamabad,33,Single,Cotton
+1259,Bachelors,Islamabad,31,Widowed,Vegetable Oil and Ghee Mills
+1260,Intermediate/A-level,Multan,38,Single,Cotton
+1261,Bachelors,Multan,31,Married,Crude Oil Refining
+1262,Bachelors,Karachi,39,Married,Vegetable Oil and Ghee Mills
+1263,Matric/O-level,Islamabad,50,Widowed,Food and Beverages
+1264,Masters or Higher,Islamabad,45,Widowed,Chemicals & Fertilizers
+1265,Bachelors,Karachi,31,Married,Food manufacturing
+1266,Intermediate/A-level,Multan,37,Married,Food manufacturing
+1267,Intermediate/A-level,Lahore,45,Married,Casting of Iron & Steel
+1268,Intermediate/A-level,Lahore,38,Widowed,Vegetable Oil and Ghee Mills
+1269,Bachelors,Islamabad,44,Widowed,Casting of Iron & Steel
+1270,Matric/O-level,Islamabad,40,Single,Crude Oil Refining
+1271,Bachelors,Lahore,44,Single,Cotton
+1272,Masters or Higher,Karachi,30,Widowed,Casting of Iron & Steel
+1273,Intermediate/A-level,Islamabad,45,Single,Vegetable Oil and Ghee Mills
+1274,Matric/O-level,Islamabad,36,Widowed,Vegetable Oil and Ghee Mills
+1275,Intermediate/A-level,Lahore,35,Widowed,Crude Oil Refining
+1276,Intermediate/A-level,Faisalabad,39,Married,Food manufacturing
+1277,Bachelors,Multan,47,Single,Cotton
+1278,Masters or Higher,Karachi,40,Widowed,Vegetable Oil and Ghee Mills
+1279,Intermediate/A-level,Islamabad,43,Single,Food manufacturing
+1280,Masters or Higher,Lahore,40,Single,Food manufacturing
+1281,Bachelors,Lahore,42,Married,Vegetable Oil and Ghee Mills
+1282,Intermediate/A-level,Lahore,42,Single,Cotton
+1283,Masters or Higher,Lahore,34,Single,Cotton
+1284,Bachelors,Karachi,42,Widowed,Food manufacturing
+1285,Intermediate/A-level,Karachi,36,Widowed,Mining & Minerals
+1286,Intermediate/A-level,Islamabad,45,Single,Crude Oil Refining
+1287,Intermediate/A-level,Multan,52,Widowed,Cotton
+1288,Intermediate/A-level,Karachi,41,Married,Casting of Iron & Steel
+1289,Masters or Higher,Karachi,43,Widowed,Vegetable Oil and Ghee Mills
+1290,Intermediate/A-level,Multan,33,Widowed,Casting of Iron & Steel
+1291,Masters or Higher,Islamabad,44,Married,Mining & Minerals
+1292,Bachelors,Lahore,42,Widowed,Casting of Iron & Steel
+1293,Bachelors,Multan,37,Single,Food manufacturing
+1294,Bachelors,Islamabad,33,Single,Vegetable Oil and Ghee Mills
+1295,Intermediate/A-level,Karachi,43,Single,Casting of Iron & Steel
+1296,Masters or Higher,Karachi,40,Married,Vegetable Oil and Ghee Mills
+1297,Bachelors,Islamabad,38,Married,Chemicals & Fertilizers
+1298,Bachelors,Karachi,32,Married,Food manufacturing
+1299,Bachelors,Lahore,35,Widowed,Cotton
+1300,Intermediate/A-level,Lahore,45,Married,Crude Oil Refining
+1301,Masters or Higher,Karachi,35,Married,Cotton
+1302,Bachelors,Multan,48,Widowed,Cotton
+1303,Bachelors,Lahore,34,Single,Food manufacturing
+1304,Bachelors,Karachi,33,Widowed,Cotton
+1305,Bachelors,Karachi,41,Widowed,Cotton
+1306,Bachelors,Lahore,41,Widowed,Food manufacturing
+1307,Bachelors,Lahore,43,Married,Vegetable Oil and Ghee Mills
+1308,Intermediate/A-level,Multan,45,Widowed,Mining & Minerals
+1309,Intermediate/A-level,Islamabad,32,Widowed,Cotton
+1310,Masters or Higher,Karachi,41,Married,Food manufacturing
+1311,Masters or Higher,Islamabad,36,Married,Cotton
+1312,Bachelors,Islamabad,38,Married,Food manufacturing
+1313,Masters or Higher,Karachi,35,Married,Mining & Minerals
+1314,Bachelors,Multan,43,Married,Chemicals & Fertilizers
+1315,Intermediate/A-level,Karachi,39,Single,Food manufacturing
+1316,Intermediate/A-level,Karachi,38,Married,Casting of Iron & Steel
+1317,Intermediate/A-level,Lahore,41,Married,Mining & Minerals
+1318,Masters or Higher,Karachi,49,Widowed,Food manufacturing
+1319,Matric/O-level,Lahore,34,Married,Casting of Iron & Steel
+1320,Matric/O-level,Karachi,38,Widowed,Vegetable Oil and Ghee Mills
+1321,Bachelors,Lahore,50,Widowed,Food manufacturing
+1322,Masters or Higher,Karachi,43,Single,Cotton
+1323,Bachelors,Islamabad,40,Single,Cotton
+1324,Bachelors,Islamabad,44,Single,Vegetable Oil and Ghee Mills
+1325,Masters or Higher,Karachi,42,Married,Vegetable Oil and Ghee Mills
+1326,Intermediate/A-level,Lahore,41,Married,Vegetable Oil and Ghee Mills
+1327,Bachelors,Multan,42,Widowed,Casting of Iron & Steel
+1328,Bachelors,Karachi,34,Widowed,Crude Oil Refining
+1329,Bachelors,Islamabad,38,Widowed,Vegetable Oil and Ghee Mills
+1330,Intermediate/A-level,Karachi,35,Single,Cotton
+1331,Masters or Higher,Karachi,48,Widowed,Crude Oil Refining
+1332,Masters or Higher,Islamabad,40,Single,Crude Oil Refining
+1333,Masters or Higher,Faisalabad,45,Married,Vegetable Oil and Ghee Mills
+1334,Matric/O-level,Multan,40,Widowed,Food manufacturing
+1335,Bachelors,Lahore,38,Widowed,Cotton
+1336,Matric/O-level,Faisalabad,32,Married,Crude Oil Refining
+1337,Intermediate/A-level,Lahore,35,Widowed,Chemicals & Fertilizers
+1338,Masters or Higher,Multan,44,Married,Vegetable Oil and Ghee Mills
+1339,Intermediate/A-level,Karachi,44,Widowed,Food manufacturing
+1340,Masters or Higher,Lahore,32,Widowed,Vegetable Oil and Ghee Mills
+1341,Masters or Higher,Multan,37,Widowed,Cotton
+1342,Intermediate/A-level,Lahore,33,Widowed,Food manufacturing
+1343,Intermediate/A-level,Islamabad,43,Single,Food and Beverages
+1344,Bachelors,Faisalabad,43,Single,Chemicals & Fertilizers
+1345,Bachelors,Karachi,36,Single,Food manufacturing
+1346,Bachelors,Lahore,32,Single,Food manufacturing
+1347,Masters or Higher,Islamabad,44,Married,Mining & Minerals
+1348,Matric/O-level,Faisalabad,48,Married,Vegetable Oil and Ghee Mills
+1349,Masters or Higher,Multan,33,Widowed,Vegetable Oil and Ghee Mills
+1350,Bachelors,Islamabad,36,Widowed,Chemicals & Fertilizers
+1351,Matric/O-level,Karachi,36,Married,Vegetable Oil and Ghee Mills
+1352,Bachelors,Karachi,38,Married,Cotton
+1353,Bachelors,Islamabad,33,Widowed,Food manufacturing
+1354,Intermediate/A-level,Lahore,39,Single,Vegetable Oil and Ghee Mills
+1355,Masters or Higher,Karachi,48,Widowed,Cotton
+1356,Bachelors,Lahore,40,Single,Crude Oil Refining
+1357,Matric/O-level,Faisalabad,29,Widowed,Food manufacturing
+1358,Masters or Higher,Lahore,30,Widowed,Food and Beverages
+1359,Intermediate/A-level,Lahore,35,Married,Cotton
+1360,Masters or Higher,Multan,41,Single,Cotton
+1361,Bachelors,Multan,39,Married,Cotton
+1362,Bachelors,Karachi,34,Single,Vegetable Oil and Ghee Mills
+1363,Bachelors,Lahore,35,Single,Vegetable Oil and Ghee Mills
+1364,Matric/O-level,Lahore,30,Married,Vegetable Oil and Ghee Mills
+1365,Bachelors,Islamabad,50,Widowed,Casting of Iron & Steel
+1366,Intermediate/A-level,Multan,41,Married,Vegetable Oil and Ghee Mills
+1367,Intermediate/A-level,Islamabad,41,Widowed,Cotton
+1368,Bachelors,Karachi,42,Single,Vegetable Oil and Ghee Mills
+1369,Masters or Higher,Multan,37,Single,Crude Oil Refining
+1370,Bachelors,Lahore,32,Widowed,Food manufacturing
+1371,Bachelors,Islamabad,39,Single,Food and Beverages
+1372,Intermediate/A-level,Faisalabad,43,Married,Food manufacturing
+1373,Masters or Higher,Karachi,38,Widowed,Cotton
+1374,Bachelors,Islamabad,36,Married,Casting of Iron & Steel
+1375,Bachelors,Islamabad,43,Single,Vegetable Oil and Ghee Mills
+1376,Bachelors,Islamabad,32,Single,Casting of Iron & Steel
+1377,Masters or Higher,Islamabad,37,Widowed,Cotton
+1378,Bachelors,Lahore,33,Married,Vegetable Oil and Ghee Mills
+1379,Bachelors,Karachi,39,Single,Cotton
+1380,Intermediate/A-level,Faisalabad,45,Widowed,Casting of Iron & Steel
+1381,Intermediate/A-level,Lahore,56,Married,Casting of Iron & Steel
+1382,Intermediate/A-level,Islamabad,37,Single,Cotton
+1383,Intermediate/A-level,Multan,40,Married,Vegetable Oil and Ghee Mills
+1384,Intermediate/A-level,Karachi,45,Widowed,Vegetable Oil and Ghee Mills
+1385,Intermediate/A-level,Lahore,44,Widowed,Cotton
+1386,Matric/O-level,Karachi,31,Married,Mining & Minerals
+1387,Bachelors,Lahore,43,Married,Cotton
+1388,Bachelors,Lahore,47,Widowed,Crude Oil Refining
+1389,Bachelors,Lahore,41,Single,Chemicals & Fertilizers
+1390,Masters or Higher,Multan,35,Widowed,Casting of Iron & Steel
+1391,Intermediate/A-level,Karachi,39,Widowed,Vegetable Oil and Ghee Mills
+1392,Bachelors,Lahore,40,Single,Cotton
+1393,Bachelors,Lahore,35,Single,Food manufacturing
+1394,Matric/O-level,Islamabad,44,Married,Vegetable Oil and Ghee Mills
+1395,Bachelors,Karachi,37,Widowed,Cotton
+1396,Bachelors,Islamabad,31,Married,Chemicals & Fertilizers
+1397,Bachelors,Islamabad,43,Married,Chemicals & Fertilizers
+1398,Masters or Higher,Lahore,39,Married,Vegetable Oil and Ghee Mills
+1399,Intermediate/A-level,Islamabad,41,Single,Food manufacturing
+1400,Bachelors,Faisalabad,38,Married,Cotton
+1401,Intermediate/A-level,Lahore,39,Widowed,Food and Beverages
+1402,Bachelors,Karachi,44,Single,Cotton
+1403,Bachelors,Faisalabad,41,Married,Vegetable Oil and Ghee Mills
+1404,Intermediate/A-level,Lahore,40,Widowed,Cotton
+1405,Intermediate/A-level,Karachi,38,Married,Food and Beverages
+1406,Bachelors,Karachi,44,Single,Vegetable Oil and Ghee Mills
+1407,Bachelors,Lahore,38,Married,Vegetable Oil and Ghee Mills
+1408,Matric/O-level,Multan,31,Married,Food manufacturing
+1409,Masters or Higher,Karachi,34,Widowed,Mining & Minerals
+1410,Masters or Higher,Islamabad,42,Widowed,Casting of Iron & Steel
+1411,Bachelors,Karachi,41,Single,Food and Beverages
+1412,Bachelors,Islamabad,35,Single,Mining & Minerals
+1413,Intermediate/A-level,Islamabad,35,Single,Cotton
+1414,Intermediate/A-level,Karachi,32,Widowed,Food and Beverages
+1415,Bachelors,Lahore,38,Single,Mining & Minerals
+1416,Masters or Higher,Lahore,38,Widowed,Food and Beverages
+1417,Matric/O-level,Karachi,45,Widowed,Crude Oil Refining
+1418,Intermediate/A-level,Karachi,42,Single,Mining & Minerals
+1419,Matric/O-level,Islamabad,41,Widowed,Mining & Minerals
+1420,Bachelors,Lahore,30,Widowed,Mining & Minerals
+1421,Bachelors,Islamabad,49,Widowed,Cotton
+1422,Masters or Higher,Karachi,34,Married,Cotton
+1423,Intermediate/A-level,Karachi,28,Single,Chemicals & Fertilizers
+1424,Masters or Higher,Lahore,34,Married,Mining & Minerals
+1425,Masters or Higher,Karachi,41,Widowed,Vegetable Oil and Ghee Mills
+1426,Intermediate/A-level,Multan,41,Widowed,Food manufacturing
+1427,Masters or Higher,Lahore,43,Married,Mining & Minerals
+1428,Bachelors,Karachi,42,Widowed,Food manufacturing
+1429,Bachelors,Faisalabad,36,Widowed,Vegetable Oil and Ghee Mills
+1430,Masters or Higher,Multan,47,Married,Cotton
+1431,Bachelors,Lahore,36,Single,Vegetable Oil and Ghee Mills
+1432,Bachelors,Karachi,38,Widowed,Food and Beverages
+1433,Masters or Higher,Islamabad,47,Married,Cotton
+1434,Bachelors,Lahore,43,Widowed,Cotton
+1435,Masters or Higher,Lahore,48,Single,Vegetable Oil and Ghee Mills
+1436,Intermediate/A-level,Karachi,36,Widowed,Crude Oil Refining
+1437,Intermediate/A-level,Karachi,40,Married,Food manufacturing
+1438,Masters or Higher,Karachi,37,Married,Crude Oil Refining
+1439,Bachelors,Lahore,36,Married,Food manufacturing
+1440,Bachelors,Islamabad,34,Married,Vegetable Oil and Ghee Mills
+1441,Bachelors,Lahore,41,Married,Cotton
+1442,Matric/O-level,Multan,48,Widowed,Vegetable Oil and Ghee Mills
+1443,Bachelors,Karachi,38,Widowed,Cotton
+1444,Masters or Higher,Faisalabad,41,Widowed,Food manufacturing
+1445,Masters or Higher,Islamabad,42,Married,Casting of Iron & Steel
+1446,Bachelors,Lahore,36,Widowed,Food and Beverages
+1447,Bachelors,Islamabad,39,Widowed,Vegetable Oil and Ghee Mills
+1448,Matric/O-level,Islamabad,36,Married,Food and Beverages
+1449,Bachelors,Karachi,32,Single,Food manufacturing
+1450,Intermediate/A-level,Islamabad,41,Single,Vegetable Oil and Ghee Mills
+1451,Intermediate/A-level,Faisalabad,40,Widowed,Crude Oil Refining
+1452,Bachelors,Islamabad,31,Married,Cotton
+1453,Bachelors,Karachi,43,Widowed,Cotton
+1454,Masters or Higher,Islamabad,42,Married,Vegetable Oil and Ghee Mills
+1455,Intermediate/A-level,Islamabad,46,Widowed,Food manufacturing
+1456,Intermediate/A-level,Lahore,47,Widowed,Cotton
+1457,Intermediate/A-level,Karachi,37,Single,Vegetable Oil and Ghee Mills
+1458,Bachelors,Islamabad,43,Widowed,Crude Oil Refining
+1459,Masters or Higher,Faisalabad,34,Single,Cotton
+1460,Masters or Higher,Lahore,33,Married,Food manufacturing
+1461,Intermediate/A-level,Faisalabad,42,Married,Crude Oil Refining
+1462,Masters or Higher,Karachi,38,Single,Crude Oil Refining
+1463,Intermediate/A-level,Karachi,33,Widowed,Casting of Iron & Steel
+1464,Bachelors,Lahore,43,Single,Food manufacturing
+1465,Bachelors,Karachi,42,Married,Casting of Iron & Steel
+1466,Masters or Higher,Lahore,32,Widowed,Food manufacturing
+1467,Intermediate/A-level,Lahore,37,Married,Cotton
+1468,Intermediate/A-level,Multan,33,Widowed,Cotton
+1469,Masters or Higher,Faisalabad,34,Married,Food manufacturing
+1470,Bachelors,Karachi,45,Single,Food manufacturing
+1471,Intermediate/A-level,Lahore,40,Widowed,Chemicals & Fertilizers
+1472,Masters or Higher,Faisalabad,45,Widowed,Chemicals & Fertilizers
+1473,Bachelors,Lahore,37,Single,Food manufacturing
+1474,Intermediate/A-level,Karachi,39,Married,Crude Oil Refining
+1475,Bachelors,Karachi,51,Widowed,Casting of Iron & Steel
+1476,Bachelors,Lahore,39,Single,Cotton
+1477,Bachelors,Lahore,32,Single,Casting of Iron & Steel
+1478,Bachelors,Karachi,37,Single,Mining & Minerals
+1479,Bachelors,Lahore,35,Widowed,Cotton
+1480,Bachelors,Lahore,44,Widowed,Cotton
+1481,Bachelors,Lahore,42,Married,Casting of Iron & Steel
+1482,Masters or Higher,Karachi,43,Widowed,Casting of Iron & Steel
+1483,Intermediate/A-level,Multan,41,Widowed,Mining & Minerals
+1484,Bachelors,Karachi,35,Single,Cotton
+1485,Intermediate/A-level,Karachi,35,Single,Mining & Minerals
+1486,Intermediate/A-level,Karachi,41,Single,Crude Oil Refining
+1487,Bachelors,Karachi,42,Married,Cotton
+1488,Intermediate/A-level,Multan,42,Widowed,Vegetable Oil and Ghee Mills
+1489,Masters or Higher,Multan,42,Widowed,Cotton
+1490,Bachelors,Faisalabad,38,Single,Casting of Iron & Steel
+1491,Masters or Higher,Faisalabad,50,Single,Food manufacturing
+1492,Intermediate/A-level,Lahore,48,Married,Cotton
+1493,Bachelors,Lahore,42,Single,Food manufacturing
+1494,Intermediate/A-level,Islamabad,38,Widowed,Vegetable Oil and Ghee Mills
+1495,Bachelors,Multan,33,Widowed,Vegetable Oil and Ghee Mills
+1496,Bachelors,Lahore,35,Married,Food manufacturing
+1497,Bachelors,Lahore,31,Single,Vegetable Oil and Ghee Mills
+1498,Intermediate/A-level,Lahore,40,Widowed,Cotton
+1499,Bachelors,Karachi,42,Single,Food manufacturing
+1500,Masters or Higher,Islamabad,43,Married,Casting of Iron & Steel

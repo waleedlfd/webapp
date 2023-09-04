@@ -1,0 +1,99 @@
+/* div.css-1wivap2.e16fv1kl3 {
+  font-size: .75rem;
+
+} */
+
+div.css-1xarl3l.e16fv1kl1 {
+  background-color: rgb(10, 13, 18); 
+  border: 1px solid rgb(14, 17, 23);
+  border-radius: 5px;
+  text-align: center;
+  filter: brightness(80%) saturate(80%);
+  box-shadow: 0 3px 7px rgba(31, 119, 180); 
+}
+
+div.element-containercss-7pzqv1.e1tzin5v3 {
+  background-color: #9c3d3d;
+  border: 1px solid #8c2c2c;
+  /* border-radius: 5px; */
+  /* text-align: center; */
+  /* filter: brightness(80%) saturate(80%); */
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); */
+}
+
+/* div.css-12w0qpk.e1tzin5v2 {
+    background-color: rgb(10, 13, 18); 
+    border: 1px solid rgb(14, 17, 23);
+    border-radius: 5px;
+    text-align: center;
+    filter: brightness(80%) saturate(80%);
+    box-shadow: 0 3px 7px rgba(31, 119, 180); 
+}
+
+div.element-containercss-7pzqv1.e1tzin5v3 {
+    background-color: #9c3d3d;
+    border: 1px solid #8c2c2c;
+    /* border-radius: 5px; */
+    /* text-align: center; */
+    /* filter: brightness(80%) saturate(80%); */
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); 
+}
+   */
+  /* div.vis-color-picker {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    margin-top: -140px;
+    margin-left: 30px;
+    width: 310px;
+    height: 444px;
+    z-index: 1;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    display: none;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px 0px;
+  }
+  
+  div.vis-color-picker div.vis-arrow {
+    position: absolute;
+    top: 147px;
+    left: 5px;
+  }
+  
+  div.vis-color-picker div.vis-arrow::after,
+  div.vis-color-picker div.vis-arrow::before {
+    right: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+  }
+  
+  div.vis-color-picker div.vis-arrow:after {
+    border-color: rgba(255, 255, 255, 0);
+    border-right-color: #ffffff;
+    border-width: 30px;
+    margin-top: -30px;
+  }
+  
+  div.vis-color-picker div.vis-color {
+    position: absolute;
+    width: 289px;
+    height: 289px;
+    cursor: pointer;
+  }
+  
+  div.vis-color-picker div.vis-brightness {
+    position: absolute;
+    top: 313px;
+  }
+  
+  div.vis-color-picker div.vis-opacity {
+    position: absolute;
+    top: 350px;
+  }
+   */

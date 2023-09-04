@@ -1,0 +1,5680 @@
+Customer_ID,Collateral Type,Collateral Value
+1,Vehicles,6020875
+1,Real Estate,758188
+1,Precious Metals,4419779
+2,Precious Metals,4529456
+2,Vehicles,3128953
+2,Real Estate,8433476
+3,Real Estate,9271000
+3,Precious Metals,4804023
+3,Shares and Securities,2054920
+4,Deposits with ABL,7422998
+4,Precious Metals,8648901
+4,Vehicles,8935667
+5,Shares and Securities,8165483
+5,Vehicles,8808728
+5,Precious Metals,9917616
+5,Real Estate,1520772
+6,Deposits with ABL,5958164
+6,Precious Metals,8730406
+6,Vehicles,3797566
+7,Precious Metals,9096520
+7,Real Estate,7526464
+7,Shares and Securities,736183
+8,Real Estate,2270153
+8,Precious Metals,8685192
+8,Vehicles,5301874
+8,Shares and Securities,9967718
+9,Real Estate,8061412
+9,Precious Metals,4194493
+9,Vehicles,1458707
+9,Deposits with ABL,8100617
+9,Shares and Securities,2977428
+10,Deposits with ABL,6081131
+10,Vehicles,7302847
+10,Precious Metals,3291071
+10,Real Estate,2944459
+10,Shares and Securities,9979348
+11,Precious Metals,8272234
+11,Real Estate,7233919
+11,Vehicles,7823711
+11,Shares and Securities,1906587
+12,Real Estate,5637776
+12,Shares and Securities,9308488
+12,Precious Metals,9579929
+12,Vehicles,8229381
+13,Real Estate,9547337
+13,Vehicles,7896511
+13,Precious Metals,882458
+14,Precious Metals,1884120
+14,Deposits with ABL,8622860
+14,Vehicles,8237311
+15,Real Estate,3513239
+15,Shares and Securities,2702365
+15,Precious Metals,3408265
+15,Vehicles,7720696
+16,Vehicles,1192478
+16,Shares and Securities,805521
+16,Precious Metals,8673301
+17,Precious Metals,8496025
+17,Vehicles,1742786
+17,Shares and Securities,1382603
+18,Precious Metals,7553327
+18,Vehicles,9469013
+18,Shares and Securities,8139845
+19,Real Estate,5702526
+19,Shares and Securities,8095742
+19,Precious Metals,962550
+19,Vehicles,7785661
+19,Deposits with ABL,2783285
+20,Real Estate,8811195
+20,Precious Metals,5963284
+20,Vehicles,3914223
+20,Deposits with ABL,9243523
+21,Vehicles,2611015
+21,Precious Metals,1988882
+21,Real Estate,7295691
+21,Shares and Securities,8776632
+22,Vehicles,8692464
+22,Precious Metals,2078450
+22,Real Estate,2552001
+22,Shares and Securities,8459995
+22,Deposits with ABL,6556895
+23,Real Estate,1057488
+23,Precious Metals,5722874
+23,Vehicles,5761605
+23,Deposits with ABL,1183359
+24,Vehicles,6342526
+24,Shares and Securities,7313540
+24,Precious Metals,3258951
+24,Real Estate,9034722
+25,Real Estate,9626446
+25,Shares and Securities,5535883
+25,Vehicles,1324252
+25,Precious Metals,5122912
+26,Vehicles,3759726
+26,Deposits with ABL,6599595
+26,Precious Metals,807624
+26,Real Estate,2225998
+27,Vehicles,7608208
+27,Precious Metals,3562565
+27,Shares and Securities,3252174
+28,Precious Metals,8738992
+28,Real Estate,2042132
+28,Shares and Securities,1776696
+29,Precious Metals,7921810
+29,Vehicles,2959486
+29,Real Estate,4716931
+29,Shares and Securities,7080570
+29,Deposits with ABL,2823127
+30,Precious Metals,7338118
+30,Vehicles,6400094
+30,Shares and Securities,8825119
+30,Real Estate,6426381
+31,Precious Metals,2632532
+31,Real Estate,5540680
+31,Deposits with ABL,1700595
+32,Shares and Securities,6812692
+32,Precious Metals,6668399
+32,Vehicles,8836561
+33,Precious Metals,7420851
+33,Vehicles,4092733
+33,Real Estate,3321935
+33,Shares and Securities,9023030
+34,Precious Metals,6144193
+34,Vehicles,1257242
+34,Real Estate,1633433
+35,Vehicles,7345024
+35,Real Estate,9521015
+35,Precious Metals,3696394
+35,Deposits with ABL,8964320
+36,Precious Metals,4884528
+36,Vehicles,1141635
+36,Real Estate,8184420
+37,Real Estate,900554
+37,Vehicles,6054704
+37,Deposits with ABL,9133775
+37,Shares and Securities,7648864
+38,Precious Metals,6386574
+38,Deposits with ABL,5666800
+38,Vehicles,1051673
+38,Shares and Securities,3234149
+38,Real Estate,9043574
+39,Precious Metals,4113017
+39,Vehicles,558003
+39,Real Estate,2972546
+40,Vehicles,1292863
+40,Deposits with ABL,1972656
+40,Real Estate,9699955
+41,Precious Metals,3715397
+41,Real Estate,3079571
+41,Shares and Securities,9888171
+42,Real Estate,1033128
+42,Vehicles,5783120
+42,Precious Metals,3681353
+42,Deposits with ABL,6576993
+43,Real Estate,2228554
+43,Precious Metals,2293452
+43,Vehicles,6242296
+44,Real Estate,8358624
+44,Precious Metals,9663350
+44,Vehicles,5177443
+44,Shares and Securities,8948359
+44,Deposits with ABL,1664769
+45,Real Estate,2426652
+45,Vehicles,2758916
+45,Precious Metals,4755741
+46,Precious Metals,9195873
+46,Vehicles,7183340
+46,Deposits with ABL,6253656
+46,Shares and Securities,7930084
+47,Shares and Securities,6919845
+47,Vehicles,1170086
+47,Deposits with ABL,748902
+47,Precious Metals,4789689
+47,Real Estate,5418809
+48,Precious Metals,5443376
+48,Vehicles,1174978
+48,Deposits with ABL,2406128
+49,Vehicles,6355203
+49,Precious Metals,884727
+49,Shares and Securities,6721780
+49,Deposits with ABL,4961567
+49,Real Estate,5973233
+50,Precious Metals,9293373
+50,Vehicles,8028171
+50,Shares and Securities,1797951
+51,Precious Metals,4799007
+51,Vehicles,3312072
+51,Real Estate,2693261
+51,Deposits with ABL,2276637
+52,Vehicles,8511083
+52,Shares and Securities,3290250
+52,Precious Metals,4314830
+53,Precious Metals,9256875
+53,Vehicles,5712736
+53,Real Estate,2841241
+53,Shares and Securities,8706287
+54,Real Estate,3169359
+54,Precious Metals,1115887
+54,Deposits with ABL,8003021
+55,Vehicles,3683750
+55,Precious Metals,5608837
+55,Real Estate,1220805
+56,Vehicles,9927923
+56,Real Estate,9157329
+56,Precious Metals,526282
+57,Precious Metals,4263140
+57,Vehicles,2583303
+57,Shares and Securities,2538889
+58,Vehicles,3988413
+58,Precious Metals,2740390
+58,Deposits with ABL,3822095
+58,Real Estate,8283741
+59,Precious Metals,6409526
+59,Vehicles,9610517
+59,Real Estate,9886387
+60,Deposits with ABL,588512
+60,Shares and Securities,4465732
+60,Vehicles,1860622
+61,Precious Metals,8035676
+61,Real Estate,6065939
+61,Vehicles,2670888
+62,Precious Metals,7073690
+62,Real Estate,4906976
+62,Deposits with ABL,8808940
+63,Vehicles,4301759
+63,Precious Metals,9464640
+63,Deposits with ABL,1756174
+64,Precious Metals,4810521
+64,Vehicles,552749
+64,Shares and Securities,811507
+65,Precious Metals,4533741
+65,Deposits with ABL,7671418
+65,Vehicles,7154681
+66,Shares and Securities,2068723
+66,Deposits with ABL,3088085
+66,Vehicles,3185525
+67,Real Estate,1458600
+67,Precious Metals,3671332
+67,Shares and Securities,8444220
+68,Real Estate,869403
+68,Precious Metals,5069596
+68,Vehicles,7709926
+68,Shares and Securities,3722513
+69,Deposits with ABL,718757
+69,Vehicles,8179605
+69,Real Estate,9401463
+70,Real Estate,7987698
+70,Vehicles,2913272
+70,Shares and Securities,8508675
+70,Precious Metals,6385667
+70,Deposits with ABL,8866069
+71,Real Estate,6549548
+71,Precious Metals,1922507
+71,Vehicles,8036653
+72,Vehicles,7353699
+72,Real Estate,5921180
+72,Shares and Securities,3709545
+72,Deposits with ABL,3794359
+73,Vehicles,2668068
+73,Precious Metals,7719917
+73,Deposits with ABL,8465396
+74,Precious Metals,2888538
+74,Shares and Securities,5597490
+74,Vehicles,5159587
+74,Real Estate,2766311
+75,Real Estate,3053269
+75,Vehicles,7282834
+75,Precious Metals,672668
+76,Vehicles,7249819
+76,Real Estate,1242646
+76,Precious Metals,7892989
+76,Shares and Securities,9213730
+76,Deposits with ABL,9757988
+77,Real Estate,1000774
+77,Precious Metals,2679070
+77,Vehicles,3597013
+78,Precious Metals,9858207
+78,Vehicles,645140
+78,Real Estate,7795072
+78,Shares and Securities,5780540
+79,Precious Metals,1586097
+79,Real Estate,1751268
+79,Vehicles,2236032
+79,Shares and Securities,2238571
+80,Shares and Securities,3066734
+80,Vehicles,9662156
+80,Precious Metals,5699201
+81,Vehicles,9155888
+81,Real Estate,8788706
+81,Shares and Securities,9397298
+81,Precious Metals,2348323
+82,Precious Metals,9865663
+82,Deposits with ABL,6003900
+82,Shares and Securities,4373966
+83,Real Estate,4896695
+83,Precious Metals,3848802
+83,Vehicles,5204504
+83,Shares and Securities,7421681
+84,Precious Metals,3879522
+84,Vehicles,8937635
+84,Deposits with ABL,1194365
+84,Real Estate,669723
+84,Shares and Securities,5539611
+85,Precious Metals,1449108
+85,Real Estate,8203269
+85,Vehicles,7207066
+85,Shares and Securities,5911874
+85,Deposits with ABL,9157557
+86,Precious Metals,4806894
+86,Vehicles,709863
+86,Real Estate,7173286
+86,Deposits with ABL,3406262
+87,Precious Metals,1197614
+87,Deposits with ABL,7148870
+87,Vehicles,7031103
+87,Real Estate,7851981
+88,Precious Metals,2092897
+88,Shares and Securities,8298666
+88,Vehicles,3784502
+89,Real Estate,4699668
+89,Vehicles,8775643
+89,Precious Metals,4112952
+89,Shares and Securities,7085493
+90,Real Estate,3978966
+90,Precious Metals,1573839
+90,Vehicles,6468759
+91,Deposits with ABL,2434731
+91,Shares and Securities,8635802
+91,Vehicles,8879733
+91,Precious Metals,8622243
+92,Precious Metals,5792009
+92,Real Estate,5180274
+92,Vehicles,3302357
+92,Deposits with ABL,3544111
+92,Shares and Securities,6992306
+93,Precious Metals,8750171
+93,Shares and Securities,5036676
+93,Real Estate,6932426
+93,Vehicles,8059135
+93,Deposits with ABL,1294036
+94,Vehicles,2516714
+94,Shares and Securities,2307388
+94,Precious Metals,7028869
+94,Deposits with ABL,822395
+95,Shares and Securities,9682996
+95,Vehicles,1066555
+95,Real Estate,8801580
+96,Vehicles,7286671
+96,Shares and Securities,2644399
+96,Precious Metals,6053042
+96,Deposits with ABL,4489559
+97,Vehicles,6805940
+97,Shares and Securities,9777514
+97,Precious Metals,3208956
+98,Precious Metals,5523494
+98,Shares and Securities,9868598
+98,Vehicles,8204860
+99,Vehicles,1547605
+99,Precious Metals,8074142
+99,Deposits with ABL,7031387
+99,Real Estate,2570016
+100,Precious Metals,4006977
+100,Real Estate,3405221
+100,Vehicles,4423671
+100,Deposits with ABL,8508874
+101,Precious Metals,8323190
+101,Vehicles,9207465
+101,Real Estate,7818508
+101,Shares and Securities,5358502
+102,Vehicles,1749795
+102,Real Estate,9786612
+102,Precious Metals,720919
+103,Precious Metals,2658885
+103,Shares and Securities,6222901
+103,Vehicles,4381704
+103,Deposits with ABL,9354198
+104,Real Estate,3120344
+104,Precious Metals,1450016
+104,Shares and Securities,1309069
+104,Vehicles,1383869
+104,Deposits with ABL,3816799
+105,Vehicles,4655938
+105,Precious Metals,4529437
+105,Deposits with ABL,2727164
+106,Vehicles,7900059
+106,Real Estate,884277
+106,Precious Metals,7652883
+106,Deposits with ABL,9409667
+107,Precious Metals,556885
+107,Vehicles,3127780
+107,Shares and Securities,9387329
+107,Real Estate,2902318
+108,Vehicles,7956409
+108,Precious Metals,9642454
+108,Deposits with ABL,9634657
+109,Precious Metals,6680639
+109,Vehicles,7203058
+109,Shares and Securities,6289676
+110,Precious Metals,2095658
+110,Deposits with ABL,7460360
+110,Vehicles,5734206
+111,Precious Metals,918016
+111,Real Estate,5199778
+111,Vehicles,5485008
+112,Precious Metals,4033028
+112,Real Estate,7535483
+112,Shares and Securities,4103795
+113,Precious Metals,7209314
+113,Vehicles,8744872
+113,Shares and Securities,9856170
+113,Real Estate,5844894
+113,Deposits with ABL,4187980
+114,Vehicles,9825948
+114,Shares and Securities,4442901
+114,Precious Metals,9324463
+114,Real Estate,8235832
+115,Precious Metals,3721426
+115,Vehicles,4184966
+115,Real Estate,6943823
+115,Shares and Securities,8447201
+116,Precious Metals,4306538
+116,Vehicles,845601
+116,Real Estate,8837287
+117,Real Estate,5796479
+117,Vehicles,8441323
+117,Precious Metals,2687949
+118,Vehicles,9770247
+118,Precious Metals,5141982
+118,Shares and Securities,5957868
+119,Vehicles,5974860
+119,Precious Metals,7438902
+119,Shares and Securities,3511769
+120,Deposits with ABL,9294496
+120,Real Estate,838395
+120,Shares and Securities,5383281
+120,Vehicles,5231144
+121,Vehicles,5499968
+121,Precious Metals,4830277
+121,Shares and Securities,6741190
+121,Real Estate,5415162
+122,Precious Metals,8885337
+122,Real Estate,3846667
+122,Vehicles,7450223
+123,Shares and Securities,7242034
+123,Vehicles,1178774
+123,Precious Metals,1831200
+123,Deposits with ABL,9879603
+124,Vehicles,4810797
+124,Precious Metals,6444506
+124,Real Estate,3026012
+124,Shares and Securities,6066635
+125,Vehicles,5944833
+125,Precious Metals,3302965
+125,Shares and Securities,3441706
+126,Real Estate,8732814
+126,Precious Metals,2556780
+126,Shares and Securities,9226915
+127,Precious Metals,3275557
+127,Vehicles,979204
+127,Real Estate,5857738
+128,Precious Metals,1757834
+128,Vehicles,5809802
+128,Shares and Securities,585928
+129,Vehicles,6918479
+129,Shares and Securities,5168387
+129,Deposits with ABL,5343147
+129,Real Estate,2572171
+130,Deposits with ABL,7868205
+130,Vehicles,4470219
+130,Precious Metals,6776055
+130,Real Estate,1690207
+130,Shares and Securities,7919077
+131,Precious Metals,7770959
+131,Vehicles,8653185
+131,Real Estate,3679703
+131,Deposits with ABL,8258158
+132,Vehicles,2646310
+132,Precious Metals,8066902
+132,Shares and Securities,6823509
+132,Deposits with ABL,9542414
+133,Vehicles,8436318
+133,Shares and Securities,5449446
+133,Real Estate,4622747
+134,Vehicles,6088024
+134,Precious Metals,5106059
+134,Real Estate,3545680
+134,Deposits with ABL,4230576
+134,Shares and Securities,9185577
+135,Real Estate,9030174
+135,Precious Metals,8097699
+135,Vehicles,3494714
+136,Vehicles,8347373
+136,Precious Metals,2711694
+136,Shares and Securities,5557331
+137,Real Estate,9528672
+137,Shares and Securities,7152323
+137,Vehicles,1839602
+138,Precious Metals,6814257
+138,Shares and Securities,9939153
+138,Vehicles,9655416
+139,Real Estate,7251519
+139,Precious Metals,730511
+139,Shares and Securities,7347860
+139,Vehicles,2172006
+140,Vehicles,4673770
+140,Precious Metals,5631619
+140,Real Estate,2420464
+140,Shares and Securities,7449668
+141,Vehicles,8609180
+141,Precious Metals,4787525
+141,Deposits with ABL,5114425
+141,Shares and Securities,648819
+142,Real Estate,3732841
+142,Vehicles,9993156
+142,Shares and Securities,5585603
+143,Precious Metals,4877190
+143,Real Estate,6683060
+143,Vehicles,1990660
+144,Vehicles,5079841
+144,Real Estate,2290233
+144,Precious Metals,6973735
+144,Deposits with ABL,3859473
+145,Vehicles,5750280
+145,Precious Metals,4722245
+145,Real Estate,8511671
+145,Shares and Securities,5201973
+146,Precious Metals,7655959
+146,Vehicles,8785552
+146,Shares and Securities,6211697
+147,Precious Metals,3166091
+147,Shares and Securities,7251732
+147,Real Estate,2701280
+147,Deposits with ABL,5044794
+148,Real Estate,9674321
+148,Vehicles,9912962
+148,Precious Metals,1176690
+149,Precious Metals,6699612
+149,Vehicles,3634380
+149,Deposits with ABL,1551894
+149,Real Estate,7613242
+150,Precious Metals,2828225
+150,Vehicles,5250289
+150,Shares and Securities,8244861
+151,Real Estate,7407048
+151,Vehicles,7645268
+151,Deposits with ABL,2080720
+151,Precious Metals,7414862
+152,Precious Metals,959467
+152,Deposits with ABL,6757815
+152,Vehicles,1742297
+153,Precious Metals,8701927
+153,Real Estate,9067452
+153,Vehicles,2212226
+153,Shares and Securities,7563081
+154,Vehicles,7929599
+154,Shares and Securities,4695606
+154,Precious Metals,4468011
+154,Deposits with ABL,1459449
+155,Precious Metals,9181800
+155,Shares and Securities,7192261
+155,Real Estate,3397937
+156,Vehicles,9934186
+156,Precious Metals,9848818
+156,Deposits with ABL,4265018
+157,Vehicles,691786
+157,Real Estate,3594560
+157,Precious Metals,5754538
+157,Deposits with ABL,8608814
+158,Vehicles,2391528
+158,Real Estate,5991733
+158,Precious Metals,4567836
+158,Deposits with ABL,2841936
+159,Vehicles,4354877
+159,Shares and Securities,4273970
+159,Real Estate,9411190
+160,Vehicles,7263996
+160,Precious Metals,7978371
+160,Real Estate,9037204
+161,Vehicles,8485940
+161,Shares and Securities,9267026
+161,Precious Metals,8836557
+161,Real Estate,9356555
+162,Shares and Securities,2705210
+162,Vehicles,1037172
+162,Precious Metals,9017329
+162,Real Estate,1375656
+163,Real Estate,4898512
+163,Vehicles,7166090
+163,Precious Metals,9034876
+164,Precious Metals,9202408
+164,Vehicles,5821174
+164,Real Estate,4167420
+164,Deposits with ABL,4014090
+165,Precious Metals,9836090
+165,Shares and Securities,8556436
+165,Real Estate,6562088
+165,Vehicles,2123460
+166,Vehicles,1859567
+166,Precious Metals,4233559
+166,Real Estate,6687309
+166,Shares and Securities,3252869
+167,Precious Metals,6968396
+167,Real Estate,1210424
+167,Vehicles,4672469
+168,Real Estate,7757824
+168,Vehicles,7904095
+168,Precious Metals,1475356
+169,Precious Metals,5610121
+169,Vehicles,3220632
+169,Real Estate,3891416
+169,Shares and Securities,8569183
+170,Precious Metals,9521303
+170,Vehicles,5039247
+170,Real Estate,1893792
+171,Precious Metals,7857810
+171,Vehicles,7593089
+171,Real Estate,8991672
+171,Deposits with ABL,4799047
+172,Precious Metals,8531925
+172,Vehicles,8881339
+172,Deposits with ABL,1505569
+172,Real Estate,5400081
+173,Real Estate,1015262
+173,Vehicles,7539427
+173,Precious Metals,9098023
+173,Shares and Securities,4987375
+173,Deposits with ABL,933039
+174,Vehicles,8557428
+174,Precious Metals,4129833
+174,Real Estate,9536168
+175,Shares and Securities,4463443
+175,Real Estate,4253880
+175,Vehicles,2055424
+175,Precious Metals,1691658
+176,Real Estate,3324359
+176,Precious Metals,9023274
+176,Vehicles,6587256
+176,Shares and Securities,5023470
+176,Deposits with ABL,2049706
+177,Precious Metals,7473556
+177,Shares and Securities,7488362
+177,Vehicles,2670286
+178,Precious Metals,2343348
+178,Vehicles,557518
+178,Deposits with ABL,7878454
+179,Precious Metals,5643019
+179,Shares and Securities,4978561
+179,Real Estate,6731034
+179,Vehicles,1489900
+179,Deposits with ABL,9747289
+180,Precious Metals,9993048
+180,Shares and Securities,2767693
+180,Vehicles,660975
+181,Real Estate,9518190
+181,Precious Metals,6883502
+181,Vehicles,3189429
+181,Shares and Securities,5878411
+182,Vehicles,9966155
+182,Precious Metals,2041595
+182,Shares and Securities,728199
+183,Precious Metals,1120177
+183,Vehicles,2745842
+183,Shares and Securities,6125636
+183,Real Estate,7152743
+184,Precious Metals,1107345
+184,Shares and Securities,8824300
+184,Vehicles,5072488
+185,Precious Metals,2340554
+185,Vehicles,7362964
+185,Real Estate,4341097
+185,Shares and Securities,5332702
+186,Vehicles,6156535
+186,Precious Metals,6377690
+186,Real Estate,6332453
+186,Shares and Securities,3932905
+187,Shares and Securities,6496896
+187,Vehicles,8454596
+187,Precious Metals,5247522
+188,Precious Metals,8274979
+188,Real Estate,9941588
+188,Vehicles,7611185
+189,Vehicles,945641
+189,Precious Metals,8394755
+189,Real Estate,7814396
+189,Shares and Securities,773642
+190,Precious Metals,1990028
+190,Shares and Securities,4412563
+190,Vehicles,6900051
+190,Deposits with ABL,8382833
+190,Real Estate,7361781
+191,Shares and Securities,4839793
+191,Precious Metals,2490912
+191,Deposits with ABL,2047973
+192,Precious Metals,4076425
+192,Vehicles,3524782
+192,Real Estate,8576909
+192,Shares and Securities,8959801
+193,Vehicles,9937930
+193,Precious Metals,9509847
+193,Real Estate,7185267
+193,Deposits with ABL,6491953
+194,Precious Metals,8812747
+194,Deposits with ABL,4410982
+194,Vehicles,5384024
+195,Precious Metals,5106586
+195,Real Estate,720588
+195,Shares and Securities,6479294
+196,Precious Metals,9230046
+196,Shares and Securities,4830560
+196,Vehicles,1792135
+196,Real Estate,3669993
+196,Deposits with ABL,1968409
+197,Vehicles,8381591
+197,Precious Metals,3144887
+197,Deposits with ABL,7060524
+197,Real Estate,4286481
+198,Precious Metals,3842042
+198,Vehicles,5790158
+198,Shares and Securities,4379336
+199,Vehicles,4592946
+199,Shares and Securities,2386012
+199,Precious Metals,2684319
+199,Real Estate,3280181
+200,Precious Metals,9853184
+200,Shares and Securities,1117379
+200,Real Estate,9726175
+200,Vehicles,8662283
+201,Vehicles,2235134
+201,Real Estate,922480
+201,Precious Metals,690917
+201,Shares and Securities,1923847
+202,Precious Metals,5877188
+202,Vehicles,3827357
+202,Real Estate,7623174
+202,Deposits with ABL,5757838
+202,Shares and Securities,7945934
+203,Deposits with ABL,7976088
+203,Precious Metals,3453958
+203,Vehicles,3595141
+203,Real Estate,1013839
+204,Precious Metals,1104879
+204,Vehicles,4576701
+204,Real Estate,5144715
+205,Precious Metals,2288228
+205,Vehicles,3652430
+205,Shares and Securities,5716586
+206,Real Estate,4584712
+206,Shares and Securities,9214642
+206,Vehicles,4327864
+206,Precious Metals,966556
+206,Deposits with ABL,9980436
+207,Shares and Securities,1954921
+207,Vehicles,7840461
+207,Deposits with ABL,4267329
+208,Vehicles,5832773
+208,Precious Metals,5185642
+208,Shares and Securities,9398036
+208,Real Estate,1655250
+209,Vehicles,1767777
+209,Real Estate,8635051
+209,Shares and Securities,6407488
+209,Precious Metals,6278735
+209,Deposits with ABL,8172338
+210,Vehicles,5746206
+210,Deposits with ABL,2487335
+210,Precious Metals,4609992
+210,Real Estate,7963122
+210,Shares and Securities,3532695
+211,Precious Metals,7854723
+211,Vehicles,5317575
+211,Real Estate,7247766
+211,Shares and Securities,8697726
+211,Deposits with ABL,6861485
+212,Vehicles,7678910
+212,Shares and Securities,7788596
+212,Precious Metals,2511500
+212,Real Estate,4942865
+213,Vehicles,9467561
+213,Precious Metals,9203973
+213,Deposits with ABL,7695310
+213,Real Estate,2622077
+213,Shares and Securities,2858231
+214,Vehicles,8281706
+214,Deposits with ABL,8500965
+214,Precious Metals,1549456
+214,Real Estate,9567866
+215,Precious Metals,8823271
+215,Vehicles,9282389
+215,Shares and Securities,7200630
+215,Real Estate,9343923
+216,Precious Metals,4323870
+216,Vehicles,7919302
+216,Real Estate,4067875
+216,Shares and Securities,7228765
+217,Deposits with ABL,5264398
+217,Precious Metals,9861062
+217,Vehicles,7620212
+218,Vehicles,1830173
+218,Precious Metals,558935
+218,Real Estate,1818656
+219,Precious Metals,3638080
+219,Shares and Securities,5515614
+219,Vehicles,6755695
+219,Deposits with ABL,6320596
+220,Shares and Securities,1255722
+220,Precious Metals,5297646
+220,Vehicles,9640266
+220,Real Estate,6741229
+221,Real Estate,3497274
+221,Shares and Securities,2112182
+221,Precious Metals,8036148
+222,Real Estate,8549027
+222,Shares and Securities,9535528
+222,Vehicles,2331817
+222,Precious Metals,9613065
+222,Deposits with ABL,3830583
+223,Precious Metals,6552942
+223,Vehicles,7275479
+223,Real Estate,8017838
+223,Shares and Securities,3664058
+224,Precious Metals,7633126
+224,Real Estate,8312063
+224,Shares and Securities,4291670
+224,Vehicles,3082808
+225,Vehicles,9797386
+225,Precious Metals,1791969
+225,Shares and Securities,2775466
+225,Real Estate,6022292
+226,Vehicles,1605870
+226,Real Estate,2081466
+226,Shares and Securities,2984613
+226,Precious Metals,3737291
+227,Precious Metals,3447499
+227,Real Estate,4552325
+227,Vehicles,2146667
+228,Vehicles,7242413
+228,Real Estate,1136142
+228,Precious Metals,1335658
+229,Vehicles,6017852
+229,Precious Metals,1758405
+229,Real Estate,9656001
+230,Shares and Securities,1547240
+230,Vehicles,4160401
+230,Precious Metals,8460975
+230,Real Estate,3114718
+231,Shares and Securities,590150
+231,Vehicles,8898263
+231,Deposits with ABL,7482062
+231,Real Estate,6841632
+232,Vehicles,6927177
+232,Precious Metals,1617350
+232,Real Estate,3135601
+232,Deposits with ABL,928316
+233,Precious Metals,2427655
+233,Vehicles,4987120
+233,Shares and Securities,8498987
+233,Deposits with ABL,4505570
+233,Real Estate,2739843
+234,Real Estate,6011270
+234,Precious Metals,4050859
+234,Shares and Securities,6823429
+234,Vehicles,1774776
+235,Precious Metals,5512583
+235,Real Estate,1675291
+235,Vehicles,700962
+236,Vehicles,4496073
+236,Precious Metals,6639542
+236,Shares and Securities,9624824
+236,Real Estate,2128737
+237,Precious Metals,1564065
+237,Vehicles,1901811
+237,Deposits with ABL,7852963
+237,Real Estate,1324357
+238,Vehicles,1184284
+238,Precious Metals,4641970
+238,Deposits with ABL,1898335
+239,Precious Metals,6427023
+239,Real Estate,2106528
+239,Vehicles,5076494
+239,Deposits with ABL,5813211
+240,Vehicles,3546359
+240,Shares and Securities,4619767
+240,Deposits with ABL,4966028
+240,Precious Metals,745885
+241,Real Estate,4478512
+241,Precious Metals,2959193
+241,Shares and Securities,6459881
+242,Real Estate,2094168
+242,Precious Metals,9154444
+242,Vehicles,6298478
+243,Shares and Securities,3779721
+243,Precious Metals,4190231
+243,Vehicles,1360128
+244,Vehicles,9006694
+244,Precious Metals,5640434
+244,Shares and Securities,6868171
+245,Vehicles,7869710
+245,Deposits with ABL,588693
+245,Precious Metals,4417816
+245,Real Estate,8623516
+246,Shares and Securities,3320412
+246,Vehicles,8604070
+246,Precious Metals,6670233
+246,Deposits with ABL,4597149
+247,Vehicles,5100511
+247,Precious Metals,8727517
+247,Shares and Securities,1326575
+247,Real Estate,5946821
+247,Deposits with ABL,2224808
+248,Vehicles,9783979
+248,Precious Metals,8049067
+248,Shares and Securities,836047
+248,Real Estate,7780860
+249,Precious Metals,8206745
+249,Real Estate,7691687
+249,Vehicles,5898379
+250,Precious Metals,6208439
+250,Vehicles,1796311
+250,Real Estate,8314196
+250,Shares and Securities,7786623
+251,Precious Metals,4013164
+251,Real Estate,2792976
+251,Deposits with ABL,9796832
+251,Shares and Securities,4505883
+251,Vehicles,1990745
+252,Precious Metals,5170743
+252,Vehicles,5027757
+252,Deposits with ABL,7376860
+253,Vehicles,2639234
+253,Precious Metals,1543751
+253,Shares and Securities,3338466
+254,Real Estate,5697262
+254,Vehicles,9195137
+254,Precious Metals,3259615
+254,Deposits with ABL,5610625
+255,Precious Metals,6275901
+255,Deposits with ABL,3117778
+255,Vehicles,7067906
+256,Vehicles,4431339
+256,Precious Metals,5121803
+256,Shares and Securities,7122952
+256,Real Estate,6822613
+257,Precious Metals,5684735
+257,Deposits with ABL,9649706
+257,Vehicles,4468236
+257,Real Estate,7094152
+258,Precious Metals,4849420
+258,Real Estate,9806663
+258,Vehicles,6014830
+258,Shares and Securities,7039581
+259,Precious Metals,2915736
+259,Shares and Securities,8468809
+259,Vehicles,3640676
+260,Shares and Securities,3884917
+260,Precious Metals,9805569
+260,Vehicles,8312576
+260,Real Estate,4212525
+261,Precious Metals,2975687
+261,Real Estate,5281965
+261,Vehicles,2928833
+261,Deposits with ABL,7017260
+261,Shares and Securities,5644460
+262,Precious Metals,2220975
+262,Vehicles,3235691
+262,Shares and Securities,6087504
+262,Deposits with ABL,8524908
+263,Precious Metals,2212757
+263,Deposits with ABL,6923522
+263,Shares and Securities,7055296
+264,Precious Metals,9780853
+264,Vehicles,1308028
+264,Shares and Securities,5181838
+265,Real Estate,9043802
+265,Vehicles,1669288
+265,Precious Metals,1411457
+266,Real Estate,7607494
+266,Vehicles,2236662
+266,Precious Metals,1274352
+266,Shares and Securities,1055320
+266,Deposits with ABL,7992737
+267,Vehicles,3865390
+267,Shares and Securities,7942402
+267,Precious Metals,3334104
+267,Real Estate,1839833
+268,Precious Metals,1928276
+268,Vehicles,6116846
+268,Real Estate,1229787
+268,Shares and Securities,1951552
+269,Vehicles,1011042
+269,Precious Metals,3280841
+269,Shares and Securities,4392609
+270,Vehicles,8192230
+270,Precious Metals,9123481
+270,Deposits with ABL,6399585
+271,Vehicles,511680
+271,Precious Metals,4996376
+271,Shares and Securities,1507858
+271,Real Estate,8018314
+272,Real Estate,9398067
+272,Vehicles,4563221
+272,Precious Metals,728658
+272,Deposits with ABL,674905
+272,Shares and Securities,9758143
+273,Deposits with ABL,8632135
+273,Vehicles,6722562
+273,Precious Metals,2315144
+274,Precious Metals,5927395
+274,Real Estate,3545690
+274,Vehicles,1373174
+275,Vehicles,3029276
+275,Precious Metals,9372577
+275,Shares and Securities,7583192
+275,Real Estate,5905746
+276,Vehicles,6890853
+276,Precious Metals,6602402
+276,Real Estate,3287095
+277,Precious Metals,1211694
+277,Vehicles,4289692
+277,Real Estate,8728395
+277,Deposits with ABL,2889614
+277,Shares and Securities,9187149
+278,Precious Metals,3819480
+278,Vehicles,2311602
+278,Shares and Securities,5630271
+279,Vehicles,1878573
+279,Precious Metals,3395391
+279,Real Estate,2279373
+280,Vehicles,3481420
+280,Precious Metals,4594438
+280,Shares and Securities,3589653
+281,Precious Metals,2290123
+281,Shares and Securities,1685632
+281,Vehicles,4346427
+282,Real Estate,5901016
+282,Vehicles,5656885
+282,Precious Metals,9669622
+282,Deposits with ABL,4494645
+283,Vehicles,8341967
+283,Precious Metals,2667698
+283,Shares and Securities,8483439
+284,Deposits with ABL,1974547
+284,Precious Metals,2599683
+284,Vehicles,4580998
+284,Real Estate,9000655
+285,Precious Metals,8308231
+285,Vehicles,7482426
+285,Deposits with ABL,1783658
+285,Shares and Securities,4570397
+285,Real Estate,618545
+286,Precious Metals,6661313
+286,Vehicles,3291049
+286,Shares and Securities,3074257
+287,Real Estate,7445925
+287,Precious Metals,2883817
+287,Vehicles,3653158
+287,Shares and Securities,3383478
+287,Deposits with ABL,7570490
+288,Vehicles,5726578
+288,Shares and Securities,9220922
+288,Precious Metals,7982867
+289,Vehicles,6011527
+289,Precious Metals,4693725
+289,Real Estate,2273375
+290,Vehicles,623984
+290,Precious Metals,5766134
+290,Deposits with ABL,5268793
+291,Vehicles,5794640
+291,Shares and Securities,2910161
+291,Precious Metals,4900031
+291,Real Estate,3823823
+292,Real Estate,5110890
+292,Precious Metals,3656317
+292,Vehicles,9568083
+293,Vehicles,9565959
+293,Precious Metals,2074030
+293,Real Estate,3821170
+294,Precious Metals,6907628
+294,Real Estate,2993088
+294,Vehicles,866565
+294,Shares and Securities,7645993
+295,Vehicles,2840688
+295,Real Estate,8540593
+295,Precious Metals,759572
+295,Deposits with ABL,3817708
+296,Precious Metals,5116629
+296,Deposits with ABL,5823663
+296,Shares and Securities,8484180
+297,Vehicles,4370193
+297,Precious Metals,5126197
+297,Deposits with ABL,8315693
+297,Real Estate,3407664
+298,Precious Metals,6745819
+298,Deposits with ABL,7067443
+298,Vehicles,3897685
+298,Shares and Securities,1072346
+299,Vehicles,5233898
+299,Precious Metals,3857717
+299,Real Estate,4937406
+299,Shares and Securities,4421334
+300,Vehicles,5384553
+300,Real Estate,3564392
+300,Precious Metals,6902312
+300,Deposits with ABL,878656
+301,Deposits with ABL,7282807
+301,Vehicles,9942465
+301,Shares and Securities,2205881
+302,Shares and Securities,5291698
+302,Vehicles,5168718
+302,Deposits with ABL,1681382
+303,Vehicles,6655942
+303,Precious Metals,2228088
+303,Real Estate,3532837
+304,Deposits with ABL,8775933
+304,Vehicles,901715
+304,Precious Metals,3878507
+304,Shares and Securities,2262175
+305,Precious Metals,7638190
+305,Real Estate,3882777
+305,Vehicles,6923813
+305,Shares and Securities,2769414
+306,Real Estate,8011962
+306,Precious Metals,4049547
+306,Vehicles,1363650
+306,Shares and Securities,2522416
+307,Vehicles,8823228
+307,Precious Metals,9800013
+307,Real Estate,7982991
+307,Deposits with ABL,8970490
+308,Real Estate,5213612
+308,Precious Metals,2733532
+308,Vehicles,5833429
+308,Deposits with ABL,9509488
+308,Shares and Securities,8319332
+309,Precious Metals,6782692
+309,Vehicles,7330789
+309,Real Estate,7691168
+310,Vehicles,9738280
+310,Deposits with ABL,2633082
+310,Precious Metals,1178443
+310,Shares and Securities,2625793
+311,Vehicles,6490731
+311,Precious Metals,4198399
+311,Shares and Securities,5330457
+311,Real Estate,2753658
+311,Deposits with ABL,8848221
+312,Shares and Securities,3435801
+312,Vehicles,6263076
+312,Precious Metals,3815875
+312,Real Estate,5729981
+312,Deposits with ABL,3451815
+313,Vehicles,813216
+313,Precious Metals,1707691
+313,Deposits with ABL,3073942
+313,Real Estate,2484570
+314,Vehicles,5874275
+314,Precious Metals,8354189
+314,Shares and Securities,2605471
+315,Shares and Securities,1918326
+315,Precious Metals,7157169
+315,Real Estate,5486450
+315,Vehicles,3466237
+315,Deposits with ABL,591409
+316,Precious Metals,8751185
+316,Vehicles,8515179
+316,Real Estate,6814356
+316,Shares and Securities,4013225
+317,Precious Metals,6452699
+317,Vehicles,6819793
+317,Shares and Securities,4915130
+317,Real Estate,1236236
+317,Deposits with ABL,8803318
+318,Real Estate,4216959
+318,Vehicles,2536093
+318,Shares and Securities,3236669
+318,Precious Metals,8989886
+319,Real Estate,1330382
+319,Precious Metals,9839762
+319,Vehicles,3723734
+320,Precious Metals,7006599
+320,Vehicles,7813237
+320,Shares and Securities,7142812
+320,Deposits with ABL,1172105
+320,Real Estate,7476104
+321,Precious Metals,2385766
+321,Vehicles,8108093
+321,Real Estate,5399332
+321,Shares and Securities,1852820
+322,Precious Metals,7657574
+322,Vehicles,2174017
+322,Real Estate,3460293
+322,Deposits with ABL,972854
+322,Shares and Securities,1958862
+323,Vehicles,2802136
+323,Real Estate,3544056
+323,Precious Metals,1063499
+323,Shares and Securities,6127972
+324,Shares and Securities,1047787
+324,Precious Metals,4786061
+324,Vehicles,1048648
+325,Precious Metals,6623933
+325,Real Estate,8015861
+325,Vehicles,2061622
+325,Shares and Securities,3472304
+325,Deposits with ABL,5863838
+326,Vehicles,2662757
+326,Precious Metals,3699778
+326,Deposits with ABL,6291614
+327,Precious Metals,8458042
+327,Deposits with ABL,2123294
+327,Vehicles,5513642
+328,Real Estate,8099540
+328,Precious Metals,6097430
+328,Vehicles,1497902
+328,Shares and Securities,9483174
+329,Shares and Securities,5166972
+329,Real Estate,4024144
+329,Vehicles,2408346
+329,Precious Metals,6672583
+330,Precious Metals,835342
+330,Vehicles,6832665
+330,Deposits with ABL,8485131
+330,Real Estate,7849777
+331,Real Estate,6880155
+331,Precious Metals,825963
+331,Vehicles,5011560
+331,Shares and Securities,5980439
+332,Vehicles,7392024
+332,Precious Metals,5725580
+332,Shares and Securities,7393994
+333,Real Estate,8657928
+333,Vehicles,8970766
+333,Precious Metals,9543593
+333,Shares and Securities,9981405
+333,Deposits with ABL,8622686
+334,Precious Metals,5873632
+334,Shares and Securities,2743650
+334,Vehicles,9375908
+335,Real Estate,4944381
+335,Precious Metals,866542
+335,Vehicles,2039262
+336,Vehicles,3929356
+336,Real Estate,6601364
+336,Precious Metals,2979107
+336,Shares and Securities,5218447
+337,Vehicles,8697885
+337,Precious Metals,1685533
+337,Deposits with ABL,7912371
+338,Vehicles,5034660
+338,Shares and Securities,1298713
+338,Precious Metals,9821007
+338,Deposits with ABL,9845183
+338,Real Estate,2883649
+339,Real Estate,8097070
+339,Precious Metals,6679040
+339,Vehicles,2121111
+339,Shares and Securities,6249411
+340,Vehicles,6665586
+340,Precious Metals,6056364
+340,Shares and Securities,5690863
+341,Precious Metals,4699282
+341,Real Estate,1376265
+341,Vehicles,4913937
+341,Shares and Securities,5687324
+342,Precious Metals,7375630
+342,Vehicles,4309658
+342,Real Estate,8824710
+342,Shares and Securities,1433625
+343,Precious Metals,5875696
+343,Deposits with ABL,6595283
+343,Shares and Securities,906046
+343,Vehicles,5357703
+344,Precious Metals,3149912
+344,Shares and Securities,7899266
+344,Vehicles,7276495
+345,Vehicles,6538555
+345,Precious Metals,3805025
+345,Shares and Securities,5836215
+346,Vehicles,5699140
+346,Real Estate,874221
+346,Deposits with ABL,5771367
+347,Precious Metals,3295319
+347,Vehicles,1466857
+347,Real Estate,8365774
+347,Deposits with ABL,8997074
+348,Precious Metals,2991319
+348,Shares and Securities,4639911
+348,Vehicles,4113541
+349,Precious Metals,3172826
+349,Deposits with ABL,924891
+349,Vehicles,8447132
+349,Real Estate,2107813
+350,Real Estate,4323347
+350,Vehicles,7465335
+350,Precious Metals,8895825
+351,Vehicles,8272829
+351,Shares and Securities,7142271
+351,Real Estate,1572708
+351,Precious Metals,9330131
+352,Vehicles,4472215
+352,Deposits with ABL,8107859
+352,Precious Metals,4252468
+353,Precious Metals,6358565
+353,Vehicles,3669521
+353,Real Estate,4394634
+353,Deposits with ABL,2401868
+353,Shares and Securities,869724
+354,Precious Metals,3078739
+354,Vehicles,8600007
+354,Shares and Securities,1047247
+354,Real Estate,7051580
+355,Precious Metals,3707888
+355,Vehicles,7040337
+355,Deposits with ABL,8851597
+356,Precious Metals,3628167
+356,Real Estate,4523799
+356,Shares and Securities,5663037
+357,Precious Metals,5360413
+357,Real Estate,2168354
+357,Shares and Securities,2437266
+357,Vehicles,4747128
+358,Precious Metals,3941088
+358,Vehicles,3385642
+358,Shares and Securities,8331718
+359,Real Estate,3785690
+359,Vehicles,2113355
+359,Shares and Securities,1689533
+359,Precious Metals,3902901
+359,Deposits with ABL,7945572
+360,Precious Metals,4439205
+360,Vehicles,4825386
+360,Shares and Securities,6586445
+360,Real Estate,8349256
+360,Deposits with ABL,5987284
+361,Shares and Securities,2931927
+361,Vehicles,3367922
+361,Precious Metals,7745346
+362,Vehicles,7412560
+362,Shares and Securities,8514813
+362,Precious Metals,2388461
+363,Precious Metals,9354596
+363,Vehicles,1534058
+363,Shares and Securities,648639
+364,Shares and Securities,9243911
+364,Vehicles,1552440
+364,Precious Metals,1253547
+364,Deposits with ABL,5243722
+365,Vehicles,6928027
+365,Precious Metals,902867
+365,Real Estate,3224368
+366,Vehicles,606765
+366,Precious Metals,3230608
+366,Deposits with ABL,5588278
+367,Real Estate,7588674
+367,Vehicles,6413725
+367,Shares and Securities,1878066
+367,Precious Metals,2170962
+368,Vehicles,7522106
+368,Precious Metals,2291640
+368,Real Estate,5406474
+368,Shares and Securities,3435346
+369,Vehicles,8360067
+369,Precious Metals,5199432
+369,Deposits with ABL,3577369
+370,Vehicles,6534629
+370,Precious Metals,1907693
+370,Real Estate,1899552
+371,Precious Metals,4474046
+371,Vehicles,7315351
+371,Shares and Securities,2021999
+372,Shares and Securities,5193742
+372,Vehicles,6703178
+372,Precious Metals,4667909
+372,Real Estate,3861186
+373,Vehicles,7587754
+373,Real Estate,1569893
+373,Precious Metals,8614056
+373,Shares and Securities,938783
+373,Deposits with ABL,814244
+374,Vehicles,7419365
+374,Precious Metals,8340823
+374,Shares and Securities,9706429
+374,Real Estate,5552073
+375,Vehicles,7548613
+375,Shares and Securities,4974442
+375,Precious Metals,8686985
+375,Real Estate,7619978
+375,Deposits with ABL,4801243
+376,Precious Metals,7730281
+376,Vehicles,7774380
+376,Real Estate,6750634
+376,Shares and Securities,5353219
+376,Deposits with ABL,5658517
+377,Vehicles,4806512
+377,Deposits with ABL,519249
+377,Real Estate,2035532
+377,Shares and Securities,3854543
+378,Precious Metals,5807719
+378,Vehicles,5065636
+378,Real Estate,9061300
+378,Shares and Securities,8671608
+379,Vehicles,8989415
+379,Precious Metals,5903260
+379,Shares and Securities,6773049
+379,Real Estate,687614
+380,Deposits with ABL,6774555
+380,Precious Metals,2824956
+380,Vehicles,2642991
+380,Shares and Securities,6499803
+381,Vehicles,8284271
+381,Real Estate,8724608
+381,Shares and Securities,1241122
+381,Deposits with ABL,7191012
+381,Precious Metals,6311955
+382,Real Estate,8455556
+382,Precious Metals,4977103
+382,Vehicles,2563875
+383,Precious Metals,4547141
+383,Vehicles,6531412
+383,Real Estate,6243980
+384,Vehicles,9652855
+384,Precious Metals,9382034
+384,Deposits with ABL,4533886
+385,Real Estate,4808939
+385,Precious Metals,8745836
+385,Vehicles,5908582
+385,Shares and Securities,7314734
+386,Precious Metals,9252352
+386,Deposits with ABL,4963527
+386,Real Estate,7312043
+387,Deposits with ABL,6766732
+387,Real Estate,8078557
+387,Vehicles,7836357
+387,Precious Metals,3377138
+387,Shares and Securities,3573683
+388,Real Estate,2957552
+388,Vehicles,9797198
+388,Precious Metals,8317265
+389,Precious Metals,3341251
+389,Deposits with ABL,3309971
+389,Real Estate,2493144
+390,Vehicles,3669040
+390,Precious Metals,5234227
+390,Shares and Securities,931134
+391,Precious Metals,5128770
+391,Shares and Securities,9967305
+391,Vehicles,5454616
+392,Real Estate,1831786
+392,Vehicles,4911921
+392,Shares and Securities,2916012
+392,Precious Metals,7693428
+393,Precious Metals,2173981
+393,Vehicles,9418806
+393,Shares and Securities,9494003
+394,Real Estate,8073804
+394,Precious Metals,9070059
+394,Vehicles,950419
+394,Deposits with ABL,3426264
+395,Shares and Securities,5035750
+395,Deposits with ABL,1171434
+395,Precious Metals,7926087
+395,Real Estate,1699711
+396,Precious Metals,6728431
+396,Shares and Securities,3920337
+396,Vehicles,9282437
+396,Real Estate,4673821
+397,Vehicles,2052711
+397,Deposits with ABL,2597939
+397,Real Estate,2880407
+398,Vehicles,9871371
+398,Precious Metals,4333273
+398,Real Estate,3047273
+398,Shares and Securities,8810077
+398,Deposits with ABL,5964546
+399,Vehicles,9593183
+399,Shares and Securities,6731637
+399,Deposits with ABL,7132265
+400,Precious Metals,758257
+400,Vehicles,2984892
+400,Shares and Securities,2593815
+401,Precious Metals,9380136
+401,Real Estate,2364274
+401,Vehicles,2731067
+401,Deposits with ABL,4667763
+402,Precious Metals,8697736
+402,Shares and Securities,5029759
+402,Vehicles,9157711
+402,Real Estate,4474438
+403,Vehicles,5511590
+403,Precious Metals,7115900
+403,Real Estate,9689579
+403,Shares and Securities,1626483
+404,Shares and Securities,5132881
+404,Precious Metals,2821884
+404,Vehicles,9370272
+404,Real Estate,8084170
+405,Vehicles,2860924
+405,Real Estate,6181678
+405,Shares and Securities,8088074
+405,Precious Metals,4418637
+406,Precious Metals,5668104
+406,Vehicles,6382721
+406,Real Estate,5596337
+406,Shares and Securities,2338084
+406,Deposits with ABL,4727902
+407,Vehicles,3822808
+407,Shares and Securities,832277
+407,Precious Metals,7845199
+407,Real Estate,1753422
+408,Precious Metals,6758602
+408,Vehicles,8426126
+408,Shares and Securities,9735071
+409,Shares and Securities,3120815
+409,Vehicles,6098955
+409,Real Estate,9547047
+410,Precious Metals,1470466
+410,Deposits with ABL,2398989
+410,Shares and Securities,2295814
+411,Precious Metals,1775663
+411,Vehicles,5551773
+411,Shares and Securities,3908491
+411,Real Estate,6987114
+412,Precious Metals,2865589
+412,Real Estate,5095517
+412,Vehicles,2042874
+412,Shares and Securities,1391750
+413,Vehicles,2578197
+413,Deposits with ABL,553049
+413,Precious Metals,9421310
+414,Vehicles,1613019
+414,Shares and Securities,3610274
+414,Precious Metals,9373956
+414,Real Estate,4262569
+414,Deposits with ABL,4733264
+415,Real Estate,2679775
+415,Precious Metals,7820793
+415,Vehicles,4770388
+416,Vehicles,733677
+416,Precious Metals,9135004
+416,Shares and Securities,1058934
+416,Real Estate,721901
+417,Real Estate,640203
+417,Vehicles,3134673
+417,Precious Metals,1155233
+418,Precious Metals,6612425
+418,Vehicles,9283328
+418,Real Estate,2292954
+418,Shares and Securities,6766871
+419,Vehicles,7416847
+419,Precious Metals,7757754
+419,Real Estate,1626998
+419,Shares and Securities,2688620
+420,Shares and Securities,6493930
+420,Vehicles,7634664
+420,Deposits with ABL,1157684
+421,Precious Metals,2035672
+421,Real Estate,1703839
+421,Vehicles,9936550
+422,Deposits with ABL,3653334
+422,Vehicles,1378218
+422,Real Estate,2975059
+422,Precious Metals,3177686
+423,Precious Metals,3464648
+423,Shares and Securities,3344217
+423,Real Estate,3630088
+423,Vehicles,4382609
+424,Precious Metals,6512604
+424,Vehicles,3203503
+424,Shares and Securities,8797346
+425,Precious Metals,8146724
+425,Shares and Securities,6313598
+425,Vehicles,7774090
+425,Real Estate,9568955
+426,Precious Metals,2788535
+426,Vehicles,2672289
+426,Shares and Securities,7122516
+427,Deposits with ABL,6652081
+427,Vehicles,551777
+427,Precious Metals,8454811
+428,Vehicles,695631
+428,Real Estate,3513581
+428,Precious Metals,1120741
+428,Shares and Securities,3641935
+429,Vehicles,6012174
+429,Real Estate,3672527
+429,Precious Metals,3982011
+430,Shares and Securities,4511250
+430,Real Estate,2501025
+430,Vehicles,586502
+431,Deposits with ABL,5127120
+431,Real Estate,838435
+431,Precious Metals,5526076
+431,Vehicles,1063582
+431,Shares and Securities,6974563
+432,Shares and Securities,6120176
+432,Precious Metals,9168029
+432,Vehicles,703071
+432,Real Estate,4480321
+432,Deposits with ABL,760950
+433,Vehicles,3683375
+433,Real Estate,6001869
+433,Precious Metals,4282115
+433,Shares and Securities,8131615
+434,Vehicles,6166716
+434,Precious Metals,3450380
+434,Deposits with ABL,3676567
+434,Shares and Securities,8084619
+435,Precious Metals,8622700
+435,Vehicles,2499726
+435,Shares and Securities,1964868
+436,Precious Metals,1548153
+436,Real Estate,4443847
+436,Vehicles,8238606
+436,Shares and Securities,776286
+437,Precious Metals,5178434
+437,Shares and Securities,9996977
+437,Vehicles,2037393
+438,Real Estate,7413464
+438,Precious Metals,952705
+438,Vehicles,5083374
+438,Shares and Securities,4264000
+438,Deposits with ABL,2520288
+439,Deposits with ABL,1949720
+439,Precious Metals,1814124
+439,Shares and Securities,9904622
+440,Precious Metals,6719946
+440,Vehicles,9820758
+440,Real Estate,7868520
+440,Deposits with ABL,3781855
+441,Deposits with ABL,7669277
+441,Vehicles,8585778
+441,Real Estate,4942932
+442,Vehicles,5383484
+442,Shares and Securities,8424352
+442,Precious Metals,9029479
+442,Real Estate,9590555
+442,Deposits with ABL,4769409
+443,Real Estate,6498917
+443,Vehicles,9944131
+443,Precious Metals,1357095
+443,Shares and Securities,7254057
+444,Shares and Securities,6941627
+444,Precious Metals,3362037
+444,Real Estate,9305959
+444,Vehicles,626285
+445,Precious Metals,9794962
+445,Vehicles,6736443
+445,Real Estate,7769520
+445,Shares and Securities,8444140
+445,Deposits with ABL,3410507
+446,Vehicles,4377168
+446,Precious Metals,5535506
+446,Shares and Securities,3261693
+447,Precious Metals,6438335
+447,Vehicles,1766883
+447,Deposits with ABL,8400947
+447,Shares and Securities,1148162
+447,Real Estate,6909829
+448,Vehicles,2386413
+448,Precious Metals,3377296
+448,Real Estate,1044196
+448,Shares and Securities,3507428
+449,Vehicles,5558840
+449,Precious Metals,3213976
+449,Shares and Securities,4459030
+450,Vehicles,1535286
+450,Precious Metals,6750949
+450,Deposits with ABL,1812857
+451,Vehicles,4095987
+451,Real Estate,1905342
+451,Precious Metals,4866356
+451,Shares and Securities,4657421
+452,Precious Metals,7007514
+452,Vehicles,6379191
+452,Real Estate,6995673
+452,Shares and Securities,6449741
+453,Deposits with ABL,576907
+453,Vehicles,699080
+453,Precious Metals,3195733
+453,Shares and Securities,1214761
+453,Real Estate,3590285
+454,Real Estate,4851555
+454,Vehicles,6560713
+454,Shares and Securities,3326563
+454,Precious Metals,2429425
+455,Precious Metals,4887540
+455,Vehicles,2904119
+455,Real Estate,4601255
+456,Shares and Securities,9243602
+456,Precious Metals,5095016
+456,Vehicles,5042434
+456,Deposits with ABL,2118234
+456,Real Estate,7689841
+457,Vehicles,3148092
+457,Precious Metals,5951961
+457,Real Estate,9272441
+458,Precious Metals,3349923
+458,Vehicles,9755310
+458,Shares and Securities,8083071
+458,Real Estate,8575719
+458,Deposits with ABL,3554969
+459,Real Estate,9549829
+459,Precious Metals,9225979
+459,Deposits with ABL,2184959
+460,Shares and Securities,6327114
+460,Precious Metals,8854697
+460,Vehicles,2057084
+460,Deposits with ABL,1611463
+461,Vehicles,7153053
+461,Precious Metals,2577040
+461,Real Estate,4737033
+461,Shares and Securities,3129151
+462,Vehicles,2099083
+462,Precious Metals,8630944
+462,Deposits with ABL,1586765
+463,Vehicles,4162625
+463,Real Estate,8954248
+463,Precious Metals,3755518
+464,Real Estate,6511621
+464,Vehicles,7538092
+464,Precious Metals,7635108
+464,Shares and Securities,7859664
+465,Vehicles,7881022
+465,Real Estate,3339472
+465,Precious Metals,4479229
+466,Vehicles,1023005
+466,Precious Metals,3353674
+466,Real Estate,3801783
+466,Shares and Securities,8582222
+467,Vehicles,3075192
+467,Precious Metals,1313112
+467,Real Estate,8517716
+468,Real Estate,3652681
+468,Vehicles,4798400
+468,Precious Metals,3555739
+468,Deposits with ABL,502767
+469,Vehicles,1570023
+469,Precious Metals,3457100
+469,Shares and Securities,8408020
+470,Precious Metals,6490667
+470,Vehicles,3083500
+470,Real Estate,1626966
+471,Vehicles,1470427
+471,Shares and Securities,6499489
+471,Deposits with ABL,8412852
+472,Vehicles,9071420
+472,Precious Metals,4057107
+472,Real Estate,858787
+472,Shares and Securities,3614199
+473,Real Estate,5143654
+473,Deposits with ABL,3238120
+473,Precious Metals,4288581
+473,Shares and Securities,8082891
+473,Vehicles,8074139
+474,Vehicles,1197925
+474,Precious Metals,1431545
+474,Shares and Securities,3848865
+475,Precious Metals,988642
+475,Real Estate,9157744
+475,Vehicles,1516460
+475,Shares and Securities,4144153
+475,Deposits with ABL,4559661
+476,Vehicles,7663903
+476,Precious Metals,5545336
+476,Shares and Securities,4838891
+476,Real Estate,2317663
+477,Vehicles,5230598
+477,Shares and Securities,9692232
+477,Precious Metals,6559743
+478,Precious Metals,4559446
+478,Deposits with ABL,8082031
+478,Real Estate,2634022
+478,Shares and Securities,9210081
+479,Vehicles,6112162
+479,Real Estate,4089492
+479,Deposits with ABL,2945417
+479,Precious Metals,4156835
+479,Shares and Securities,8571989
+480,Precious Metals,8189116
+480,Real Estate,5423119
+480,Vehicles,1909544
+480,Deposits with ABL,3672355
+480,Shares and Securities,5825843
+481,Vehicles,6915997
+481,Real Estate,3777969
+481,Precious Metals,1221375
+482,Vehicles,6304779
+482,Deposits with ABL,1019570
+482,Precious Metals,5296654
+483,Real Estate,4258127
+483,Vehicles,8189484
+483,Precious Metals,3749199
+483,Deposits with ABL,6880940
+483,Shares and Securities,8385999
+484,Vehicles,5445947
+484,Shares and Securities,5925120
+484,Precious Metals,6742706
+485,Precious Metals,3142556
+485,Vehicles,8579533
+485,Deposits with ABL,3974523
+486,Real Estate,5040590
+486,Precious Metals,5130401
+486,Vehicles,9361008
+486,Deposits with ABL,4250476
+487,Precious Metals,6714793
+487,Vehicles,6569098
+487,Deposits with ABL,8175765
+488,Precious Metals,749155
+488,Vehicles,9280756
+488,Real Estate,9702650
+488,Shares and Securities,2840303
+489,Precious Metals,3362134
+489,Vehicles,5818198
+489,Real Estate,5931940
+490,Shares and Securities,8090704
+490,Precious Metals,4727436
+490,Real Estate,814528
+490,Deposits with ABL,6909887
+490,Vehicles,7126359
+491,Vehicles,4242375
+491,Real Estate,5991862
+491,Precious Metals,3311206
+492,Precious Metals,9017195
+492,Vehicles,9723513
+492,Real Estate,5748126
+493,Real Estate,6118238
+493,Deposits with ABL,1732056
+493,Vehicles,7170795
+493,Precious Metals,8005451
+494,Vehicles,2378665
+494,Precious Metals,8120980
+494,Real Estate,8396302
+494,Shares and Securities,8794087
+494,Deposits with ABL,8166039
+495,Vehicles,9968647
+495,Precious Metals,8016695
+495,Shares and Securities,6421213
+496,Precious Metals,3533602
+496,Vehicles,9062069
+496,Shares and Securities,4777972
+496,Real Estate,4209383
+497,Precious Metals,6895714
+497,Vehicles,7817979
+497,Real Estate,7275063
+498,Vehicles,6648222
+498,Precious Metals,6908207
+498,Shares and Securities,3936418
+498,Deposits with ABL,5298301
+498,Real Estate,2464343
+499,Precious Metals,8466485
+499,Vehicles,3134796
+499,Deposits with ABL,2198772
+499,Real Estate,9281314
+500,Vehicles,700051
+500,Shares and Securities,894545
+500,Precious Metals,6336168
+501,Precious Metals,5068846
+501,Vehicles,3512535
+501,Real Estate,9007796
+501,Shares and Securities,1969204
+502,Vehicles,8000967
+502,Precious Metals,4090816
+502,Real Estate,2167123
+502,Shares and Securities,6675261
+502,Deposits with ABL,3777482
+503,Real Estate,5253018
+503,Deposits with ABL,8392187
+503,Precious Metals,1930536
+504,Vehicles,8559234
+504,Real Estate,2192185
+504,Precious Metals,9352893
+504,Shares and Securities,6290409
+504,Deposits with ABL,623068
+505,Real Estate,5831779
+505,Precious Metals,8694729
+505,Shares and Securities,9317911
+505,Vehicles,6595084
+506,Precious Metals,4318333
+506,Real Estate,5809831
+506,Vehicles,4206058
+506,Shares and Securities,2814597
+507,Real Estate,3084693
+507,Vehicles,5482074
+507,Precious Metals,9560086
+507,Shares and Securities,1998959
+508,Shares and Securities,6234469
+508,Real Estate,1220354
+508,Vehicles,5030733
+509,Shares and Securities,5838705
+509,Precious Metals,9024991
+509,Real Estate,9981482
+509,Vehicles,5488814
+509,Deposits with ABL,7559698
+510,Precious Metals,7647977
+510,Vehicles,2453679
+510,Shares and Securities,4093724
+510,Real Estate,4067986
+511,Shares and Securities,6821381
+511,Vehicles,4233061
+511,Real Estate,4930762
+511,Precious Metals,5628631
+512,Real Estate,1896368
+512,Precious Metals,8602865
+512,Vehicles,2538324
+512,Shares and Securities,7616799
+513,Deposits with ABL,9328685
+513,Precious Metals,9115483
+513,Real Estate,3161727
+513,Vehicles,3910054
+513,Shares and Securities,5600789
+514,Vehicles,6872575
+514,Precious Metals,8846361
+514,Real Estate,7964327
+515,Vehicles,9975480
+515,Precious Metals,1676291
+515,Real Estate,6153758
+515,Shares and Securities,8583570
+516,Precious Metals,8079218
+516,Real Estate,6626666
+516,Vehicles,1991430
+516,Shares and Securities,1805299
+516,Deposits with ABL,9919558
+517,Real Estate,2951271
+517,Precious Metals,3425147
+517,Vehicles,8052360
+517,Shares and Securities,2965687
+518,Deposits with ABL,3233704
+518,Vehicles,4876297
+518,Precious Metals,4177790
+518,Real Estate,8135389
+519,Shares and Securities,1874611
+519,Precious Metals,3880959
+519,Vehicles,4433346
+519,Real Estate,8557287
+520,Vehicles,1286111
+520,Precious Metals,2186611
+520,Real Estate,8915531
+520,Shares and Securities,3226093
+521,Precious Metals,5710600
+521,Real Estate,2985580
+521,Vehicles,4014281
+521,Shares and Securities,689291
+521,Deposits with ABL,7164065
+522,Vehicles,4102611
+522,Precious Metals,3032920
+522,Shares and Securities,2480705
+522,Deposits with ABL,5164001
+522,Real Estate,9061707
+523,Vehicles,1789912
+523,Precious Metals,8367720
+523,Real Estate,1391416
+523,Deposits with ABL,2118393
+524,Real Estate,7061572
+524,Precious Metals,2679337
+524,Vehicles,6516413
+525,Precious Metals,965719
+525,Shares and Securities,6809567
+525,Vehicles,7207188
+525,Deposits with ABL,9058469
+526,Vehicles,8017458
+526,Precious Metals,3472247
+526,Real Estate,7550108
+526,Deposits with ABL,9152513
+526,Shares and Securities,7506977
+527,Precious Metals,8528071
+527,Vehicles,9554652
+527,Real Estate,756142
+527,Deposits with ABL,3062701
+528,Precious Metals,5940750
+528,Vehicles,4683781
+528,Shares and Securities,9084049
+528,Real Estate,9085073
+529,Real Estate,5529984
+529,Vehicles,8663773
+529,Precious Metals,8862414
+530,Precious Metals,9002774
+530,Vehicles,6328718
+530,Shares and Securities,9758169
+531,Vehicles,9073696
+531,Precious Metals,1198938
+531,Deposits with ABL,2658779
+532,Vehicles,1539891
+532,Precious Metals,6061280
+532,Real Estate,5285099
+533,Real Estate,3321707
+533,Precious Metals,8322397
+533,Shares and Securities,7525932
+533,Vehicles,3530910
+533,Deposits with ABL,8753241
+534,Vehicles,2841991
+534,Precious Metals,8810615
+534,Real Estate,9040560
+535,Shares and Securities,5703117
+535,Real Estate,6116235
+535,Vehicles,2901868
+535,Deposits with ABL,4289130
+536,Precious Metals,4026436
+536,Vehicles,2195579
+536,Deposits with ABL,1213362
+537,Shares and Securities,5485308
+537,Precious Metals,9171107
+537,Vehicles,8954267
+537,Real Estate,3066641
+537,Deposits with ABL,3643213
+538,Real Estate,3310331
+538,Vehicles,8525029
+538,Precious Metals,9309015
+538,Shares and Securities,7269083
+539,Vehicles,6640459
+539,Precious Metals,2588656
+539,Shares and Securities,1049714
+539,Real Estate,587758
+539,Deposits with ABL,7394436
+540,Vehicles,5208586
+540,Precious Metals,4384595
+540,Shares and Securities,8189617
+540,Deposits with ABL,7489819
+541,Real Estate,3903029
+541,Vehicles,6304668
+541,Precious Metals,8635369
+541,Shares and Securities,7920622
+542,Shares and Securities,5476595
+542,Precious Metals,7686842
+542,Vehicles,2742314
+542,Real Estate,5646472
+543,Vehicles,8061851
+543,Precious Metals,2785662
+543,Shares and Securities,7925562
+543,Real Estate,3645783
+544,Real Estate,9083550
+544,Shares and Securities,8433530
+544,Precious Metals,8801714
+545,Precious Metals,8443845
+545,Vehicles,6419477
+545,Real Estate,3396842
+546,Real Estate,7988772
+546,Precious Metals,1733147
+546,Vehicles,3976523
+547,Precious Metals,2866843
+547,Deposits with ABL,4125055
+547,Real Estate,905586
+548,Precious Metals,3118559
+548,Shares and Securities,779766
+548,Vehicles,7924320
+549,Vehicles,7317608
+549,Precious Metals,6947267
+549,Shares and Securities,5721907
+550,Real Estate,7215628
+550,Vehicles,9112566
+550,Precious Metals,6298716
+550,Shares and Securities,8563269
+551,Vehicles,9643155
+551,Precious Metals,9840231
+551,Deposits with ABL,4069119
+551,Shares and Securities,4544835
+551,Real Estate,3297334
+552,Precious Metals,802971
+552,Real Estate,9059522
+552,Deposits with ABL,5123171
+553,Real Estate,6100068
+553,Precious Metals,5981513
+553,Shares and Securities,5076918
+554,Vehicles,1433063
+554,Shares and Securities,9666243
+554,Precious Metals,5687440
+554,Real Estate,9692783
+555,Precious Metals,866368
+555,Vehicles,6757322
+555,Real Estate,7747241
+555,Deposits with ABL,5338379
+556,Vehicles,9121135
+556,Shares and Securities,4596899
+556,Precious Metals,2447288
+557,Shares and Securities,2407075
+557,Vehicles,6596248
+557,Real Estate,5638618
+558,Real Estate,4964175
+558,Precious Metals,3851307
+558,Vehicles,7039728
+559,Vehicles,6764980
+559,Precious Metals,9739404
+559,Real Estate,7497142
+559,Shares and Securities,1770086
+559,Deposits with ABL,8978534
+560,Deposits with ABL,837876
+560,Shares and Securities,6021572
+560,Precious Metals,4969874
+560,Vehicles,3439281
+560,Real Estate,2847772
+561,Vehicles,5112730
+561,Precious Metals,8113851
+561,Deposits with ABL,3760897
+562,Real Estate,7719182
+562,Vehicles,9667495
+562,Deposits with ABL,6302124
+562,Precious Metals,6612133
+562,Shares and Securities,6382500
+563,Vehicles,1589459
+563,Shares and Securities,4701666
+563,Deposits with ABL,1514218
+563,Precious Metals,4544376
+563,Real Estate,6681211
+564,Vehicles,9385319
+564,Shares and Securities,8864709
+564,Precious Metals,5011343
+564,Real Estate,8043749
+565,Deposits with ABL,3981025
+565,Real Estate,6364839
+565,Shares and Securities,5321013
+565,Vehicles,2890719
+566,Real Estate,4143581
+566,Precious Metals,3056643
+566,Vehicles,4164244
+566,Shares and Securities,9713939
+566,Deposits with ABL,3337387
+567,Vehicles,2059176
+567,Shares and Securities,674175
+567,Deposits with ABL,4242126
+568,Precious Metals,2710380
+568,Deposits with ABL,8681124
+568,Shares and Securities,6433068
+568,Vehicles,4591744
+569,Precious Metals,3257087
+569,Vehicles,4315334
+569,Real Estate,2113131
+569,Deposits with ABL,3586937
+570,Real Estate,4731964
+570,Vehicles,7178866
+570,Precious Metals,967532
+571,Precious Metals,606766
+571,Real Estate,2632709
+571,Vehicles,1369219
+571,Shares and Securities,4140230
+571,Deposits with ABL,5617774
+572,Vehicles,5599454
+572,Precious Metals,1850280
+572,Real Estate,2040597
+573,Real Estate,1266905
+573,Vehicles,9300459
+573,Precious Metals,5608450
+573,Shares and Securities,1281116
+574,Precious Metals,9901933
+574,Vehicles,7489919
+574,Real Estate,9116025
+574,Shares and Securities,6923055
+574,Deposits with ABL,7430693
+575,Vehicles,3695470
+575,Precious Metals,6244385
+575,Shares and Securities,4056877
+576,Precious Metals,3044471
+576,Shares and Securities,9947731
+576,Vehicles,6953763
+577,Precious Metals,6372008
+577,Real Estate,9894233
+577,Vehicles,1966780
+578,Vehicles,3524600
+578,Deposits with ABL,9359745
+578,Precious Metals,864942
+579,Precious Metals,7800184
+579,Vehicles,3641615
+579,Real Estate,3712745
+580,Real Estate,1355626
+580,Precious Metals,9662701
+580,Vehicles,8314618
+580,Shares and Securities,7193641
+581,Vehicles,4282018
+581,Shares and Securities,7404149
+581,Real Estate,8310112
+582,Precious Metals,3348777
+582,Vehicles,1795122
+582,Shares and Securities,8742264
+583,Vehicles,5819720
+583,Real Estate,7999577
+583,Precious Metals,811450
+583,Shares and Securities,3241290
+583,Deposits with ABL,966423
+584,Precious Metals,1094855
+584,Real Estate,3567538
+584,Shares and Securities,9345291
+585,Real Estate,830586
+585,Precious Metals,8541455
+585,Vehicles,4051657
+586,Real Estate,5541615
+586,Precious Metals,6546451
+586,Vehicles,5150502
+586,Shares and Securities,9255424
+586,Deposits with ABL,2108621
+587,Vehicles,5464554
+587,Shares and Securities,3373071
+587,Precious Metals,3643020
+588,Vehicles,3360337
+588,Precious Metals,3441691
+588,Shares and Securities,1931878
+589,Real Estate,1392599
+589,Precious Metals,1349451
+589,Shares and Securities,9251061
+589,Vehicles,8292474
+589,Deposits with ABL,8540336
+590,Real Estate,4287460
+590,Vehicles,3519424
+590,Shares and Securities,666150
+591,Vehicles,7263805
+591,Deposits with ABL,1426724
+591,Precious Metals,3740898
+591,Real Estate,6255865
+591,Shares and Securities,6184753
+592,Real Estate,9218581
+592,Vehicles,6578285
+592,Precious Metals,8255694
+593,Precious Metals,4718470
+593,Real Estate,3854342
+593,Shares and Securities,4983238
+594,Precious Metals,894494
+594,Vehicles,1313848
+594,Shares and Securities,8526490
+594,Real Estate,5359099
+594,Deposits with ABL,7670627
+595,Vehicles,862249
+595,Real Estate,7115498
+595,Precious Metals,7816930
+595,Shares and Securities,2118171
+595,Deposits with ABL,8928480
+596,Precious Metals,9313793
+596,Shares and Securities,4693216
+596,Deposits with ABL,7085145
+597,Precious Metals,7993166
+597,Shares and Securities,5555924
+597,Vehicles,4703983
+597,Real Estate,8478478
+597,Deposits with ABL,4545900
+598,Vehicles,8878284
+598,Precious Metals,1937967
+598,Shares and Securities,6430244
+598,Deposits with ABL,766074
+598,Real Estate,8390235
+599,Vehicles,7333316
+599,Precious Metals,3265160
+599,Shares and Securities,3707239
+599,Real Estate,7528032
+600,Precious Metals,6307063
+600,Shares and Securities,1416508
+600,Vehicles,7147390
+601,Precious Metals,6075182
+601,Vehicles,5299602
+601,Real Estate,7643869
+601,Shares and Securities,3572200
+602,Precious Metals,9763662
+602,Shares and Securities,6749042
+602,Vehicles,2565977
+602,Deposits with ABL,3286746
+603,Vehicles,9521320
+603,Shares and Securities,1854263
+603,Precious Metals,7249561
+604,Vehicles,899579
+604,Real Estate,9792560
+604,Precious Metals,2383213
+604,Deposits with ABL,4368196
+604,Shares and Securities,5753809
+605,Vehicles,4722789
+605,Real Estate,2184982
+605,Precious Metals,4576725
+606,Precious Metals,8910004
+606,Shares and Securities,8072894
+606,Real Estate,2968797
+606,Vehicles,9316727
+606,Deposits with ABL,1258558
+607,Vehicles,2188097
+607,Precious Metals,7732974
+607,Deposits with ABL,3578988
+608,Vehicles,8358691
+608,Shares and Securities,4478213
+608,Deposits with ABL,1458601
+609,Precious Metals,2120935
+609,Vehicles,4136222
+609,Real Estate,4807209
+609,Shares and Securities,7271604
+609,Deposits with ABL,1586413
+610,Real Estate,5908082
+610,Deposits with ABL,3243628
+610,Vehicles,6609531
+611,Precious Metals,4510472
+611,Deposits with ABL,6946598
+611,Real Estate,8972932
+611,Vehicles,1733198
+612,Real Estate,813355
+612,Vehicles,3372200
+612,Precious Metals,5045671
+612,Shares and Securities,6900716
+612,Deposits with ABL,5511976
+613,Shares and Securities,1965168
+613,Deposits with ABL,9201819
+613,Precious Metals,8909315
+614,Precious Metals,1937190
+614,Vehicles,1620410
+614,Real Estate,1871773
+614,Deposits with ABL,9582641
+614,Shares and Securities,6088403
+615,Vehicles,1537333
+615,Real Estate,4596775
+615,Precious Metals,6368937
+615,Shares and Securities,9763214
+615,Deposits with ABL,3337889
+616,Vehicles,4077413
+616,Deposits with ABL,1261795
+616,Real Estate,9571459
+616,Precious Metals,8427119
+617,Precious Metals,8548049
+617,Vehicles,6893568
+617,Shares and Securities,7183909
+618,Vehicles,602953
+618,Precious Metals,5698335
+618,Deposits with ABL,1982636
+618,Shares and Securities,5779588
+619,Shares and Securities,9074058
+619,Vehicles,1625059
+619,Precious Metals,4498411
+619,Real Estate,4418227
+620,Deposits with ABL,6982915
+620,Vehicles,6751025
+620,Precious Metals,2847439
+621,Precious Metals,7663390
+621,Shares and Securities,1057050
+621,Vehicles,2865053
+622,Vehicles,4899356
+622,Shares and Securities,1319699
+622,Precious Metals,1502873
+622,Real Estate,5968011
+623,Precious Metals,2542053
+623,Real Estate,3851880
+623,Vehicles,2528128
+623,Deposits with ABL,6242278
+624,Precious Metals,4133503
+624,Vehicles,9316296
+624,Real Estate,2595760
+625,Shares and Securities,7404570
+625,Precious Metals,3918869
+625,Vehicles,4292052
+625,Real Estate,6263701
+626,Shares and Securities,8544556
+626,Real Estate,1875659
+626,Vehicles,8876455
+626,Precious Metals,7018797
+627,Vehicles,1594865
+627,Real Estate,6102270
+627,Precious Metals,2348318
+627,Deposits with ABL,6062526
+628,Vehicles,2092196
+628,Precious Metals,4931620
+628,Deposits with ABL,6008514
+629,Precious Metals,8400584
+629,Vehicles,7707310
+629,Shares and Securities,2387896
+630,Real Estate,3563150
+630,Vehicles,1644232
+630,Shares and Securities,7181926
+630,Deposits with ABL,2628358
+631,Precious Metals,7985328
+631,Vehicles,3205642
+631,Shares and Securities,4920270
+632,Shares and Securities,3555923
+632,Precious Metals,4080805
+632,Vehicles,2455381
+632,Real Estate,3468346
+633,Vehicles,5956215
+633,Precious Metals,2811814
+633,Real Estate,9756969
+633,Shares and Securities,9269994
+634,Vehicles,1483087
+634,Precious Metals,3829097
+634,Shares and Securities,5707404
+634,Real Estate,7961717
+634,Deposits with ABL,4326502
+635,Precious Metals,848325
+635,Vehicles,2162826
+635,Shares and Securities,4341928
+635,Deposits with ABL,1792137
+635,Real Estate,2497315
+636,Vehicles,3214922
+636,Real Estate,7430614
+636,Precious Metals,5834710
+636,Shares and Securities,9427622
+636,Deposits with ABL,5729991
+637,Vehicles,4767755
+637,Shares and Securities,4811996
+637,Real Estate,4215044
+637,Precious Metals,5354951
+638,Shares and Securities,9195194
+638,Precious Metals,8218241
+638,Vehicles,3291860
+638,Real Estate,1041695
+638,Deposits with ABL,4848304
+639,Precious Metals,1708612
+639,Shares and Securities,2852432
+639,Real Estate,8401173
+640,Vehicles,5335305
+640,Precious Metals,6301554
+640,Deposits with ABL,7219334
+641,Precious Metals,615224
+641,Shares and Securities,8625301
+641,Real Estate,5607236
+642,Vehicles,6406147
+642,Precious Metals,5379498
+642,Deposits with ABL,9882582
+642,Real Estate,6247755
+643,Real Estate,4233433
+643,Vehicles,6695171
+643,Precious Metals,9031570
+643,Shares and Securities,8769847
+644,Vehicles,4631429
+644,Shares and Securities,4260276
+644,Precious Metals,6019856
+644,Real Estate,2260763
+645,Shares and Securities,7742331
+645,Real Estate,6739179
+645,Precious Metals,5632116
+646,Precious Metals,7819099
+646,Vehicles,2716865
+646,Shares and Securities,2134904
+646,Real Estate,3784575
+647,Shares and Securities,4736454
+647,Precious Metals,9562367
+647,Vehicles,2869406
+648,Vehicles,3569585
+648,Precious Metals,1532372
+648,Real Estate,6952961
+649,Shares and Securities,9163095
+649,Deposits with ABL,5665563
+649,Precious Metals,1733600
+650,Precious Metals,4190742
+650,Vehicles,5922313
+650,Shares and Securities,9104838
+650,Real Estate,1935322
+651,Shares and Securities,1926073
+651,Vehicles,6444040
+651,Precious Metals,7709233
+652,Vehicles,6055542
+652,Real Estate,9226493
+652,Precious Metals,1610813
+653,Precious Metals,903370
+653,Real Estate,995858
+653,Vehicles,566927
+654,Precious Metals,4238022
+654,Vehicles,7908545
+654,Shares and Securities,3907652
+654,Real Estate,2067564
+655,Shares and Securities,3149179
+655,Deposits with ABL,1351087
+655,Real Estate,7397023
+655,Vehicles,1372774
+655,Precious Metals,1390025
+656,Vehicles,2625824
+656,Precious Metals,5449776
+656,Real Estate,6700403
+656,Shares and Securities,9605077
+657,Vehicles,9356427
+657,Precious Metals,5713247
+657,Shares and Securities,3392675
+657,Real Estate,8331127
+658,Vehicles,6910408
+658,Real Estate,2088488
+658,Shares and Securities,3281963
+658,Precious Metals,2557473
+659,Real Estate,6687429
+659,Vehicles,5060356
+659,Precious Metals,886554
+660,Vehicles,8491456
+660,Deposits with ABL,8612564
+660,Precious Metals,3758963
+661,Shares and Securities,2620478
+661,Vehicles,6576435
+661,Deposits with ABL,8176219
+661,Real Estate,7665083
+662,Vehicles,4461397
+662,Precious Metals,3395408
+662,Real Estate,4777010
+663,Precious Metals,3012629
+663,Vehicles,9792546
+663,Deposits with ABL,2999286
+664,Vehicles,1328230
+664,Precious Metals,1477425
+664,Shares and Securities,7919797
+665,Precious Metals,6570500
+665,Real Estate,2207711
+665,Vehicles,4314155
+665,Shares and Securities,8407374
+665,Deposits with ABL,2919675
+666,Deposits with ABL,710482
+666,Vehicles,6401459
+666,Precious Metals,2668457
+667,Shares and Securities,9919733
+667,Vehicles,9072699
+667,Precious Metals,1664676
+668,Vehicles,874149
+668,Shares and Securities,547314
+668,Precious Metals,9774858
+669,Precious Metals,3676018
+669,Shares and Securities,9118235
+669,Vehicles,4297520
+670,Shares and Securities,6021380
+670,Precious Metals,3197351
+670,Deposits with ABL,1830772
+671,Deposits with ABL,4974000
+671,Shares and Securities,8654662
+671,Precious Metals,9740083
+672,Precious Metals,4843109
+672,Vehicles,9113884
+672,Real Estate,4847941
+673,Real Estate,1754324
+673,Vehicles,4059953
+673,Shares and Securities,8119191
+674,Shares and Securities,2940903
+674,Vehicles,1253745
+674,Real Estate,9506761
+675,Precious Metals,9520763
+675,Deposits with ABL,8046086
+675,Vehicles,5759941
+676,Vehicles,2453500
+676,Precious Metals,6583984
+676,Real Estate,4610390
+677,Vehicles,9609299
+677,Precious Metals,6530554
+677,Real Estate,7829693
+677,Deposits with ABL,7975995
+677,Shares and Securities,2820812
+678,Vehicles,1796368
+678,Real Estate,4256270
+678,Shares and Securities,7045804
+678,Precious Metals,9313545
+679,Precious Metals,8658591
+679,Vehicles,8819857
+679,Shares and Securities,5689889
+680,Vehicles,5360799
+680,Precious Metals,8156799
+680,Real Estate,9250402
+681,Real Estate,9020165
+681,Vehicles,1014354
+681,Shares and Securities,2183117
+682,Vehicles,1202443
+682,Real Estate,2759202
+682,Precious Metals,5478698
+682,Shares and Securities,1070231
+683,Vehicles,2774794
+683,Precious Metals,1445364
+683,Real Estate,4322924
+683,Shares and Securities,9790686
+683,Deposits with ABL,2752745
+684,Precious Metals,6336125
+684,Vehicles,2861593
+684,Shares and Securities,2003026
+684,Real Estate,9934844
+684,Deposits with ABL,3019769
+685,Vehicles,690055
+685,Precious Metals,6000572
+685,Shares and Securities,1140933
+685,Real Estate,3657300
+686,Shares and Securities,3610302
+686,Vehicles,5702123
+686,Precious Metals,5144845
+686,Deposits with ABL,2181770
+686,Real Estate,6558189
+687,Precious Metals,9392570
+687,Deposits with ABL,3513409
+687,Vehicles,6704241
+687,Real Estate,9218439
+688,Vehicles,8067671
+688,Real Estate,4524381
+688,Shares and Securities,9535071
+688,Precious Metals,2783304
+689,Precious Metals,1066796
+689,Deposits with ABL,1626095
+689,Vehicles,4454537
+689,Shares and Securities,5347757
+690,Real Estate,7448735
+690,Vehicles,4560888
+690,Precious Metals,3308381
+690,Deposits with ABL,8775200
+691,Precious Metals,4892337
+691,Shares and Securities,4425515
+691,Real Estate,9786066
+691,Vehicles,4313532
+691,Deposits with ABL,7625565
+692,Real Estate,7327647
+692,Precious Metals,1306989
+692,Shares and Securities,6629839
+693,Real Estate,2882018
+693,Precious Metals,1325640
+693,Vehicles,9589055
+694,Shares and Securities,3709111
+694,Vehicles,9532330
+694,Precious Metals,3963503
+695,Precious Metals,9144408
+695,Vehicles,5065593
+695,Real Estate,767209
+695,Shares and Securities,6859845
+696,Precious Metals,9332906
+696,Vehicles,7422862
+696,Deposits with ABL,5732385
+696,Real Estate,1256133
+697,Precious Metals,3443568
+697,Vehicles,1584067
+697,Shares and Securities,4620065
+697,Real Estate,7690986
+698,Shares and Securities,2635728
+698,Real Estate,5272330
+698,Precious Metals,3211023
+698,Vehicles,5212852
+699,Vehicles,9122146
+699,Real Estate,4296436
+699,Shares and Securities,3210256
+699,Precious Metals,7711775
+700,Vehicles,9868522
+700,Precious Metals,4597431
+700,Shares and Securities,3851900
+701,Vehicles,4555578
+701,Precious Metals,6874010
+701,Real Estate,9055301
+701,Deposits with ABL,5037495
+701,Shares and Securities,3892703
+702,Real Estate,4986038
+702,Vehicles,6571323
+702,Shares and Securities,8042817
+702,Precious Metals,7847628
+702,Deposits with ABL,9065476
+703,Precious Metals,3376916
+703,Vehicles,7057587
+703,Shares and Securities,5197066
+703,Real Estate,6945465
+704,Vehicles,3727393
+704,Precious Metals,1650273
+704,Deposits with ABL,5332883
+704,Shares and Securities,7000934
+705,Deposits with ABL,7974084
+705,Precious Metals,6181500
+705,Shares and Securities,5674550
+705,Vehicles,2771885
+706,Vehicles,1518810
+706,Precious Metals,2780435
+706,Shares and Securities,1674395
+707,Vehicles,2833441
+707,Precious Metals,8488278
+707,Real Estate,5427630
+707,Shares and Securities,5674587
+707,Deposits with ABL,1473848
+708,Real Estate,4352316
+708,Vehicles,9210082
+708,Shares and Securities,1477653
+709,Shares and Securities,7044734
+709,Vehicles,9572584
+709,Real Estate,2871426
+709,Precious Metals,7726312
+710,Deposits with ABL,5295896
+710,Vehicles,6980987
+710,Real Estate,4705929
+711,Real Estate,3262370
+711,Shares and Securities,7375229
+711,Precious Metals,7596367
+712,Precious Metals,7453777
+712,Vehicles,2592818
+712,Shares and Securities,4262150
+713,Vehicles,1989324
+713,Real Estate,2382515
+713,Precious Metals,3304314
+713,Deposits with ABL,8946698
+713,Shares and Securities,1841177
+714,Precious Metals,4480455
+714,Real Estate,6340916
+714,Vehicles,5907903
+714,Shares and Securities,550849
+714,Deposits with ABL,1324316
+715,Real Estate,5551101
+715,Precious Metals,3410641
+715,Vehicles,5527476
+715,Shares and Securities,1467657
+715,Deposits with ABL,6938863
+716,Precious Metals,7834416
+716,Deposits with ABL,4374133
+716,Real Estate,6716474
+716,Vehicles,4369771
+717,Precious Metals,9287460
+717,Shares and Securities,663471
+717,Vehicles,4427284
+717,Real Estate,3588134
+718,Vehicles,1265910
+718,Precious Metals,712439
+718,Real Estate,5471661
+718,Deposits with ABL,6967862
+718,Shares and Securities,2761596
+719,Vehicles,5501679
+719,Precious Metals,4412825
+719,Shares and Securities,3929390
+719,Real Estate,4567719
+720,Vehicles,5711768
+720,Shares and Securities,1706012
+720,Precious Metals,3090038
+721,Vehicles,762424
+721,Shares and Securities,4277331
+721,Real Estate,3620068
+721,Precious Metals,7730707
+722,Precious Metals,2772952
+722,Vehicles,5948464
+722,Deposits with ABL,2081303
+722,Shares and Securities,8273268
+723,Precious Metals,6737875
+723,Vehicles,3244756
+723,Real Estate,6365758
+723,Shares and Securities,1404700
+724,Real Estate,5019222
+724,Precious Metals,7358549
+724,Vehicles,2730551
+724,Shares and Securities,2519169
+725,Shares and Securities,6993094
+725,Precious Metals,2352124
+725,Vehicles,1786433
+725,Real Estate,5137150
+726,Precious Metals,4049520
+726,Vehicles,2521882
+726,Shares and Securities,9515807
+727,Deposits with ABL,4879812
+727,Precious Metals,6586669
+727,Vehicles,766824
+727,Real Estate,4605926
+728,Real Estate,8767617
+728,Precious Metals,6116097
+728,Shares and Securities,4726949
+729,Vehicles,3931997
+729,Deposits with ABL,2490957
+729,Shares and Securities,2630767
+730,Precious Metals,6051829
+730,Vehicles,7206199
+730,Real Estate,9690891
+730,Shares and Securities,3746783
+731,Shares and Securities,5317442
+731,Vehicles,5849853
+731,Precious Metals,1608554
+731,Real Estate,8340950
+732,Shares and Securities,4916096
+732,Deposits with ABL,4627394
+732,Vehicles,5299078
+732,Real Estate,2780691
+732,Precious Metals,7172091
+733,Precious Metals,8462860
+733,Vehicles,6187673
+733,Shares and Securities,5877772
+733,Deposits with ABL,7300992
+734,Vehicles,1803647
+734,Precious Metals,8201804
+734,Shares and Securities,4119631
+734,Real Estate,6283401
+734,Deposits with ABL,2258882
+735,Shares and Securities,6823409
+735,Real Estate,9306545
+735,Precious Metals,5620159
+736,Deposits with ABL,7349135
+736,Vehicles,3495355
+736,Precious Metals,7035189
+737,Real Estate,8917675
+737,Precious Metals,3162281
+737,Shares and Securities,6852815
+737,Vehicles,940393
+737,Deposits with ABL,2196115
+738,Real Estate,6499957
+738,Precious Metals,4859584
+738,Vehicles,4594759
+738,Deposits with ABL,5744939
+739,Real Estate,4683846
+739,Precious Metals,4406978
+739,Vehicles,6184468
+739,Shares and Securities,9554998
+739,Deposits with ABL,2888854
+740,Precious Metals,6068199
+740,Vehicles,7416820
+740,Real Estate,4755490
+740,Deposits with ABL,5160356
+741,Precious Metals,3118865
+741,Vehicles,3931105
+741,Real Estate,7942776
+742,Deposits with ABL,6835883
+742,Vehicles,5884070
+742,Precious Metals,1131629
+743,Real Estate,2321400
+743,Vehicles,5438748
+743,Deposits with ABL,4168492
+744,Vehicles,8293572
+744,Precious Metals,2064980
+744,Shares and Securities,3695043
+744,Real Estate,2068186
+745,Precious Metals,6097963
+745,Vehicles,2574498
+745,Shares and Securities,3871994
+745,Deposits with ABL,9770753
+745,Real Estate,9554051
+746,Precious Metals,8087031
+746,Shares and Securities,7856313
+746,Deposits with ABL,6472854
+747,Precious Metals,1065158
+747,Real Estate,7995513
+747,Vehicles,6147943
+748,Real Estate,2469095
+748,Vehicles,8607743
+748,Precious Metals,1186861
+748,Shares and Securities,6110059
+749,Precious Metals,6118952
+749,Real Estate,1411936
+749,Vehicles,4510059
+750,Vehicles,2553538
+750,Real Estate,8816916
+750,Deposits with ABL,2655550
+751,Vehicles,1729686
+751,Precious Metals,5817383
+751,Deposits with ABL,939080
+752,Shares and Securities,1145870
+752,Vehicles,3667631
+752,Precious Metals,5017481
+752,Real Estate,2364152
+753,Real Estate,1231769
+753,Precious Metals,3592065
+753,Vehicles,9830984
+754,Vehicles,9752874
+754,Shares and Securities,6309245
+754,Deposits with ABL,4480047
+754,Precious Metals,9333017
+755,Real Estate,4772079
+755,Precious Metals,8541902
+755,Vehicles,1447693
+756,Shares and Securities,2722582
+756,Vehicles,5021528
+756,Real Estate,3239242
+756,Precious Metals,8771101
+756,Deposits with ABL,9490112
+757,Precious Metals,9920983
+757,Real Estate,4532549
+757,Vehicles,7583363
+757,Deposits with ABL,6386792
+758,Vehicles,2089124
+758,Precious Metals,8047261
+758,Real Estate,9465262
+759,Vehicles,2174020
+759,Precious Metals,6073229
+759,Deposits with ABL,4368700
+759,Shares and Securities,4624458
+760,Shares and Securities,6496035
+760,Deposits with ABL,1890136
+760,Real Estate,5892529
+760,Vehicles,5381532
+761,Vehicles,738266
+761,Real Estate,9990049
+761,Shares and Securities,929881
+761,Precious Metals,7903595
+761,Deposits with ABL,5616308
+762,Precious Metals,9774452
+762,Shares and Securities,9658437
+762,Deposits with ABL,7965376
+763,Vehicles,7660849
+763,Precious Metals,7540052
+763,Real Estate,8770221
+763,Deposits with ABL,3226107
+763,Shares and Securities,8737126
+764,Precious Metals,9959097
+764,Vehicles,5272306
+764,Shares and Securities,9205696
+764,Real Estate,3650209
+765,Vehicles,7078589
+765,Real Estate,2788890
+765,Precious Metals,1019795
+765,Deposits with ABL,2226275
+766,Precious Metals,4045049
+766,Real Estate,6652064
+766,Vehicles,9193926
+766,Shares and Securities,7989762
+767,Precious Metals,3722759
+767,Vehicles,3376228
+767,Real Estate,3048733
+768,Precious Metals,6573596
+768,Shares and Securities,5697186
+768,Vehicles,4969102
+768,Real Estate,1198357
+768,Deposits with ABL,1547354
+769,Deposits with ABL,1710730
+769,Vehicles,5909899
+769,Real Estate,7253981
+769,Precious Metals,1140020
+769,Shares and Securities,863848
+770,Vehicles,1599911
+770,Real Estate,819787
+770,Precious Metals,6949926
+770,Deposits with ABL,9058745
+771,Vehicles,8349596
+771,Real Estate,8451562
+771,Shares and Securities,3202007
+772,Precious Metals,7439756
+772,Vehicles,1535473
+772,Real Estate,6131254
+772,Shares and Securities,8908635
+772,Deposits with ABL,7577861
+773,Precious Metals,3139952
+773,Vehicles,7422990
+773,Real Estate,4878248
+773,Deposits with ABL,5675577
+773,Shares and Securities,7686496
+774,Precious Metals,5994452
+774,Shares and Securities,4830740
+774,Real Estate,1546451
+774,Vehicles,1663302
+775,Precious Metals,6650878
+775,Vehicles,5957942
+775,Shares and Securities,7573043
+775,Deposits with ABL,8662748
+776,Shares and Securities,2559311
+776,Precious Metals,2260374
+776,Real Estate,9571641
+777,Precious Metals,7345089
+777,Vehicles,6615020
+777,Shares and Securities,739838
+777,Real Estate,3286376
+778,Vehicles,7139672
+778,Precious Metals,4908770
+778,Real Estate,2476121
+778,Shares and Securities,505374
+779,Precious Metals,7452663
+779,Vehicles,9288808
+779,Shares and Securities,2738091
+779,Real Estate,1191880
+779,Deposits with ABL,7822821
+780,Real Estate,2143072
+780,Deposits with ABL,7962799
+780,Precious Metals,1789012
+781,Deposits with ABL,3086427
+781,Real Estate,1093828
+781,Precious Metals,1530848
+782,Vehicles,4547047
+782,Deposits with ABL,1305451
+782,Precious Metals,7955734
+783,Precious Metals,9359931
+783,Vehicles,6109754
+783,Real Estate,2176004
+784,Precious Metals,1077037
+784,Vehicles,8212385
+784,Real Estate,9917060
+785,Vehicles,2229361
+785,Precious Metals,2094348
+785,Deposits with ABL,2500446
+786,Vehicles,2996876
+786,Shares and Securities,2146526
+786,Real Estate,5524283
+786,Precious Metals,5048751
+787,Precious Metals,4555451
+787,Real Estate,1671408
+787,Vehicles,728347
+787,Shares and Securities,8733148
+787,Deposits with ABL,8055199
+788,Precious Metals,9791874
+788,Vehicles,830425
+788,Real Estate,3269252
+788,Shares and Securities,7223099
+789,Precious Metals,1472646
+789,Vehicles,7227325
+789,Shares and Securities,6470218
+789,Real Estate,3857231
+789,Deposits with ABL,1213137
+790,Deposits with ABL,8676770
+790,Real Estate,4036149
+790,Precious Metals,3879314
+790,Shares and Securities,9422164
+790,Vehicles,6574137
+791,Vehicles,2326837
+791,Deposits with ABL,2784690
+791,Shares and Securities,8623114
+792,Precious Metals,3338904
+792,Real Estate,9165127
+792,Vehicles,5370682
+792,Deposits with ABL,5982743
+793,Precious Metals,763493
+793,Vehicles,6385841
+793,Real Estate,2954873
+794,Shares and Securities,9581727
+794,Vehicles,2451506
+794,Precious Metals,6868666
+794,Real Estate,2926701
+794,Deposits with ABL,2407411
+795,Precious Metals,9258078
+795,Vehicles,5976036
+795,Real Estate,9272410
+795,Deposits with ABL,3375236
+795,Shares and Securities,9484024
+796,Vehicles,5131596
+796,Shares and Securities,3810227
+796,Precious Metals,772791
+796,Deposits with ABL,3334307
+796,Real Estate,7616434
+797,Real Estate,1793559
+797,Vehicles,2712745
+797,Precious Metals,5089421
+797,Shares and Securities,4636975
+798,Precious Metals,4578505
+798,Vehicles,2840660
+798,Real Estate,8554630
+798,Deposits with ABL,3422110
+798,Shares and Securities,3997798
+799,Precious Metals,8274793
+799,Vehicles,9562192
+799,Shares and Securities,2896362
+799,Real Estate,7441757
+800,Shares and Securities,8645984
+800,Vehicles,1960010
+800,Precious Metals,2512180
+800,Real Estate,7244934
+801,Real Estate,1964615
+801,Vehicles,8682633
+801,Deposits with ABL,3694540
+801,Precious Metals,4961362
+801,Shares and Securities,5383149
+802,Precious Metals,7800784
+802,Real Estate,6880032
+802,Vehicles,6120580
+803,Real Estate,1246257
+803,Vehicles,7124628
+803,Precious Metals,1216309
+803,Shares and Securities,3278961
+803,Deposits with ABL,6607063
+804,Precious Metals,935569
+804,Vehicles,1714865
+804,Real Estate,9190599
+804,Shares and Securities,2842393
+805,Precious Metals,841295
+805,Shares and Securities,1968441
+805,Deposits with ABL,8349870
+805,Real Estate,4335088
+805,Vehicles,7455752
+806,Precious Metals,2202617
+806,Deposits with ABL,1894182
+806,Vehicles,8695170
+806,Shares and Securities,3140889
+807,Vehicles,4105249
+807,Precious Metals,2934187
+807,Deposits with ABL,8825086
+807,Real Estate,5706510
+808,Precious Metals,3932086
+808,Deposits with ABL,7525784
+808,Vehicles,4219672
+808,Real Estate,8357432
+809,Vehicles,7282520
+809,Deposits with ABL,2200236
+809,Precious Metals,1800746
+809,Shares and Securities,1872641
+810,Vehicles,6051895
+810,Shares and Securities,5442207
+810,Deposits with ABL,4961110
+811,Vehicles,8297163
+811,Real Estate,9533820
+811,Precious Metals,5414977
+811,Deposits with ABL,7768034
+812,Shares and Securities,2896536
+812,Precious Metals,5131157
+812,Real Estate,7135419
+812,Vehicles,2369157
+813,Precious Metals,7695236
+813,Vehicles,7939226
+813,Deposits with ABL,9900639
+813,Shares and Securities,6638321
+814,Precious Metals,6355049
+814,Vehicles,5600019
+814,Real Estate,5315420
+814,Deposits with ABL,717000
+815,Deposits with ABL,8854266
+815,Precious Metals,6838437
+815,Vehicles,8773279
+816,Vehicles,7333955
+816,Precious Metals,5680991
+816,Real Estate,1686556
+817,Shares and Securities,5646168
+817,Vehicles,5622757
+817,Real Estate,5829974
+817,Precious Metals,575115
+818,Deposits with ABL,6584790
+818,Precious Metals,7795855
+818,Real Estate,7053569
+818,Vehicles,5323153
+819,Precious Metals,5412716
+819,Vehicles,9422685
+819,Shares and Securities,2671941
+820,Vehicles,6146414
+820,Precious Metals,2463070
+820,Shares and Securities,8058548
+820,Real Estate,6869440
+821,Precious Metals,3329402
+821,Shares and Securities,5323162
+821,Vehicles,1120097
+821,Deposits with ABL,7241775
+822,Deposits with ABL,9930733
+822,Precious Metals,1794892
+822,Real Estate,1403247
+823,Vehicles,1989186
+823,Deposits with ABL,1331979
+823,Shares and Securities,8419243
+824,Precious Metals,9889209
+824,Vehicles,3329788
+824,Real Estate,5196184
+824,Shares and Securities,9964187
+825,Precious Metals,7693649
+825,Real Estate,5284038
+825,Vehicles,2831055
+826,Shares and Securities,543038
+826,Deposits with ABL,6786591
+826,Precious Metals,2459161
+827,Vehicles,5723369
+827,Shares and Securities,2818250
+827,Real Estate,5425693
+827,Precious Metals,2919626
+828,Precious Metals,8250185
+828,Vehicles,7772323
+828,Real Estate,1576311
+828,Shares and Securities,5088949
+829,Vehicles,2302467
+829,Real Estate,7697730
+829,Shares and Securities,6315786
+830,Real Estate,5259042
+830,Shares and Securities,3539123
+830,Precious Metals,1927839
+830,Vehicles,1860781
+831,Precious Metals,8387082
+831,Vehicles,6228895
+831,Real Estate,2095335
+832,Precious Metals,6147118
+832,Real Estate,6473906
+832,Shares and Securities,4500470
+833,Real Estate,1102936
+833,Vehicles,1102224
+833,Deposits with ABL,8154365
+833,Precious Metals,3160283
+834,Deposits with ABL,5674633
+834,Vehicles,1408501
+834,Real Estate,3346971
+834,Precious Metals,3008252
+835,Precious Metals,6606192
+835,Vehicles,2719358
+835,Real Estate,6019036
+835,Shares and Securities,2106426
+835,Deposits with ABL,1590908
+836,Precious Metals,3055070
+836,Vehicles,3420798
+836,Real Estate,7715158
+836,Shares and Securities,2058707
+836,Deposits with ABL,6600017
+837,Real Estate,2941715
+837,Shares and Securities,9363985
+837,Deposits with ABL,3530661
+838,Real Estate,5933812
+838,Vehicles,1787593
+838,Precious Metals,3111081
+838,Deposits with ABL,5325138
+839,Real Estate,2528625
+839,Precious Metals,7135672
+839,Vehicles,6534509
+839,Shares and Securities,1718541
+840,Shares and Securities,5714890
+840,Precious Metals,9867129
+840,Vehicles,9721125
+841,Vehicles,1715218
+841,Precious Metals,1088051
+841,Real Estate,7488307
+841,Shares and Securities,9836646
+842,Vehicles,6225110
+842,Real Estate,2092538
+842,Deposits with ABL,5058325
+842,Precious Metals,7729407
+842,Shares and Securities,7650672
+843,Shares and Securities,6835004
+843,Precious Metals,5128956
+843,Real Estate,7451043
+844,Vehicles,6087509
+844,Real Estate,9897011
+844,Precious Metals,8257461
+845,Real Estate,2625937
+845,Vehicles,7293135
+845,Precious Metals,2258401
+845,Shares and Securities,4229174
+845,Deposits with ABL,6856352
+846,Vehicles,1500150
+846,Precious Metals,877652
+846,Shares and Securities,4449293
+847,Vehicles,1159117
+847,Precious Metals,9980593
+847,Shares and Securities,3725787
+847,Real Estate,3242147
+848,Precious Metals,9521901
+848,Shares and Securities,6230955
+848,Vehicles,8228405
+849,Shares and Securities,3004474
+849,Real Estate,6935900
+849,Vehicles,4147311
+849,Precious Metals,7765655
+850,Shares and Securities,2949510
+850,Real Estate,2220952
+850,Vehicles,5769504
+850,Precious Metals,2234414
+851,Real Estate,9117430
+851,Vehicles,7879802
+851,Deposits with ABL,2906460
+852,Real Estate,7063511
+852,Precious Metals,7513635
+852,Vehicles,1301941
+853,Vehicles,9915954
+853,Precious Metals,9733017
+853,Shares and Securities,2491779
+853,Real Estate,3865145
+853,Deposits with ABL,7604755
+854,Precious Metals,820378
+854,Deposits with ABL,7540508
+854,Shares and Securities,2972797
+855,Real Estate,5299124
+855,Precious Metals,542283
+855,Vehicles,7717260
+856,Deposits with ABL,6534074
+856,Precious Metals,9623736
+856,Vehicles,8635935
+856,Shares and Securities,775988
+856,Real Estate,3610243
+857,Precious Metals,4187140
+857,Vehicles,5672310
+857,Real Estate,9546634
+857,Shares and Securities,910961
+857,Deposits with ABL,2950580
+858,Precious Metals,6750841
+858,Real Estate,4063556
+858,Shares and Securities,2919631
+858,Vehicles,3223732
+858,Deposits with ABL,2347880
+859,Precious Metals,6429222
+859,Real Estate,8693878
+859,Vehicles,9932719
+860,Vehicles,6345063
+860,Precious Metals,6459714
+860,Real Estate,1129220
+860,Deposits with ABL,7122335
+860,Shares and Securities,8351790
+861,Vehicles,5191432
+861,Shares and Securities,4709594
+861,Precious Metals,5495588
+861,Real Estate,4341710
+862,Precious Metals,1115958
+862,Vehicles,3436834
+862,Deposits with ABL,4575752
+863,Precious Metals,6765579
+863,Vehicles,2039782
+863,Shares and Securities,7214022
+864,Real Estate,2666986
+864,Vehicles,2452228
+864,Precious Metals,2254935
+865,Shares and Securities,1178616
+865,Vehicles,9890169
+865,Precious Metals,8619784
+866,Real Estate,1805108
+866,Precious Metals,2449378
+866,Vehicles,5884470
+867,Precious Metals,7186350
+867,Vehicles,1858510
+867,Shares and Securities,5589403
+868,Vehicles,6478365
+868,Precious Metals,6751917
+868,Real Estate,6795518
+868,Deposits with ABL,8928342
+869,Vehicles,8599462
+869,Deposits with ABL,8093413
+869,Shares and Securities,9326727
+869,Precious Metals,3212188
+869,Real Estate,6040004
+870,Vehicles,7616841
+870,Shares and Securities,1124938
+870,Deposits with ABL,3955487
+870,Precious Metals,7569439
+871,Deposits with ABL,3349588
+871,Precious Metals,2767082
+871,Vehicles,9043755
+872,Vehicles,5251778
+872,Precious Metals,4983697
+872,Real Estate,734455
+872,Shares and Securities,7878628
+872,Deposits with ABL,7838486
+873,Vehicles,5937223
+873,Deposits with ABL,1681172
+873,Shares and Securities,5815770
+873,Precious Metals,7020129
+873,Real Estate,1432683
+874,Vehicles,2006821
+874,Shares and Securities,5639593
+874,Deposits with ABL,6882691
+874,Real Estate,5871863
+874,Precious Metals,3448110
+875,Real Estate,2623749
+875,Vehicles,1395993
+875,Precious Metals,2113665
+875,Shares and Securities,2058656
+875,Deposits with ABL,8230543
+876,Vehicles,9941557
+876,Precious Metals,4869822
+876,Real Estate,9055802
+876,Shares and Securities,6917632
+876,Deposits with ABL,6533899
+877,Vehicles,5923472
+877,Real Estate,8023075
+877,Precious Metals,5407036
+877,Deposits with ABL,7412526
+877,Shares and Securities,3400891
+878,Precious Metals,7575337
+878,Real Estate,7727021
+878,Vehicles,4789531
+878,Shares and Securities,2608803
+879,Vehicles,7116746
+879,Precious Metals,545919
+879,Shares and Securities,7606872
+879,Real Estate,3577162
+880,Precious Metals,3240860
+880,Vehicles,7652063
+880,Real Estate,4497448
+880,Shares and Securities,6021109
+880,Deposits with ABL,6003608
+881,Shares and Securities,1388988
+881,Vehicles,9780935
+881,Precious Metals,2921695
+881,Real Estate,4800376
+882,Precious Metals,6494407
+882,Vehicles,3936468
+882,Real Estate,3620776
+882,Deposits with ABL,9516205
+883,Real Estate,6106622
+883,Vehicles,6927552
+883,Precious Metals,2721089
+883,Shares and Securities,8185025
+884,Real Estate,8693422
+884,Precious Metals,3126969
+884,Shares and Securities,3861308
+885,Precious Metals,6371158
+885,Shares and Securities,7510842
+885,Vehicles,4355487
+885,Real Estate,9652588
+886,Precious Metals,6207906
+886,Vehicles,5150884
+886,Real Estate,1821633
+887,Real Estate,1643890
+887,Vehicles,5979804
+887,Shares and Securities,886934
+887,Deposits with ABL,6171172
+887,Precious Metals,3373702
+888,Shares and Securities,5087358
+888,Real Estate,7689671
+888,Vehicles,2825709
+888,Precious Metals,1947271
+889,Precious Metals,7945883
+889,Vehicles,8768909
+889,Real Estate,3210135
+889,Shares and Securities,5932744
+889,Deposits with ABL,780857
+890,Real Estate,2270909
+890,Precious Metals,6147081
+890,Shares and Securities,6404446
+890,Vehicles,1805532
+890,Deposits with ABL,6850326
+891,Deposits with ABL,7165924
+891,Vehicles,1084292
+891,Precious Metals,9515502
+891,Real Estate,6656092
+892,Deposits with ABL,678679
+892,Precious Metals,4790479
+892,Shares and Securities,7837274
+893,Precious Metals,5413659
+893,Vehicles,4949754
+893,Real Estate,1629159
+894,Vehicles,9644349
+894,Precious Metals,7216617
+894,Real Estate,9977423
+894,Deposits with ABL,7651605
+895,Precious Metals,9000729
+895,Real Estate,5898439
+895,Deposits with ABL,3664202
+896,Real Estate,8073783
+896,Precious Metals,4891098
+896,Vehicles,8397647
+896,Shares and Securities,4765838
+897,Real Estate,2399232
+897,Vehicles,3431565
+897,Deposits with ABL,9899696
+898,Precious Metals,1390374
+898,Vehicles,4689449
+898,Deposits with ABL,1594623
+899,Real Estate,7090208
+899,Vehicles,4896009
+899,Precious Metals,2541741
+899,Shares and Securities,6955016
+900,Vehicles,4495671
+900,Precious Metals,5390679
+900,Deposits with ABL,4372126
+901,Precious Metals,1788134
+901,Vehicles,4644815
+901,Shares and Securities,625168
+901,Real Estate,5995658
+901,Deposits with ABL,7792704
+902,Vehicles,6944980
+902,Precious Metals,4330093
+902,Real Estate,7337064
+902,Deposits with ABL,7139381
+903,Vehicles,7127244
+903,Precious Metals,3689069
+903,Real Estate,5395988
+904,Real Estate,4539102
+904,Precious Metals,6838619
+904,Deposits with ABL,8370077
+904,Vehicles,1764740
+905,Deposits with ABL,6212470
+905,Precious Metals,3585880
+905,Real Estate,7183751
+905,Shares and Securities,1364783
+905,Vehicles,1547518
+906,Vehicles,6103793
+906,Real Estate,6393500
+906,Shares and Securities,879762
+906,Precious Metals,3941550
+907,Real Estate,1609172
+907,Shares and Securities,4913633
+907,Precious Metals,8218196
+908,Precious Metals,4097020
+908,Real Estate,5494974
+908,Vehicles,3337765
+908,Shares and Securities,515349
+909,Precious Metals,4952890
+909,Real Estate,6695129
+909,Vehicles,9113724
+910,Vehicles,3720868
+910,Precious Metals,9490530
+910,Deposits with ABL,9040582
+911,Vehicles,8051669
+911,Precious Metals,2705395
+911,Real Estate,6135837
+911,Deposits with ABL,5975243
+912,Shares and Securities,6377682
+912,Precious Metals,5102424
+912,Vehicles,8596096
+912,Real Estate,1777826
+912,Deposits with ABL,8643388
+913,Precious Metals,3636416
+913,Real Estate,6379356
+913,Vehicles,2644323
+913,Deposits with ABL,9407381
+914,Precious Metals,6695155
+914,Vehicles,4130052
+914,Real Estate,2085251
+914,Deposits with ABL,7763170
+914,Shares and Securities,3492895
+915,Vehicles,7464198
+915,Precious Metals,9972954
+915,Real Estate,3949643
+915,Deposits with ABL,3401487
+915,Shares and Securities,1249806
+916,Precious Metals,4540794
+916,Vehicles,6013199
+916,Real Estate,4502321
+917,Precious Metals,7545514
+917,Vehicles,5365029
+917,Shares and Securities,1934789
+917,Real Estate,7023992
+918,Real Estate,6667519
+918,Precious Metals,7242620
+918,Shares and Securities,1863293
+919,Precious Metals,1104052
+919,Shares and Securities,1473693
+919,Vehicles,913010
+919,Real Estate,9607460
+920,Precious Metals,6968109
+920,Shares and Securities,4978333
+920,Real Estate,6327984
+920,Vehicles,3452075
+921,Precious Metals,9612434
+921,Real Estate,7203878
+921,Deposits with ABL,9523092
+921,Shares and Securities,1855186
+921,Vehicles,8198019
+922,Precious Metals,7172371
+922,Vehicles,7970406
+922,Real Estate,6338636
+922,Shares and Securities,7068115
+922,Deposits with ABL,6615386
+923,Shares and Securities,5716460
+923,Vehicles,4133678
+923,Real Estate,5962314
+923,Precious Metals,6408616
+923,Deposits with ABL,4102960
+924,Precious Metals,9274780
+924,Real Estate,9058531
+924,Shares and Securities,6192861
+925,Vehicles,1279960
+925,Deposits with ABL,3816173
+925,Shares and Securities,2383591
+925,Precious Metals,2114752
+926,Real Estate,8878365
+926,Vehicles,1054365
+926,Precious Metals,2179655
+926,Shares and Securities,747902
+926,Deposits with ABL,8164158
+927,Real Estate,7903554
+927,Precious Metals,2692665
+927,Vehicles,5580388
+927,Shares and Securities,3053971
+927,Deposits with ABL,8152427
+928,Precious Metals,4606411
+928,Vehicles,9644086
+928,Deposits with ABL,7573864
+929,Shares and Securities,7738858
+929,Precious Metals,1914886
+929,Vehicles,5436404
+929,Real Estate,4499097
+930,Shares and Securities,4224851
+930,Vehicles,1152662
+930,Precious Metals,2535950
+930,Real Estate,6079494
+931,Vehicles,6382268
+931,Precious Metals,6362097
+931,Shares and Securities,2327714
+932,Shares and Securities,1564833
+932,Precious Metals,5897381
+932,Vehicles,1117164
+932,Real Estate,8286298
+933,Vehicles,2220204
+933,Precious Metals,8483287
+933,Real Estate,820060
+933,Deposits with ABL,2932385
+934,Precious Metals,2706037
+934,Deposits with ABL,5311605
+934,Shares and Securities,8508337
+934,Real Estate,8594652
+935,Precious Metals,9442997
+935,Real Estate,4565831
+935,Deposits with ABL,7112600
+935,Vehicles,8999971
+936,Precious Metals,8969563
+936,Real Estate,7640910
+936,Shares and Securities,3798321
+937,Vehicles,4441498
+937,Shares and Securities,5112146
+937,Precious Metals,9552480
+937,Real Estate,1628006
+938,Precious Metals,4509964
+938,Shares and Securities,9999005
+938,Vehicles,6112700
+938,Real Estate,1390560
+938,Deposits with ABL,8294047
+939,Vehicles,4160189
+939,Precious Metals,6812649
+939,Shares and Securities,3855241
+939,Real Estate,6240836
+940,Real Estate,4161807
+940,Vehicles,8777376
+940,Precious Metals,7233680
+941,Vehicles,9958743
+941,Precious Metals,1260769
+941,Shares and Securities,8950035
+941,Deposits with ABL,3882729
+941,Real Estate,1329496
+942,Vehicles,5258753
+942,Precious Metals,7028458
+942,Real Estate,6773026
+942,Shares and Securities,3081016
+942,Deposits with ABL,7611131
+943,Real Estate,7004169
+943,Precious Metals,2878517
+943,Vehicles,6011425
+943,Deposits with ABL,826033
+944,Vehicles,6197744
+944,Precious Metals,4802003
+944,Shares and Securities,4702933
+944,Deposits with ABL,9550778
+944,Real Estate,2826520
+945,Real Estate,6139280
+945,Precious Metals,5696541
+945,Vehicles,1434068
+945,Deposits with ABL,9897750
+945,Shares and Securities,4584831
+946,Precious Metals,3615739
+946,Vehicles,1310195
+946,Real Estate,9494102
+947,Precious Metals,8187232
+947,Vehicles,5388449
+947,Real Estate,8205456
+947,Shares and Securities,5212100
+948,Real Estate,5131178
+948,Shares and Securities,7460822
+948,Precious Metals,5567599
+949,Precious Metals,6812519
+949,Vehicles,3026211
+949,Shares and Securities,2049319
+949,Real Estate,1898722
+950,Vehicles,3055170
+950,Precious Metals,4369332
+950,Shares and Securities,6664283
+950,Real Estate,6295973
+950,Deposits with ABL,9231072
+951,Precious Metals,3349273
+951,Vehicles,6141621
+951,Real Estate,8332749
+952,Precious Metals,5564583
+952,Shares and Securities,9549405
+952,Real Estate,3659930
+953,Precious Metals,9800670
+953,Vehicles,9789158
+953,Real Estate,2276666
+954,Real Estate,9475168
+954,Vehicles,8596648
+954,Precious Metals,8690113
+955,Precious Metals,9180202
+955,Vehicles,6910765
+955,Shares and Securities,3818650
+956,Deposits with ABL,2956990
+956,Precious Metals,9500516
+956,Vehicles,2016733
+956,Real Estate,5793472
+957,Precious Metals,3298177
+957,Vehicles,4365391
+957,Deposits with ABL,4665322
+957,Real Estate,5136170
+958,Vehicles,2210102
+958,Precious Metals,1347013
+958,Deposits with ABL,4354347
+959,Shares and Securities,9037045
+959,Vehicles,8038206
+959,Precious Metals,7484958
+959,Real Estate,3863438
+960,Precious Metals,4978486
+960,Vehicles,5063882
+960,Real Estate,7467838
+960,Shares and Securities,686002
+961,Precious Metals,9905797
+961,Vehicles,1020573
+961,Real Estate,4338857
+961,Shares and Securities,7961230
+962,Precious Metals,7301459
+962,Real Estate,1086128
+962,Vehicles,7956230
+963,Shares and Securities,2062133
+963,Precious Metals,9097630
+963,Real Estate,2678203
+963,Vehicles,5815353
+963,Deposits with ABL,3623902
+964,Real Estate,8635060
+964,Precious Metals,2587185
+964,Vehicles,2959736
+964,Shares and Securities,7175894
+964,Deposits with ABL,7414149
+965,Vehicles,5752711
+965,Precious Metals,3241031
+965,Shares and Securities,1136813
+966,Vehicles,8898404
+966,Precious Metals,3399604
+966,Real Estate,4944644
+966,Shares and Securities,9070718
+967,Precious Metals,4586674
+967,Vehicles,5022733
+967,Shares and Securities,4901688
+968,Precious Metals,2442501
+968,Shares and Securities,682267
+968,Deposits with ABL,5334650
+968,Vehicles,9850372
+969,Precious Metals,2025977
+969,Deposits with ABL,6951082
+969,Vehicles,1548770
+969,Shares and Securities,3967817
+969,Real Estate,1261118
+970,Precious Metals,3095208
+970,Vehicles,5488787
+970,Shares and Securities,8771824
+971,Vehicles,1676252
+971,Precious Metals,8961745
+971,Deposits with ABL,8657163
+971,Shares and Securities,7948820
+972,Real Estate,1461985
+972,Shares and Securities,7364587
+972,Precious Metals,1436662
+972,Vehicles,6242179
+972,Deposits with ABL,2866511
+973,Vehicles,4125843
+973,Precious Metals,8430617
+973,Real Estate,1381654
+973,Shares and Securities,1126066
+974,Real Estate,6138882
+974,Vehicles,5539618
+974,Shares and Securities,5056001
+974,Precious Metals,575842
+975,Shares and Securities,2009850
+975,Precious Metals,4522912
+975,Vehicles,2769881
+975,Real Estate,4477453
+976,Precious Metals,3087961
+976,Real Estate,6940517
+976,Shares and Securities,9031724
+976,Vehicles,7106794
+977,Real Estate,6742268
+977,Vehicles,8931088
+977,Precious Metals,5793234
+977,Shares and Securities,676627
+977,Deposits with ABL,2405237
+978,Shares and Securities,1309310
+978,Vehicles,6829618
+978,Real Estate,990426
+978,Precious Metals,6744161
+979,Vehicles,728231
+979,Precious Metals,9344210
+979,Shares and Securities,5325397
+979,Real Estate,7504322
+980,Real Estate,1960447
+980,Vehicles,8602770
+980,Deposits with ABL,6349177
+980,Precious Metals,8968727
+980,Shares and Securities,2837692
+981,Deposits with ABL,1291731
+981,Precious Metals,6060326
+981,Real Estate,5173237
+982,Precious Metals,9971836
+982,Vehicles,7750604
+982,Real Estate,1448297
+982,Deposits with ABL,6943414
+983,Real Estate,6713214
+983,Vehicles,5403844
+983,Precious Metals,6470603
+983,Shares and Securities,9093236
+984,Real Estate,5997956
+984,Vehicles,1464277
+984,Deposits with ABL,9694881
+984,Precious Metals,2555456
+985,Precious Metals,6669711
+985,Real Estate,4070851
+985,Vehicles,5866545
+985,Shares and Securities,1455274
+986,Vehicles,6177632
+986,Real Estate,9974144
+986,Precious Metals,1469538
+986,Deposits with ABL,3315509
+987,Precious Metals,7533269
+987,Deposits with ABL,7665395
+987,Shares and Securities,5503421
+987,Real Estate,8901911
+987,Vehicles,8806794
+988,Precious Metals,5007335
+988,Vehicles,8261426
+988,Real Estate,2351665
+988,Shares and Securities,3715294
+989,Vehicles,6576354
+989,Precious Metals,1573134
+989,Real Estate,8687973
+989,Shares and Securities,6056080
+990,Shares and Securities,5785361
+990,Vehicles,8050974
+990,Precious Metals,2269007
+990,Real Estate,5893042
+991,Vehicles,4277487
+991,Precious Metals,5308608
+991,Shares and Securities,8482440
+991,Deposits with ABL,5343889
+992,Shares and Securities,5351572
+992,Deposits with ABL,6813381
+992,Vehicles,8888183
+992,Precious Metals,1540004
+993,Vehicles,9550396
+993,Precious Metals,9565102
+993,Deposits with ABL,2470506
+993,Real Estate,5401308
+994,Precious Metals,5371826
+994,Vehicles,3578782
+994,Shares and Securities,3957051
+995,Vehicles,2368485
+995,Precious Metals,7443429
+995,Real Estate,8155898
+995,Shares and Securities,5536671
+996,Precious Metals,9485124
+996,Vehicles,7482024
+996,Real Estate,1109475
+996,Shares and Securities,1023728
+997,Real Estate,4965731
+997,Vehicles,5035658
+997,Precious Metals,3253448
+997,Shares and Securities,6028893
+998,Vehicles,1430242
+998,Shares and Securities,5341685
+998,Real Estate,9656728
+998,Precious Metals,4836381
+999,Vehicles,9549585
+999,Shares and Securities,5637622
+999,Precious Metals,7914526
+999,Real Estate,8005413
+1000,Real Estate,7635726
+1000,Vehicles,6606148
+1000,Deposits with ABL,1792890
+1000,Precious Metals,1337182
+1000,Shares and Securities,6535149
+1001,Precious Metals,1145061
+1001,Deposits with ABL,6469491
+1001,Real Estate,3298021
+1001,Vehicles,800109
+1001,Shares and Securities,7405712
+1002,Vehicles,6305076
+1002,Precious Metals,751679
+1002,Real Estate,7105427
+1002,Shares and Securities,6021732
+1003,Real Estate,7327847
+1003,Vehicles,9419688
+1003,Precious Metals,8296823
+1003,Shares and Securities,1042672
+1003,Deposits with ABL,8017708
+1004,Shares and Securities,7493677
+1004,Vehicles,5918298
+1004,Real Estate,3054223
+1005,Deposits with ABL,2086330
+1005,Precious Metals,5900682
+1005,Real Estate,9702133
+1005,Vehicles,1907491
+1006,Vehicles,2902690
+1006,Precious Metals,5605483
+1006,Shares and Securities,3364408
+1007,Real Estate,6569291
+1007,Precious Metals,6984425
+1007,Shares and Securities,6793050
+1007,Vehicles,2770892
+1008,Precious Metals,3109053
+1008,Vehicles,7496429
+1008,Real Estate,9331608
+1008,Deposits with ABL,2940384
+1009,Precious Metals,9689489
+1009,Shares and Securities,515857
+1009,Real Estate,2546650
+1010,Precious Metals,7515513
+1010,Vehicles,1979742
+1010,Shares and Securities,8197056
+1011,Vehicles,4246898
+1011,Shares and Securities,7148063
+1011,Real Estate,8829860
+1012,Real Estate,810026
+1012,Precious Metals,8099383
+1012,Shares and Securities,6607834
+1013,Precious Metals,4488931
+1013,Real Estate,4668100
+1013,Vehicles,6523695
+1014,Precious Metals,4721714
+1014,Vehicles,4027477
+1014,Real Estate,3998269
+1014,Shares and Securities,8404048
+1015,Precious Metals,9726875
+1015,Deposits with ABL,2506569
+1015,Vehicles,666203
+1015,Shares and Securities,3445579
+1016,Vehicles,2960187
+1016,Real Estate,8307842
+1016,Precious Metals,3857624
+1016,Deposits with ABL,8968364
+1016,Shares and Securities,5502513
+1017,Precious Metals,4144496
+1017,Vehicles,2309858
+1017,Real Estate,4717706
+1017,Shares and Securities,2594076
+1018,Vehicles,3576760
+1018,Precious Metals,1139693
+1018,Deposits with ABL,6239987
+1018,Shares and Securities,5465926
+1019,Real Estate,3181515
+1019,Precious Metals,6001737
+1019,Shares and Securities,5555031
+1020,Vehicles,4727091
+1020,Precious Metals,2551705
+1020,Shares and Securities,7707594
+1020,Real Estate,7341223
+1021,Real Estate,4740814
+1021,Precious Metals,5863312
+1021,Shares and Securities,4605166
+1021,Vehicles,2973672
+1022,Vehicles,3467191
+1022,Shares and Securities,3082465
+1022,Precious Metals,2740239
+1023,Real Estate,2281426
+1023,Vehicles,3500492
+1023,Precious Metals,7078197
+1023,Shares and Securities,8767898
+1024,Vehicles,9334093
+1024,Precious Metals,5861799
+1024,Deposits with ABL,7895624
+1025,Precious Metals,3371226
+1025,Real Estate,1889400
+1025,Vehicles,2010317
+1025,Shares and Securities,1474435
+1026,Real Estate,6296676
+1026,Vehicles,3632951
+1026,Precious Metals,7885083
+1026,Deposits with ABL,4830492
+1027,Real Estate,3044273
+1027,Shares and Securities,5935892
+1027,Precious Metals,4260964
+1027,Vehicles,2021326
+1028,Shares and Securities,4221896
+1028,Real Estate,1202559
+1028,Vehicles,2626955
+1029,Precious Metals,4700416
+1029,Shares and Securities,3440226
+1029,Real Estate,718683
+1029,Vehicles,7733060
+1030,Precious Metals,3235869
+1030,Real Estate,8515887
+1030,Vehicles,7786268
+1030,Deposits with ABL,7504329
+1031,Real Estate,8716216
+1031,Precious Metals,5079436
+1031,Vehicles,1985622
+1031,Shares and Securities,9342361
+1032,Shares and Securities,3313364
+1032,Precious Metals,6211222
+1032,Vehicles,1641229
+1032,Real Estate,9327725
+1033,Vehicles,4980164
+1033,Deposits with ABL,3854405
+1033,Real Estate,6489261
+1033,Precious Metals,7359015
+1034,Vehicles,1320415
+1034,Precious Metals,8708024
+1034,Real Estate,1935911
+1034,Shares and Securities,9056479
+1035,Vehicles,3851483
+1035,Shares and Securities,5578358
+1035,Real Estate,1439567
+1036,Vehicles,3147213
+1036,Shares and Securities,9845903
+1036,Precious Metals,4398871
+1037,Precious Metals,3501729
+1037,Vehicles,2494502
+1037,Real Estate,6041929
+1037,Shares and Securities,6827203
+1038,Vehicles,9766015
+1038,Real Estate,5078912
+1038,Precious Metals,5318385
+1038,Deposits with ABL,6863652
+1039,Precious Metals,7464265
+1039,Vehicles,8244805
+1039,Deposits with ABL,8837037
+1039,Real Estate,9597284
+1039,Shares and Securities,1631445
+1040,Precious Metals,9778400
+1040,Vehicles,3092984
+1040,Deposits with ABL,629502
+1041,Vehicles,6674219
+1041,Precious Metals,8349734
+1041,Deposits with ABL,7255997
+1041,Real Estate,7846613
+1042,Precious Metals,4367359
+1042,Real Estate,4107176
+1042,Vehicles,2735141
+1042,Shares and Securities,947823
+1043,Shares and Securities,1475155
+1043,Vehicles,4148509
+1043,Real Estate,7778177
+1043,Precious Metals,2789501
+1044,Vehicles,5709580
+1044,Deposits with ABL,6584557
+1044,Precious Metals,6223162
+1045,Precious Metals,7014168
+1045,Vehicles,3854273
+1045,Deposits with ABL,4821084
+1045,Shares and Securities,7626170
+1046,Precious Metals,4430710
+1046,Vehicles,5787797
+1046,Shares and Securities,627108
+1047,Shares and Securities,4761058
+1047,Precious Metals,2277516
+1047,Deposits with ABL,6625691
+1047,Real Estate,8726222
+1048,Precious Metals,2814804
+1048,Vehicles,5302334
+1048,Real Estate,1564262
+1049,Precious Metals,3200321
+1049,Real Estate,4840284
+1049,Vehicles,3084101
+1049,Shares and Securities,3136076
+1049,Deposits with ABL,8249419
+1050,Vehicles,5304793
+1050,Precious Metals,4935591
+1050,Deposits with ABL,4831550
+1050,Shares and Securities,2175835
+1051,Vehicles,3078594
+1051,Shares and Securities,8800924
+1051,Precious Metals,7303827
+1051,Real Estate,9346168
+1052,Vehicles,4875181
+1052,Precious Metals,9351282
+1052,Real Estate,7234272
+1053,Vehicles,3990843
+1053,Precious Metals,9521170
+1053,Real Estate,921167
+1053,Deposits with ABL,2880675
+1053,Shares and Securities,3978460
+1054,Vehicles,8314474
+1054,Real Estate,1496506
+1054,Shares and Securities,9057310
+1055,Vehicles,3182395
+1055,Precious Metals,3014293
+1055,Real Estate,616877
+1055,Deposits with ABL,7295232
+1056,Vehicles,1499444
+1056,Precious Metals,3178128
+1056,Deposits with ABL,4696875
+1057,Vehicles,1758011
+1057,Precious Metals,8742967
+1057,Real Estate,5148203
+1057,Deposits with ABL,4820773
+1057,Shares and Securities,7469880
+1058,Real Estate,1460106
+1058,Vehicles,5912319
+1058,Precious Metals,5697687
+1058,Shares and Securities,5404020
+1059,Shares and Securities,6784525
+1059,Vehicles,3330471
+1059,Real Estate,903048
+1059,Precious Metals,3430010
+1059,Deposits with ABL,6842995
+1060,Precious Metals,5972093
+1060,Vehicles,9102572
+1060,Real Estate,9328493
+1061,Vehicles,8100332
+1061,Real Estate,7544771
+1061,Precious Metals,902893
+1062,Vehicles,1309184
+1062,Precious Metals,2194529
+1062,Shares and Securities,6422909
+1063,Real Estate,9482655
+1063,Vehicles,1236820
+1063,Precious Metals,1548490
+1063,Shares and Securities,3322058
+1064,Precious Metals,6037025
+1064,Real Estate,2568406
+1064,Vehicles,6094786
+1065,Vehicles,9753764
+1065,Precious Metals,5445745
+1065,Shares and Securities,1242910
+1066,Vehicles,1396472
+1066,Precious Metals,2241264
+1066,Real Estate,2649498
+1067,Vehicles,9096460
+1067,Precious Metals,9205704
+1067,Real Estate,5318539
+1068,Precious Metals,3842555
+1068,Vehicles,1236878
+1068,Real Estate,9840067
+1068,Shares and Securities,8789753
+1069,Vehicles,6805067
+1069,Precious Metals,4356568
+1069,Real Estate,854979
+1069,Deposits with ABL,1675802
+1070,Deposits with ABL,9595241
+1070,Vehicles,6217513
+1070,Precious Metals,2048364
+1071,Precious Metals,1565780
+1071,Shares and Securities,8321234
+1071,Vehicles,816879
+1072,Vehicles,8094248
+1072,Precious Metals,1712998
+1072,Deposits with ABL,4384761
+1072,Real Estate,6907924
+1073,Vehicles,8645895
+1073,Precious Metals,6119232
+1073,Real Estate,8329417
+1074,Precious Metals,7501299
+1074,Real Estate,938411
+1074,Vehicles,6543837
+1074,Deposits with ABL,2815398
+1075,Real Estate,829383
+1075,Vehicles,6894159
+1075,Precious Metals,8375309
+1076,Precious Metals,4798833
+1076,Vehicles,9235515
+1076,Deposits with ABL,8456661
+1077,Precious Metals,7603778
+1077,Vehicles,3228599
+1077,Real Estate,4291381
+1078,Precious Metals,5112283
+1078,Real Estate,5812847
+1078,Vehicles,5635339
+1078,Shares and Securities,1363050
+1078,Deposits with ABL,9413906
+1079,Vehicles,3652680
+1079,Precious Metals,5056899
+1079,Real Estate,9491983
+1079,Shares and Securities,5542557
+1080,Vehicles,1534982
+1080,Real Estate,8934923
+1080,Precious Metals,2795532
+1081,Shares and Securities,5724256
+1081,Precious Metals,8296700
+1081,Real Estate,1919385
+1081,Vehicles,7312803
+1082,Vehicles,3256674
+1082,Precious Metals,3482693
+1082,Shares and Securities,8900714
+1083,Vehicles,7760930
+1083,Real Estate,7010698
+1083,Precious Metals,4991166
+1084,Precious Metals,8137665
+1084,Vehicles,8028502
+1084,Shares and Securities,6154165
+1084,Deposits with ABL,1398820
+1085,Precious Metals,9455571
+1085,Deposits with ABL,9093679
+1085,Vehicles,2320290
+1085,Real Estate,4106778
+1085,Shares and Securities,4824216
+1086,Real Estate,9765719
+1086,Precious Metals,2640876
+1086,Vehicles,8143560
+1086,Shares and Securities,4531562
+1087,Real Estate,5753449
+1087,Precious Metals,8745558
+1087,Vehicles,6225131
+1088,Precious Metals,6029016
+1088,Vehicles,1028323
+1088,Deposits with ABL,665236
+1089,Precious Metals,5716000
+1089,Deposits with ABL,9798206
+1089,Vehicles,6679458
+1089,Shares and Securities,3730596
+1090,Precious Metals,4687743
+1090,Vehicles,2945872
+1090,Real Estate,581349
+1090,Shares and Securities,8554250
+1091,Precious Metals,6533512
+1091,Vehicles,9708241
+1091,Real Estate,4631967
+1092,Vehicles,9186370
+1092,Shares and Securities,8655363
+1092,Precious Metals,2684602
+1093,Shares and Securities,5920867
+1093,Vehicles,4164168
+1093,Real Estate,4170480
+1093,Deposits with ABL,9623883
+1094,Real Estate,3037309
+1094,Shares and Securities,6189321
+1094,Precious Metals,8115600
+1094,Vehicles,6183130
+1095,Precious Metals,3941306
+1095,Vehicles,9107849
+1095,Real Estate,3129132
+1096,Precious Metals,6809780
+1096,Vehicles,4092180
+1096,Real Estate,3500571
+1097,Precious Metals,4330574
+1097,Vehicles,681469
+1097,Real Estate,1022248
+1097,Deposits with ABL,9763802
+1098,Vehicles,8702308
+1098,Deposits with ABL,4631937
+1098,Precious Metals,2289950
+1098,Real Estate,8675821
+1099,Vehicles,6814611
+1099,Precious Metals,3052381
+1099,Deposits with ABL,3700091
+1099,Real Estate,855521
+1099,Shares and Securities,6135539
+1100,Deposits with ABL,3663510
+1100,Vehicles,5781847
+1100,Precious Metals,5041348
+1100,Real Estate,7543928
+1101,Vehicles,6447333
+1101,Precious Metals,3137840
+1101,Shares and Securities,9908494
+1101,Real Estate,1174810
+1102,Shares and Securities,6431634
+1102,Real Estate,5110103
+1102,Precious Metals,7192457
+1102,Deposits with ABL,5084092
+1103,Precious Metals,1481191
+1103,Shares and Securities,7128579
+1103,Real Estate,6618788
+1103,Vehicles,3721908
+1103,Deposits with ABL,2977367
+1104,Precious Metals,6940721
+1104,Vehicles,8041788
+1104,Real Estate,8344636
+1104,Deposits with ABL,6722997
+1105,Vehicles,6757552
+1105,Real Estate,2563160
+1105,Precious Metals,7436415
+1106,Vehicles,775039
+1106,Precious Metals,9023799
+1106,Real Estate,4199057
+1107,Precious Metals,1403385
+1107,Real Estate,5734727
+1107,Vehicles,7583963
+1107,Shares and Securities,9011271
+1107,Deposits with ABL,8452465
+1108,Shares and Securities,9251270
+1108,Vehicles,4628656
+1108,Deposits with ABL,7894613
+1109,Shares and Securities,4960862
+1109,Vehicles,5607354
+1109,Precious Metals,6748528
+1110,Vehicles,4877772
+1110,Deposits with ABL,2308399
+1110,Real Estate,1151724
+1111,Precious Metals,1112468
+1111,Real Estate,6753557
+1111,Shares and Securities,5795764
+1111,Vehicles,9178464
+1112,Deposits with ABL,4166978
+1112,Vehicles,1517601
+1112,Precious Metals,8096615
+1113,Vehicles,6218341
+1113,Real Estate,921913
+1113,Precious Metals,6298914
+1114,Vehicles,8473977
+1114,Real Estate,8794202
+1114,Precious Metals,7132335
+1114,Deposits with ABL,1071136
+1114,Shares and Securities,2174638
+1115,Vehicles,9335877
+1115,Precious Metals,6669301
+1115,Shares and Securities,1232920
+1116,Precious Metals,7400120
+1116,Real Estate,5932774
+1116,Shares and Securities,5483365
+1117,Vehicles,5946447
+1117,Precious Metals,2382041
+1117,Shares and Securities,1860203
+1118,Precious Metals,2751131
+1118,Real Estate,5979528
+1118,Vehicles,4099855
+1119,Vehicles,2034154
+1119,Precious Metals,8093391
+1119,Shares and Securities,2698260
+1120,Real Estate,2412185
+1120,Vehicles,7232841
+1120,Deposits with ABL,8578196
+1120,Shares and Securities,8566121
+1121,Real Estate,3769933
+1121,Shares and Securities,1360849
+1121,Vehicles,8335739
+1121,Precious Metals,9762365
+1122,Shares and Securities,3779394
+1122,Precious Metals,579313
+1122,Vehicles,8105716
+1122,Real Estate,1972041
+1122,Deposits with ABL,3717876
+1123,Precious Metals,7074723
+1123,Deposits with ABL,594583
+1123,Real Estate,3642910
+1124,Vehicles,1357775
+1124,Precious Metals,7292600
+1124,Shares and Securities,4808173
+1124,Deposits with ABL,998906
+1125,Deposits with ABL,1742357
+1125,Shares and Securities,1566582
+1125,Vehicles,8057197
+1125,Precious Metals,641553
+1125,Real Estate,4018919
+1126,Real Estate,8324963
+1126,Precious Metals,7919563
+1126,Shares and Securities,4446097
+1126,Vehicles,8812512
+1126,Deposits with ABL,9208889
+1127,Precious Metals,1088136
+1127,Vehicles,585583
+1127,Real Estate,3491387
+1128,Vehicles,7056202
+1128,Precious Metals,892755
+1128,Shares and Securities,3176195
+1128,Real Estate,7389170
+1129,Precious Metals,9502400
+1129,Vehicles,7100616
+1129,Deposits with ABL,1305253
+1129,Real Estate,3174211
+1130,Precious Metals,8026546
+1130,Vehicles,5683801
+1130,Real Estate,8582990
+1130,Deposits with ABL,3903916
+1131,Deposits with ABL,6931791
+1131,Precious Metals,1905489
+1131,Shares and Securities,8766096
+1132,Vehicles,7715515
+1132,Real Estate,1106596
+1132,Deposits with ABL,2144620
+1132,Precious Metals,9020361
+1132,Shares and Securities,4791940
+1133,Vehicles,7673681
+1133,Precious Metals,5653450
+1133,Deposits with ABL,898723
+1133,Real Estate,4592873
+1134,Vehicles,8335838
+1134,Shares and Securities,5972835
+1134,Deposits with ABL,1192987
+1134,Precious Metals,7477356
+1134,Real Estate,2998261
+1135,Precious Metals,2310131
+1135,Shares and Securities,7953644
+1135,Vehicles,7513722
+1136,Real Estate,6349284
+1136,Deposits with ABL,2232232
+1136,Shares and Securities,7771685
+1137,Vehicles,9742593
+1137,Precious Metals,522607
+1137,Real Estate,7083711
+1137,Deposits with ABL,4182552
+1138,Precious Metals,6276519
+1138,Shares and Securities,2406656
+1138,Vehicles,1391435
+1139,Real Estate,6787508
+1139,Precious Metals,4229213
+1139,Shares and Securities,6802699
+1140,Precious Metals,4674496
+1140,Real Estate,8731542
+1140,Vehicles,2273537
+1141,Precious Metals,1057009
+1141,Vehicles,8982457
+1141,Shares and Securities,9658472
+1142,Shares and Securities,8916356
+1142,Vehicles,2698740
+1142,Precious Metals,8322246
+1142,Deposits with ABL,9999297
+1142,Real Estate,691650
+1143,Precious Metals,2867528
+1143,Real Estate,7082552
+1143,Vehicles,623360
+1143,Deposits with ABL,7326102
+1144,Real Estate,9317838
+1144,Vehicles,968386
+1144,Deposits with ABL,6782359
+1145,Vehicles,8082804
+1145,Real Estate,8074067
+1145,Precious Metals,814568
+1145,Deposits with ABL,1368429
+1146,Precious Metals,825576
+1146,Vehicles,3039843
+1146,Deposits with ABL,6362005
+1146,Real Estate,1783213
+1147,Precious Metals,4686627
+1147,Real Estate,8234390
+1147,Vehicles,1215472
+1147,Shares and Securities,4893059
+1148,Vehicles,8320216
+1148,Deposits with ABL,5577724
+1148,Real Estate,8802801
+1149,Deposits with ABL,2771470
+1149,Vehicles,2869647
+1149,Precious Metals,5467415
+1150,Precious Metals,1403323
+1150,Real Estate,1096431
+1150,Vehicles,7101538
+1151,Vehicles,4737386
+1151,Precious Metals,4952454
+1151,Shares and Securities,4621193
+1152,Vehicles,6875327
+1152,Precious Metals,6219354
+1152,Real Estate,6900545
+1152,Deposits with ABL,8513557
+1152,Shares and Securities,7088582
+1153,Precious Metals,9585840
+1153,Shares and Securities,8985237
+1153,Vehicles,1431254
+1154,Vehicles,1219273
+1154,Precious Metals,3939383
+1154,Real Estate,7328656
+1155,Real Estate,5276371
+1155,Precious Metals,5679964
+1155,Vehicles,1516448
+1156,Shares and Securities,7695968
+1156,Real Estate,5233408
+1156,Precious Metals,5074509
+1156,Vehicles,4887796
+1156,Deposits with ABL,5471045
+1157,Precious Metals,1552563
+1157,Vehicles,3389355
+1157,Real Estate,1982492
+1157,Shares and Securities,8753247
+1158,Precious Metals,1122127
+1158,Real Estate,5260201
+1158,Deposits with ABL,9208492
+1158,Vehicles,6020728
+1158,Shares and Securities,5946519
+1159,Real Estate,5795931
+1159,Vehicles,5424937
+1159,Precious Metals,8837364
+1159,Shares and Securities,7921709
+1160,Precious Metals,8492979
+1160,Shares and Securities,3117666
+1160,Real Estate,4404142
+1160,Deposits with ABL,1909235
+1161,Vehicles,2069465
+1161,Precious Metals,4357714
+1161,Shares and Securities,1661312
+1161,Deposits with ABL,3229928
+1162,Vehicles,1805548
+1162,Real Estate,4732687
+1162,Precious Metals,7616416
+1162,Deposits with ABL,5303454
+1162,Shares and Securities,9351567
+1163,Shares and Securities,970029
+1163,Real Estate,6961929
+1163,Vehicles,9724393
+1164,Precious Metals,1072791
+1164,Vehicles,7926528
+1164,Deposits with ABL,9891695
+1165,Vehicles,1946747
+1165,Real Estate,1551451
+1165,Precious Metals,2535717
+1165,Shares and Securities,1106143
+1165,Deposits with ABL,6098969
+1166,Precious Metals,5852879
+1166,Shares and Securities,598807
+1166,Vehicles,8327935
+1166,Real Estate,7625922
+1167,Vehicles,3359744
+1167,Precious Metals,560234
+1167,Real Estate,3222014
+1168,Vehicles,8828950
+1168,Precious Metals,1244017
+1168,Real Estate,5176755
+1168,Shares and Securities,1860907
+1168,Deposits with ABL,9166779
+1169,Vehicles,8982427
+1169,Precious Metals,5601063
+1169,Shares and Securities,7381949
+1170,Precious Metals,7931791
+1170,Shares and Securities,7267255
+1170,Real Estate,607476
+1170,Vehicles,5689867
+1170,Deposits with ABL,8345611
+1171,Vehicles,7933335
+1171,Precious Metals,9562332
+1171,Real Estate,8660798
+1172,Precious Metals,9157633
+1172,Shares and Securities,5144064
+1172,Vehicles,6178980
+1173,Vehicles,3806949
+1173,Precious Metals,6499248
+1173,Real Estate,4076447
+1174,Vehicles,7642767
+1174,Real Estate,4114589
+1174,Precious Metals,9866879
+1174,Shares and Securities,1275789
+1175,Vehicles,4796218
+1175,Deposits with ABL,9349682
+1175,Precious Metals,1988570
+1175,Shares and Securities,9439515
+1176,Vehicles,3271288
+1176,Deposits with ABL,7358203
+1176,Precious Metals,807184
+1176,Shares and Securities,4231830
+1177,Shares and Securities,1957395
+1177,Precious Metals,2895599
+1177,Real Estate,8626383
+1178,Vehicles,9029384
+1178,Precious Metals,6537680
+1178,Real Estate,1108646
+1179,Real Estate,4045848
+1179,Vehicles,4232477
+1179,Precious Metals,9253716
+1179,Shares and Securities,5541102
+1180,Precious Metals,7277387
+1180,Shares and Securities,1134290
+1180,Real Estate,8977360
+1180,Vehicles,6089182
+1181,Precious Metals,4221860
+1181,Vehicles,6829316
+1181,Deposits with ABL,9271507
+1181,Shares and Securities,3965382
+1181,Real Estate,1651385
+1182,Vehicles,3430624
+1182,Real Estate,9913859
+1182,Precious Metals,1047093
+1182,Shares and Securities,3846777
+1182,Deposits with ABL,9104142
+1183,Precious Metals,7814903
+1183,Vehicles,6131973
+1183,Real Estate,3286754
+1184,Real Estate,7246558
+1184,Precious Metals,1404323
+1184,Vehicles,6120823
+1185,Real Estate,1944617
+1185,Vehicles,978126
+1185,Shares and Securities,3109476
+1185,Precious Metals,9979061
+1186,Real Estate,6624717
+1186,Precious Metals,7905598
+1186,Shares and Securities,797662
+1186,Vehicles,9973040
+1186,Deposits with ABL,8798656
+1187,Precious Metals,8585015
+1187,Vehicles,2175118
+1187,Real Estate,9069934
+1187,Shares and Securities,8598031
+1187,Deposits with ABL,3993068
+1188,Vehicles,7360741
+1188,Precious Metals,6813050
+1188,Real Estate,9473847
+1188,Shares and Securities,2916070
+1189,Precious Metals,2216870
+1189,Vehicles,5151610
+1189,Real Estate,5879199
+1190,Vehicles,9050498
+1190,Precious Metals,3631413
+1190,Shares and Securities,6792281
+1190,Real Estate,7984682
+1191,Precious Metals,9418891
+1191,Vehicles,4015233
+1191,Real Estate,1334714
+1191,Shares and Securities,2559225
+1192,Vehicles,7474984
+1192,Real Estate,3090817
+1192,Precious Metals,874977
+1193,Precious Metals,8449600
+1193,Vehicles,7719508
+1193,Shares and Securities,5605257
+1193,Real Estate,6430256
+1193,Deposits with ABL,7845512
+1194,Real Estate,6444428
+1194,Precious Metals,9877965
+1194,Vehicles,6298252
+1194,Shares and Securities,7776542
+1195,Vehicles,2390307
+1195,Precious Metals,7032778
+1195,Deposits with ABL,5498605
+1196,Vehicles,1337841
+1196,Deposits with ABL,5109793
+1196,Real Estate,7820123
+1197,Real Estate,3062334
+1197,Precious Metals,1895499
+1197,Vehicles,1743332
+1198,Shares and Securities,7127896
+1198,Precious Metals,3999514
+1198,Real Estate,5427592
+1198,Vehicles,2531101
+1199,Real Estate,1004113
+1199,Vehicles,9095222
+1199,Precious Metals,2302774
+1199,Shares and Securities,4419753
+1199,Deposits with ABL,7175471
+1200,Precious Metals,9552562
+1200,Vehicles,8052016
+1200,Real Estate,9185361
+1201,Vehicles,1541039
+1201,Shares and Securities,6033347
+1201,Precious Metals,3749273
+1202,Precious Metals,5639662
+1202,Shares and Securities,5088178
+1202,Vehicles,1937661
+1202,Real Estate,3857245
+1203,Vehicles,9466753
+1203,Precious Metals,1731381
+1203,Deposits with ABL,3406704
+1204,Precious Metals,3804503
+1204,Shares and Securities,4649836
+1204,Vehicles,6471213
+1204,Real Estate,2872604
+1205,Vehicles,3299136
+1205,Shares and Securities,4436138
+1205,Deposits with ABL,9883548
+1205,Precious Metals,2414911
+1206,Precious Metals,5912518
+1206,Vehicles,9077830
+1206,Real Estate,3524959
+1206,Shares and Securities,9219250
+1207,Precious Metals,6150110
+1207,Vehicles,4510708
+1207,Real Estate,2944040
+1207,Shares and Securities,6825018
+1208,Vehicles,5498842
+1208,Precious Metals,4536784
+1208,Shares and Securities,4911977
+1208,Real Estate,9770341
+1208,Deposits with ABL,8496525
+1209,Vehicles,785069
+1209,Precious Metals,1495647
+1209,Real Estate,9510427
+1209,Shares and Securities,8496145
+1209,Deposits with ABL,7352778
+1210,Precious Metals,9742870
+1210,Vehicles,4844294
+1210,Real Estate,1195198
+1211,Vehicles,6577368
+1211,Real Estate,8928327
+1211,Precious Metals,9890848
+1212,Real Estate,7002526
+1212,Vehicles,6198904
+1212,Precious Metals,5914057
+1212,Shares and Securities,1865253
+1212,Deposits with ABL,4586119
+1213,Precious Metals,8651239
+1213,Shares and Securities,2627207
+1213,Vehicles,3851114
+1214,Deposits with ABL,4015262
+1214,Vehicles,4971753
+1214,Precious Metals,6794306
+1214,Shares and Securities,2137112
+1214,Real Estate,9801304
+1215,Real Estate,2144446
+1215,Deposits with ABL,6853210
+1215,Vehicles,7226887
+1215,Precious Metals,7913145
+1216,Real Estate,6871011
+1216,Vehicles,2871656
+1216,Precious Metals,940827
+1217,Precious Metals,9272041
+1217,Deposits with ABL,5452688
+1217,Real Estate,2736583
+1217,Shares and Securities,8678769
+1217,Vehicles,2742893
+1218,Vehicles,2504277
+1218,Deposits with ABL,6215923
+1218,Real Estate,5959947
+1218,Precious Metals,3966528
+1218,Shares and Securities,5198185
+1219,Real Estate,3352987
+1219,Precious Metals,5521832
+1219,Deposits with ABL,802726
+1220,Vehicles,4037799
+1220,Precious Metals,6923274
+1220,Real Estate,1423679
+1221,Vehicles,9397543
+1221,Precious Metals,7269336
+1221,Real Estate,3376578
+1221,Shares and Securities,9846647
+1222,Vehicles,6473896
+1222,Precious Metals,4573128
+1222,Shares and Securities,6128584
+1223,Precious Metals,3297801
+1223,Deposits with ABL,4934395
+1223,Vehicles,7989346
+1223,Shares and Securities,7843680
+1224,Real Estate,7097510
+1224,Precious Metals,4357901
+1224,Deposits with ABL,1546468
+1225,Vehicles,6660227
+1225,Precious Metals,5490897
+1225,Shares and Securities,1079155
+1225,Real Estate,2327552
+1225,Deposits with ABL,8256066
+1226,Real Estate,3419928
+1226,Vehicles,1256693
+1226,Shares and Securities,5172723
+1227,Real Estate,9040953
+1227,Precious Metals,4616292
+1227,Shares and Securities,947225
+1228,Shares and Securities,9849914
+1228,Deposits with ABL,9082994
+1228,Precious Metals,6264228
+1228,Vehicles,5162388
+1228,Real Estate,4712062
+1229,Shares and Securities,5835774
+1229,Real Estate,7284185
+1229,Precious Metals,3188587
+1230,Vehicles,2683363
+1230,Precious Metals,5140138
+1230,Deposits with ABL,7683945
+1230,Real Estate,1862375
+1231,Vehicles,4767797
+1231,Precious Metals,5565027
+1231,Real Estate,8597343
+1231,Shares and Securities,6946887
+1232,Shares and Securities,962955
+1232,Vehicles,9064152
+1232,Precious Metals,2866991
+1232,Real Estate,5024400
+1233,Vehicles,1081565
+1233,Precious Metals,5141977
+1233,Real Estate,4322393
+1233,Shares and Securities,5772695
+1234,Real Estate,9698294
+1234,Vehicles,2099997
+1234,Deposits with ABL,3792192
+1234,Precious Metals,2555282
+1235,Vehicles,4128988
+1235,Real Estate,8287550
+1235,Precious Metals,3278138
+1236,Precious Metals,9883970
+1236,Shares and Securities,9703322
+1236,Vehicles,3347331
+1236,Real Estate,790802
+1236,Deposits with ABL,4582091
+1237,Real Estate,755441
+1237,Deposits with ABL,1830351
+1237,Precious Metals,1928147
+1237,Shares and Securities,4697426
+1238,Precious Metals,2624451
+1238,Vehicles,9845006
+1238,Deposits with ABL,2069171
+1239,Vehicles,6333235
+1239,Precious Metals,4672687
+1239,Deposits with ABL,3544406
+1239,Shares and Securities,6823821
+1240,Vehicles,5012561
+1240,Precious Metals,3319928
+1240,Shares and Securities,6169680
+1241,Vehicles,2218707
+1241,Precious Metals,918307
+1241,Shares and Securities,6048216
+1241,Real Estate,7964185
+1241,Deposits with ABL,4873875
+1242,Real Estate,4187325
+1242,Shares and Securities,9459716
+1242,Vehicles,1223389
+1243,Vehicles,1999158
+1243,Precious Metals,2264488
+1243,Shares and Securities,3266012
+1243,Real Estate,1775398
+1243,Deposits with ABL,612300
+1244,Precious Metals,1285719
+1244,Vehicles,7837524
+1244,Deposits with ABL,9264888
+1245,Precious Metals,2711818
+1245,Vehicles,6574491
+1245,Shares and Securities,1535850
+1246,Precious Metals,7294709
+1246,Vehicles,3280863
+1246,Shares and Securities,6971638
+1247,Vehicles,4665498
+1247,Deposits with ABL,8279144
+1247,Precious Metals,1210032
+1248,Precious Metals,1881962
+1248,Vehicles,958680
+1248,Shares and Securities,6178891
+1249,Vehicles,4740644
+1249,Real Estate,8691117
+1249,Precious Metals,2503783
+1249,Shares and Securities,7788858
+1250,Vehicles,7043207
+1250,Precious Metals,950513
+1250,Real Estate,9652497
+1250,Shares and Securities,1612176
+1250,Deposits with ABL,8512877
+1251,Vehicles,2148840
+1251,Precious Metals,5849297
+1251,Shares and Securities,5692755
+1251,Deposits with ABL,1066964
+1252,Vehicles,1346029
+1252,Precious Metals,9222907
+1252,Real Estate,1278099
+1252,Deposits with ABL,4159674
+1253,Vehicles,2184328
+1253,Precious Metals,2728496
+1253,Shares and Securities,7816371
+1254,Vehicles,3119645
+1254,Real Estate,3090285
+1254,Precious Metals,8120433
+1254,Shares and Securities,8328342
+1255,Shares and Securities,5302511
+1255,Vehicles,5587955
+1255,Precious Metals,9861121
+1255,Real Estate,6052339
+1256,Vehicles,7269937
+1256,Precious Metals,4660569
+1256,Real Estate,2201782
+1257,Real Estate,6891866
+1257,Precious Metals,1773745
+1257,Vehicles,4068285
+1257,Deposits with ABL,5571468
+1258,Shares and Securities,4966619
+1258,Vehicles,7049610
+1258,Precious Metals,6217005
+1258,Real Estate,9052409
+1259,Vehicles,995067
+1259,Shares and Securities,7085280
+1259,Real Estate,1696981
+1259,Precious Metals,2594937
+1260,Vehicles,5073778
+1260,Shares and Securities,2586774
+1260,Real Estate,782090
+1260,Precious Metals,3721383
+1261,Precious Metals,6594730
+1261,Vehicles,9594916
+1261,Real Estate,6598618
+1261,Deposits with ABL,679905
+1262,Precious Metals,2390581
+1262,Real Estate,3064918
+1262,Shares and Securities,4904354
+1262,Vehicles,6097297
+1262,Deposits with ABL,6650654
+1263,Vehicles,2477289
+1263,Real Estate,2403719
+1263,Shares and Securities,1651484
+1263,Precious Metals,6882464
+1264,Vehicles,3758572
+1264,Precious Metals,2849246
+1264,Shares and Securities,1533826
+1265,Vehicles,6096724
+1265,Real Estate,1562191
+1265,Precious Metals,9843104
+1265,Shares and Securities,2460759
+1265,Deposits with ABL,1117263
+1266,Shares and Securities,5796397
+1266,Vehicles,6503567
+1266,Precious Metals,1768229
+1266,Real Estate,3129549
+1267,Vehicles,9664560
+1267,Precious Metals,6599612
+1267,Shares and Securities,6326739
+1268,Shares and Securities,9131319
+1268,Precious Metals,4680325
+1268,Vehicles,5294533
+1269,Vehicles,5348255
+1269,Precious Metals,7591276
+1269,Real Estate,1062754
+1269,Shares and Securities,9947808
+1269,Deposits with ABL,7407343
+1270,Vehicles,2152039
+1270,Precious Metals,3450550
+1270,Real Estate,6080522
+1271,Precious Metals,4912845
+1271,Shares and Securities,8989652
+1271,Deposits with ABL,3314197
+1271,Vehicles,4481951
+1271,Real Estate,7923089
+1272,Vehicles,754964
+1272,Precious Metals,5054566
+1272,Deposits with ABL,7958760
+1273,Precious Metals,7576701
+1273,Vehicles,3151371
+1273,Real Estate,4014216
+1273,Deposits with ABL,4389326
+1274,Vehicles,9617025
+1274,Real Estate,6905747
+1274,Precious Metals,3276633
+1275,Shares and Securities,7135300
+1275,Precious Metals,4326389
+1275,Vehicles,5341151
+1276,Real Estate,8790626
+1276,Vehicles,9003487
+1276,Deposits with ABL,2668144
+1277,Vehicles,6699663
+1277,Real Estate,9672330
+1277,Precious Metals,2978661
+1278,Precious Metals,9265918
+1278,Vehicles,8200607
+1278,Real Estate,7292363
+1278,Shares and Securities,7940092
+1279,Precious Metals,8794882
+1279,Vehicles,1289373
+1279,Real Estate,3959114
+1280,Precious Metals,7067281
+1280,Real Estate,633697
+1280,Vehicles,6423267
+1281,Precious Metals,5653166
+1281,Shares and Securities,4340650
+1281,Vehicles,5886622
+1281,Real Estate,3217221
+1282,Real Estate,9390583
+1282,Vehicles,4259747
+1282,Precious Metals,1969165
+1283,Deposits with ABL,4330059
+1283,Precious Metals,5732191
+1283,Vehicles,7163818
+1284,Precious Metals,7485359
+1284,Vehicles,1064351
+1284,Real Estate,9260020
+1284,Shares and Securities,7582444
+1285,Vehicles,2904166
+1285,Precious Metals,4981673
+1285,Real Estate,6703300
+1285,Shares and Securities,1064744
+1286,Shares and Securities,8179778
+1286,Vehicles,8656312
+1286,Precious Metals,2292639
+1287,Vehicles,2554891
+1287,Real Estate,1374236
+1287,Precious Metals,3875407
+1287,Shares and Securities,5548942
+1287,Deposits with ABL,7407000
+1288,Precious Metals,6681071
+1288,Real Estate,6625091
+1288,Vehicles,2754388
+1288,Shares and Securities,952510
+1289,Vehicles,5558016
+1289,Real Estate,2550242
+1289,Precious Metals,3584748
+1289,Shares and Securities,7542987
+1289,Deposits with ABL,6871332
+1290,Real Estate,1125708
+1290,Precious Metals,7647070
+1290,Shares and Securities,3311585
+1291,Precious Metals,3399554
+1291,Vehicles,6266527
+1291,Real Estate,7164876
+1291,Deposits with ABL,4991561
+1292,Real Estate,5783021
+1292,Vehicles,845051
+1292,Shares and Securities,6017725
+1292,Precious Metals,4944442
+1293,Vehicles,1114082
+1293,Precious Metals,6765417
+1293,Deposits with ABL,1706589
+1293,Real Estate,8501659
+1293,Shares and Securities,8437162
+1294,Real Estate,9967926
+1294,Precious Metals,4178583
+1294,Vehicles,4709387
+1294,Shares and Securities,6555373
+1295,Vehicles,5384118
+1295,Precious Metals,1256704
+1295,Real Estate,6521305
+1295,Shares and Securities,7811921
+1296,Vehicles,7628884
+1296,Real Estate,8850224
+1296,Precious Metals,6858577
+1297,Vehicles,3918047
+1297,Precious Metals,1821218
+1297,Deposits with ABL,3444550
+1297,Real Estate,881458
+1298,Vehicles,9870242
+1298,Deposits with ABL,3469901
+1298,Precious Metals,6042218
+1299,Deposits with ABL,946283
+1299,Shares and Securities,2936946
+1299,Precious Metals,4970691
+1299,Real Estate,943133
+1300,Vehicles,4338486
+1300,Shares and Securities,7329527
+1300,Precious Metals,5351113
+1301,Precious Metals,736602
+1301,Vehicles,7327635
+1301,Deposits with ABL,4263916
+1301,Real Estate,8739972
+1302,Precious Metals,9496757
+1302,Real Estate,6094081
+1302,Vehicles,6864360
+1302,Shares and Securities,3180966
+1303,Shares and Securities,2627695
+1303,Vehicles,6537107
+1303,Real Estate,3078218
+1303,Precious Metals,7782438
+1304,Precious Metals,1095803
+1304,Shares and Securities,4696921
+1304,Real Estate,4076216
+1304,Vehicles,7281986
+1305,Vehicles,622322
+1305,Deposits with ABL,3594390
+1305,Shares and Securities,5216660
+1306,Real Estate,4317817
+1306,Shares and Securities,1260404
+1306,Precious Metals,9404820
+1306,Deposits with ABL,8880454
+1307,Real Estate,6877265
+1307,Precious Metals,6436437
+1307,Shares and Securities,5069021
+1308,Shares and Securities,6471277
+1308,Vehicles,5599482
+1308,Real Estate,7563901
+1308,Deposits with ABL,2375297
+1308,Precious Metals,3188688
+1309,Precious Metals,552941
+1309,Shares and Securities,4611985
+1309,Deposits with ABL,2827104
+1309,Real Estate,6180036
+1309,Vehicles,2413583
+1310,Vehicles,9871836
+1310,Precious Metals,961999
+1310,Deposits with ABL,3020897
+1310,Real Estate,9662504
+1311,Precious Metals,9134064
+1311,Vehicles,4236604
+1311,Real Estate,6527972
+1312,Precious Metals,7711165
+1312,Vehicles,4470398
+1312,Shares and Securities,4460208
+1313,Vehicles,3617806
+1313,Real Estate,1711195
+1313,Precious Metals,8030462
+1313,Shares and Securities,9283681
+1314,Precious Metals,2721506
+1314,Shares and Securities,7018674
+1314,Real Estate,7928018
+1314,Deposits with ABL,1083107
+1315,Real Estate,2532792
+1315,Precious Metals,7411066
+1315,Shares and Securities,5078047
+1315,Deposits with ABL,765995
+1316,Shares and Securities,7286117
+1316,Vehicles,6700237
+1316,Precious Metals,8524640
+1316,Real Estate,1507131
+1317,Precious Metals,1247981
+1317,Real Estate,9095728
+1317,Shares and Securities,5984765
+1318,Vehicles,9659558
+1318,Precious Metals,3076124
+1318,Shares and Securities,4616841
+1319,Precious Metals,2166472
+1319,Shares and Securities,6534196
+1319,Vehicles,4174971
+1319,Real Estate,9142763
+1320,Real Estate,7517438
+1320,Precious Metals,562915
+1320,Vehicles,3449495
+1321,Precious Metals,7585318
+1321,Vehicles,8116082
+1321,Deposits with ABL,1981451
+1322,Shares and Securities,5635933
+1322,Vehicles,4685362
+1322,Real Estate,9432166
+1322,Precious Metals,9887544
+1323,Real Estate,1792596
+1323,Precious Metals,3958472
+1323,Vehicles,6333110
+1324,Precious Metals,6659947
+1324,Vehicles,8420693
+1324,Shares and Securities,8245255
+1324,Deposits with ABL,4405063
+1325,Vehicles,4993864
+1325,Real Estate,6041941
+1325,Precious Metals,3740190
+1325,Deposits with ABL,3770858
+1325,Shares and Securities,6259570
+1326,Real Estate,5731534
+1326,Vehicles,3326155
+1326,Shares and Securities,1978360
+1327,Precious Metals,9403499
+1327,Vehicles,3542282
+1327,Shares and Securities,5315877
+1327,Real Estate,7607123
+1328,Shares and Securities,4813571
+1328,Precious Metals,1395975
+1328,Vehicles,4028861
+1329,Precious Metals,9396615
+1329,Vehicles,2184774
+1329,Real Estate,9410184
+1329,Shares and Securities,6534512
+1330,Deposits with ABL,2993627
+1330,Precious Metals,2866690
+1330,Vehicles,2274752
+1330,Real Estate,3574500
+1330,Shares and Securities,5725210
+1331,Shares and Securities,2080546
+1331,Real Estate,2547089
+1331,Vehicles,6209801
+1332,Vehicles,8640408
+1332,Shares and Securities,1241675
+1332,Precious Metals,2260537
+1332,Real Estate,2383557
+1333,Precious Metals,3589269
+1333,Real Estate,1956741
+1333,Vehicles,9056863
+1333,Shares and Securities,7615637
+1334,Precious Metals,5218270
+1334,Real Estate,544321
+1334,Shares and Securities,564807
+1334,Vehicles,8102863
+1334,Deposits with ABL,9230339
+1335,Precious Metals,3097431
+1335,Shares and Securities,2677893
+1335,Vehicles,4403411
+1336,Vehicles,4433812
+1336,Real Estate,2879624
+1336,Deposits with ABL,4793735
+1337,Precious Metals,3731494
+1337,Vehicles,4748997
+1337,Real Estate,7152736
+1337,Deposits with ABL,7833502
+1338,Precious Metals,7120470
+1338,Real Estate,1930595
+1338,Vehicles,1908484
+1339,Shares and Securities,4550299
+1339,Real Estate,9879729
+1339,Precious Metals,7404785
+1339,Vehicles,2516286
+1339,Deposits with ABL,5327584
+1340,Real Estate,7130353
+1340,Vehicles,4745058
+1340,Precious Metals,9076908
+1341,Precious Metals,4098348
+1341,Vehicles,6623247
+1341,Shares and Securities,9138674
+1342,Shares and Securities,5464725
+1342,Precious Metals,2365376
+1342,Vehicles,1238076
+1342,Deposits with ABL,6502780
+1342,Real Estate,8638611
+1343,Precious Metals,3989568
+1343,Vehicles,1391990
+1343,Real Estate,6850803
+1343,Shares and Securities,3881636
+1343,Deposits with ABL,9527488
+1344,Precious Metals,8689598
+1344,Vehicles,1975316
+1344,Real Estate,7933282
+1345,Precious Metals,6378632
+1345,Shares and Securities,7986014
+1345,Real Estate,5812495
+1346,Shares and Securities,1420017
+1346,Deposits with ABL,6102878
+1346,Vehicles,3959079
+1347,Precious Metals,3000966
+1347,Real Estate,6180424
+1347,Vehicles,2692935
+1348,Shares and Securities,6324735
+1348,Vehicles,9714665
+1348,Precious Metals,9459094
+1348,Real Estate,7212951
+1348,Deposits with ABL,7915091
+1349,Vehicles,5061592
+1349,Precious Metals,9238377
+1349,Real Estate,6897839
+1349,Shares and Securities,2881792
+1349,Deposits with ABL,8325830
+1350,Precious Metals,6793762
+1350,Real Estate,6109731
+1350,Vehicles,2105249
+1350,Deposits with ABL,2856112
+1350,Shares and Securities,537461
+1351,Shares and Securities,687542
+1351,Real Estate,5381874
+1351,Precious Metals,7526526
+1351,Vehicles,9436404
+1351,Deposits with ABL,5051991
+1352,Vehicles,5121672
+1352,Real Estate,4708863
+1352,Precious Metals,4260951
+1352,Shares and Securities,5801922
+1353,Vehicles,1713282
+1353,Precious Metals,7985706
+1353,Real Estate,8691927
+1353,Shares and Securities,4001881
+1354,Deposits with ABL,9891464
+1354,Shares and Securities,7052023
+1354,Vehicles,8286763
+1354,Real Estate,6741922
+1355,Shares and Securities,1769629
+1355,Vehicles,8133762
+1355,Precious Metals,2756502
+1355,Real Estate,4872403
+1356,Vehicles,7838172
+1356,Shares and Securities,5480610
+1356,Deposits with ABL,6068337
+1357,Vehicles,4864859
+1357,Precious Metals,8303492
+1357,Real Estate,2575334
+1357,Shares and Securities,3940616
+1358,Vehicles,5252667
+1358,Shares and Securities,1603056
+1358,Precious Metals,2964185
+1358,Real Estate,701833
+1358,Deposits with ABL,6224572
+1359,Real Estate,8152317
+1359,Precious Metals,6125915
+1359,Shares and Securities,8921551
+1359,Vehicles,8936906
+1360,Precious Metals,892110
+1360,Vehicles,8132495
+1360,Real Estate,7131887
+1360,Shares and Securities,7878545
+1361,Precious Metals,9248336
+1361,Vehicles,3846765
+1361,Real Estate,694735
+1362,Vehicles,3569242
+1362,Precious Metals,8644839
+1362,Real Estate,5541025
+1362,Shares and Securities,8636525
+1362,Deposits with ABL,4767925
+1363,Precious Metals,5790238
+1363,Shares and Securities,6804992
+1363,Vehicles,8027139
+1363,Real Estate,9697143
+1363,Deposits with ABL,8004025
+1364,Precious Metals,3901340
+1364,Vehicles,5679602
+1364,Real Estate,4367018
+1364,Deposits with ABL,8734933
+1364,Shares and Securities,3372950
+1365,Precious Metals,9334100
+1365,Deposits with ABL,5854027
+1365,Vehicles,653858
+1366,Precious Metals,7664102
+1366,Vehicles,3102835
+1366,Real Estate,5597962
+1366,Deposits with ABL,1406296
+1367,Vehicles,3160318
+1367,Real Estate,6412362
+1367,Precious Metals,9094876
+1367,Deposits with ABL,8923753
+1368,Precious Metals,2253299
+1368,Vehicles,2027776
+1368,Real Estate,1220616
+1369,Real Estate,1178449
+1369,Precious Metals,9744157
+1369,Vehicles,8530062
+1369,Deposits with ABL,3514602
+1370,Vehicles,9002107
+1370,Precious Metals,749337
+1370,Deposits with ABL,3300515
+1371,Precious Metals,6344124
+1371,Deposits with ABL,7827843
+1371,Real Estate,3372691
+1371,Vehicles,8276792
+1371,Shares and Securities,664222
+1372,Precious Metals,8641028
+1372,Shares and Securities,6463011
+1372,Vehicles,783360
+1373,Vehicles,3713504
+1373,Shares and Securities,9798724
+1373,Real Estate,8112812
+1373,Precious Metals,7744069
+1373,Deposits with ABL,7842433
+1374,Precious Metals,1488511
+1374,Vehicles,6386650
+1374,Shares and Securities,3999559
+1374,Real Estate,2541436
+1374,Deposits with ABL,626725
+1375,Shares and Securities,9422504
+1375,Vehicles,2926166
+1375,Deposits with ABL,7599740
+1375,Precious Metals,2451001
+1375,Real Estate,8651887
+1376,Precious Metals,8671634
+1376,Real Estate,2920555
+1376,Shares and Securities,5047373
+1376,Vehicles,2395320
+1377,Precious Metals,6279531
+1377,Real Estate,4030180
+1377,Deposits with ABL,5441734
+1377,Vehicles,7362726
+1378,Shares and Securities,9099303
+1378,Precious Metals,5786224
+1378,Real Estate,1053113
+1378,Vehicles,7180896
+1378,Deposits with ABL,2768763
+1379,Deposits with ABL,8184657
+1379,Precious Metals,4313005
+1379,Shares and Securities,6798837
+1380,Precious Metals,9616332
+1380,Vehicles,9445032
+1380,Deposits with ABL,3521092
+1380,Real Estate,4570471
+1380,Shares and Securities,6431256
+1381,Precious Metals,4251879
+1381,Real Estate,1698291
+1381,Vehicles,4456808
+1381,Shares and Securities,5682677
+1381,Deposits with ABL,4856874
+1382,Precious Metals,9314979
+1382,Vehicles,5628433
+1382,Deposits with ABL,8324451
+1383,Vehicles,4125685
+1383,Precious Metals,1775659
+1383,Shares and Securities,2578236
+1383,Real Estate,4731750
+1383,Deposits with ABL,1580878
+1384,Deposits with ABL,7276088
+1384,Vehicles,6105625
+1384,Shares and Securities,3604862
+1384,Real Estate,8623389
+1384,Precious Metals,8979088
+1385,Vehicles,7990684
+1385,Shares and Securities,1864327
+1385,Real Estate,1305629
+1385,Deposits with ABL,8662322
+1385,Precious Metals,9968916
+1386,Real Estate,4593300
+1386,Precious Metals,3505405
+1386,Vehicles,6753739
+1386,Deposits with ABL,1837734
+1387,Shares and Securities,7514955
+1387,Precious Metals,1628069
+1387,Real Estate,7285600
+1387,Deposits with ABL,640562
+1388,Deposits with ABL,7172869
+1388,Vehicles,4733799
+1388,Shares and Securities,6901310
+1389,Vehicles,2760241
+1389,Deposits with ABL,2814570
+1389,Precious Metals,7383232
+1389,Real Estate,4802474
+1389,Shares and Securities,3802908
+1390,Real Estate,7707831
+1390,Vehicles,1834480
+1390,Precious Metals,5567014
+1391,Precious Metals,3432211
+1391,Shares and Securities,5225585
+1391,Vehicles,4620453
+1391,Real Estate,6247182
+1391,Deposits with ABL,9162572
+1392,Precious Metals,6207259
+1392,Vehicles,5773823
+1392,Real Estate,724427
+1393,Precious Metals,8355537
+1393,Vehicles,6578149
+1393,Real Estate,9809925
+1394,Vehicles,9568582
+1394,Real Estate,523649
+1394,Shares and Securities,8558274
+1395,Real Estate,1424414
+1395,Precious Metals,1267243
+1395,Vehicles,1926186
+1395,Deposits with ABL,3874234
+1396,Precious Metals,8559244
+1396,Real Estate,4968142
+1396,Shares and Securities,7479744
+1396,Vehicles,2803378
+1397,Vehicles,3320975
+1397,Precious Metals,8020751
+1397,Shares and Securities,2106777
+1398,Shares and Securities,2112015
+1398,Vehicles,5517907
+1398,Precious Metals,7140508
+1398,Deposits with ABL,3208733
+1399,Vehicles,1442225
+1399,Precious Metals,1127246
+1399,Real Estate,8561488
+1399,Shares and Securities,3076866
+1400,Shares and Securities,6657435
+1400,Vehicles,8584165
+1400,Precious Metals,8135646
+1401,Vehicles,6857325
+1401,Precious Metals,8042634
+1401,Real Estate,3320962
+1401,Deposits with ABL,1137303
+1402,Vehicles,4244555
+1402,Precious Metals,1128972
+1402,Real Estate,5436739
+1402,Shares and Securities,9498039
+1403,Precious Metals,3839220
+1403,Shares and Securities,5946816
+1403,Real Estate,8487663
+1403,Deposits with ABL,9389973
+1404,Vehicles,1499156
+1404,Precious Metals,6831312
+1404,Deposits with ABL,1480203
+1404,Shares and Securities,2322371
+1404,Real Estate,7691257
+1405,Vehicles,1601518
+1405,Real Estate,1142542
+1405,Precious Metals,9401069
+1405,Shares and Securities,7479487
+1405,Deposits with ABL,2766370
+1406,Real Estate,4134601
+1406,Precious Metals,8850345
+1406,Deposits with ABL,7451337
+1406,Vehicles,5471287
+1407,Vehicles,6211173
+1407,Shares and Securities,3094764
+1407,Real Estate,5327261
+1408,Vehicles,9096326
+1408,Deposits with ABL,4659932
+1408,Real Estate,1466903
+1408,Precious Metals,3975271
+1408,Shares and Securities,1874068
+1409,Precious Metals,3221301
+1409,Vehicles,5885118
+1409,Real Estate,6861272
+1409,Deposits with ABL,791789
+1410,Real Estate,2426553
+1410,Shares and Securities,5698822
+1410,Precious Metals,6709375
+1410,Vehicles,4311953
+1411,Real Estate,2331827
+1411,Vehicles,8872031
+1411,Shares and Securities,7785157
+1411,Precious Metals,7508225
+1412,Vehicles,8070098
+1412,Precious Metals,8928259
+1412,Real Estate,8760357
+1412,Deposits with ABL,1255415
+1413,Precious Metals,8249339
+1413,Vehicles,1698811
+1413,Shares and Securities,8779210
+1413,Real Estate,4441213
+1413,Deposits with ABL,8104538
+1414,Precious Metals,2282705
+1414,Vehicles,4116897
+1414,Deposits with ABL,9284338
+1414,Shares and Securities,6776685
+1415,Vehicles,594118
+1415,Precious Metals,7991291
+1415,Real Estate,6133108
+1415,Shares and Securities,7192868
+1416,Shares and Securities,5993161
+1416,Vehicles,8959023
+1416,Precious Metals,5530998
+1417,Shares and Securities,7231769
+1417,Real Estate,8069342
+1417,Vehicles,6468467
+1418,Vehicles,7159952
+1418,Real Estate,3048513
+1418,Precious Metals,4492354
+1418,Shares and Securities,7719381
+1419,Real Estate,7615950
+1419,Precious Metals,5876272
+1419,Vehicles,8267190
+1420,Vehicles,5151822
+1420,Precious Metals,8000328
+1420,Real Estate,595043
+1420,Shares and Securities,1508080
+1420,Deposits with ABL,7232564
+1421,Vehicles,8701891
+1421,Precious Metals,6132354
+1421,Real Estate,4127004
+1421,Shares and Securities,3041595
+1422,Precious Metals,9238664
+1422,Vehicles,1458201
+1422,Deposits with ABL,2668599
+1423,Precious Metals,2200516
+1423,Real Estate,1492786
+1423,Vehicles,6421752
+1423,Shares and Securities,2797753
+1424,Precious Metals,6897988
+1424,Vehicles,1738028
+1424,Deposits with ABL,9184189
+1425,Real Estate,9366372
+1425,Vehicles,8862119
+1425,Precious Metals,8347555
+1426,Deposits with ABL,6857993
+1426,Vehicles,5900732
+1426,Precious Metals,3987290
+1426,Real Estate,6248347
+1427,Precious Metals,6658131
+1427,Shares and Securities,5393540
+1427,Vehicles,9335034
+1427,Real Estate,9187470
+1427,Deposits with ABL,6854199
+1428,Vehicles,2640344
+1428,Shares and Securities,8009178
+1428,Real Estate,8291624
+1429,Vehicles,7429090
+1429,Real Estate,3086469
+1429,Precious Metals,6362041
+1430,Precious Metals,1363945
+1430,Vehicles,7539238
+1430,Shares and Securities,1491626
+1431,Real Estate,732641
+1431,Precious Metals,1855167
+1431,Deposits with ABL,4858273
+1432,Precious Metals,5705988
+1432,Real Estate,8752973
+1432,Deposits with ABL,9258211
+1433,Shares and Securities,9681699
+1433,Vehicles,2062281
+1433,Precious Metals,6612177
+1434,Precious Metals,2471601
+1434,Shares and Securities,853109
+1434,Real Estate,2562794
+1434,Vehicles,3921179
+1434,Deposits with ABL,5454971
+1435,Precious Metals,5708392
+1435,Real Estate,4935188
+1435,Vehicles,6968553
+1435,Shares and Securities,4871475
+1435,Deposits with ABL,7479326
+1436,Vehicles,2050717
+1436,Real Estate,8409847
+1436,Precious Metals,2112621
+1436,Shares and Securities,4065642
+1437,Precious Metals,513378
+1437,Real Estate,8655905
+1437,Shares and Securities,6515245
+1438,Vehicles,4350943
+1438,Shares and Securities,742609
+1438,Deposits with ABL,996938
+1439,Vehicles,7382319
+1439,Precious Metals,9939532
+1439,Deposits with ABL,8053396
+1439,Real Estate,8087493
+1440,Vehicles,8891813
+1440,Shares and Securities,525794
+1440,Precious Metals,2776165
+1441,Deposits with ABL,7819969
+1441,Vehicles,3067217
+1441,Shares and Securities,7895858
+1441,Precious Metals,3560867
+1441,Real Estate,680151
+1442,Vehicles,1083258
+1442,Deposits with ABL,1428208
+1442,Shares and Securities,6059888
+1443,Shares and Securities,5084909
+1443,Vehicles,6901923
+1443,Precious Metals,8694208
+1443,Real Estate,4115900
+1444,Precious Metals,9454131
+1444,Vehicles,9872792
+1444,Deposits with ABL,927478
+1445,Vehicles,1742376
+1445,Shares and Securities,8073269
+1445,Precious Metals,8579793
+1445,Real Estate,2988514
+1445,Deposits with ABL,4320150
+1446,Vehicles,501605
+1446,Deposits with ABL,4033284
+1446,Precious Metals,632995
+1446,Real Estate,5020944
+1447,Precious Metals,5768700
+1447,Shares and Securities,5870309
+1447,Deposits with ABL,1397648
+1447,Vehicles,8766866
+1448,Vehicles,7474515
+1448,Real Estate,4279169
+1448,Precious Metals,570805
+1448,Shares and Securities,9949850
+1449,Precious Metals,5912883
+1449,Vehicles,3800067
+1449,Shares and Securities,6790303
+1449,Deposits with ABL,1801192
+1449,Real Estate,9867658
+1450,Vehicles,5350768
+1450,Precious Metals,1645491
+1450,Real Estate,9939617
+1450,Shares and Securities,2886204
+1451,Precious Metals,4057313
+1451,Vehicles,9901436
+1451,Real Estate,2035817
+1452,Precious Metals,707091
+1452,Shares and Securities,1288502
+1452,Vehicles,4046004
+1453,Shares and Securities,9306455
+1453,Vehicles,1158548
+1453,Real Estate,3334627
+1454,Shares and Securities,4649960
+1454,Real Estate,1448603
+1454,Vehicles,1617315
+1454,Precious Metals,3929964
+1455,Precious Metals,3060971
+1455,Vehicles,4367491
+1455,Shares and Securities,671181
+1455,Real Estate,9436005
+1455,Deposits with ABL,2287682
+1456,Vehicles,5348306
+1456,Real Estate,5213611
+1456,Precious Metals,5404346
+1457,Vehicles,6767031
+1457,Shares and Securities,5297297
+1457,Real Estate,2361683
+1458,Vehicles,9305837
+1458,Precious Metals,1760616
+1458,Real Estate,8340310
+1458,Shares and Securities,6538354
+1458,Deposits with ABL,2540512
+1459,Vehicles,8900944
+1459,Precious Metals,1195391
+1459,Real Estate,7377703
+1460,Precious Metals,8132845
+1460,Real Estate,1362395
+1460,Vehicles,4320587
+1460,Shares and Securities,760124
+1461,Vehicles,2498464
+1461,Precious Metals,2515784
+1461,Shares and Securities,1826690
+1461,Deposits with ABL,4773635
+1462,Vehicles,1447977
+1462,Precious Metals,2419844
+1462,Shares and Securities,9568812
+1462,Real Estate,7558388
+1462,Deposits with ABL,7822357
+1463,Precious Metals,2841682
+1463,Shares and Securities,1692248
+1463,Real Estate,597102
+1463,Vehicles,1963733
+1464,Precious Metals,9322580
+1464,Real Estate,9697682
+1464,Vehicles,8032763
+1464,Deposits with ABL,5767064
+1465,Deposits with ABL,5958523
+1465,Vehicles,3210620
+1465,Shares and Securities,4456587
+1466,Vehicles,7885810
+1466,Shares and Securities,1623244
+1466,Precious Metals,1916090
+1466,Real Estate,1362936
+1467,Deposits with ABL,4641755
+1467,Real Estate,1596254
+1467,Vehicles,5045269
+1468,Precious Metals,6693164
+1468,Shares and Securities,9345563
+1468,Vehicles,1812007
+1468,Real Estate,1298113
+1469,Real Estate,3087541
+1469,Vehicles,7174973
+1469,Shares and Securities,3098097
+1469,Precious Metals,3830956
+1470,Shares and Securities,1885301
+1470,Deposits with ABL,3277003
+1470,Vehicles,705496
+1471,Real Estate,3652221
+1471,Precious Metals,8660197
+1471,Vehicles,7801917
+1471,Deposits with ABL,9384770
+1472,Real Estate,2138300
+1472,Vehicles,2662371
+1472,Precious Metals,3268255
+1472,Shares and Securities,4348473
+1473,Vehicles,9543888
+1473,Precious Metals,7907644
+1473,Shares and Securities,8107457
+1474,Precious Metals,8432123
+1474,Vehicles,8051108
+1474,Real Estate,8670790
+1475,Vehicles,8628243
+1475,Precious Metals,4424255
+1475,Shares and Securities,6803386
+1476,Precious Metals,6880214
+1476,Real Estate,1815450
+1476,Vehicles,6218222
+1477,Vehicles,9084528
+1477,Precious Metals,4259944
+1477,Real Estate,940387
+1477,Deposits with ABL,4549609
+1478,Shares and Securities,5309439
+1478,Precious Metals,6384365
+1478,Vehicles,1849282
+1478,Deposits with ABL,9672619
+1479,Precious Metals,4629162
+1479,Shares and Securities,1844558
+1479,Real Estate,2179614
+1480,Shares and Securities,3329446
+1480,Precious Metals,1377012
+1480,Real Estate,8082711
+1480,Vehicles,2153260
+1480,Deposits with ABL,4250326
+1481,Deposits with ABL,3900432
+1481,Precious Metals,6019698
+1481,Vehicles,2807061
+1481,Real Estate,5945928
+1482,Vehicles,9035677
+1482,Deposits with ABL,4641912
+1482,Real Estate,3168062
+1483,Vehicles,7558468
+1483,Real Estate,6516056
+1483,Shares and Securities,3201322
+1484,Vehicles,2224735
+1484,Deposits with ABL,4793256
+1484,Precious Metals,4807716
+1485,Vehicles,7800382
+1485,Real Estate,9816871
+1485,Shares and Securities,9474899
+1485,Precious Metals,1130238
+1486,Precious Metals,1596682
+1486,Vehicles,2427617
+1486,Deposits with ABL,4315878
+1487,Vehicles,841184
+1487,Precious Metals,5783126
+1487,Shares and Securities,6012053
+1487,Real Estate,988434
+1488,Precious Metals,6232134
+1488,Vehicles,5930902
+1488,Real Estate,7504769
+1489,Real Estate,749192
+1489,Precious Metals,7545132
+1489,Vehicles,8762253
+1489,Shares and Securities,5348643
+1490,Real Estate,4360671
+1490,Deposits with ABL,5916349
+1490,Shares and Securities,3505797
+1491,Vehicles,8874056
+1491,Real Estate,7090985
+1491,Deposits with ABL,8537186
+1491,Precious Metals,5546547
+1492,Vehicles,4152668
+1492,Precious Metals,6113925
+1492,Real Estate,1962554
+1492,Shares and Securities,4390267
+1493,Real Estate,4251630
+1493,Precious Metals,7093836
+1493,Vehicles,9655594
+1493,Shares and Securities,3974259
+1493,Deposits with ABL,1275038
+1494,Precious Metals,912371
+1494,Vehicles,3933513
+1494,Real Estate,2537555
+1495,Precious Metals,6716095
+1495,Vehicles,9883578
+1495,Deposits with ABL,5593697
+1495,Real Estate,2989834
+1496,Real Estate,9201006
+1496,Precious Metals,6432121
+1496,Shares and Securities,7550397
+1496,Vehicles,873598
+1497,Precious Metals,4307250
+1497,Shares and Securities,895471
+1497,Real Estate,4833370
+1498,Precious Metals,3968129
+1498,Vehicles,4928425
+1498,Shares and Securities,9960247
+1498,Real Estate,9210815
+1498,Deposits with ABL,5558115
+1499,Real Estate,6677651
+1499,Deposits with ABL,3463344
+1499,Precious Metals,4877358
+1499,Vehicles,711838
+1500,Real Estate,3136278
+1500,Vehicles,5389226
+1500,Shares and Securities,1789851
