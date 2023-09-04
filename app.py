@@ -21,15 +21,15 @@ st.set_page_config(
 
     )
 
-with open('style.css') as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-    hide_streamlit_style = """
-            <style>
-            footer {visibility: hidden;}
-            MainMenu {visibility: hidden;}
-            </style>
-            """
-    st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+# with open('style.css') as f:
+#     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+#     hide_streamlit_style = """
+#             <style>
+#             footer {visibility: hidden;}
+#             MainMenu {visibility: hidden;}
+#             </style>
+#             """
+#     st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
 
 # def add_logo(logo_path, width, height):
@@ -43,12 +43,12 @@ with open('style.css') as f:
 
 st.title('LFD - Credit Scoring Application')
 
-data = pd.read_csv('data\cust_score.csv')
-data_trans = pd.read_csv('data\cust_trans.csv')
-data_col = pd.read_csv('data\cust_col.csv')
-data_traj = pd.read_csv('data/trajectory2.csv')
+data = pd.read_csv('cust_score.csv')
+data_trans = pd.read_csv('cust_trans.csv')
+data_col = pd.read_csv('cust_col.csv')
+data_traj = pd.read_csv('trajectory2.csv')
 
-cus_filter= pd.read_csv('data/customer_filter.csv')
+cus_filter= pd.read_csv('customer_filter.csv')
 data = data.merge(cus_filter, on='Customer_ID',  how='inner')
 data_col = data_col.merge(cus_filter, on='Customer_ID', how='inner')
 data_trans = data_trans.merge(cus_filter, on='Customer_ID', how='inner')
